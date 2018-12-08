@@ -1,0 +1,132 @@
+>sp|P14276|CB2E_SOLLC Chlorophyll a-b binding protein 3A, chloroplastic (Fragments) OS=Solanum lycopersicum OX=4081 GN=CAB3A PE=3 SV=1
+----MAASTMALSSSTFAGKTVKLA-PSSSEITGN-------------------------
+-------------------GRITMRKTAAKP-KPASSGSPWXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXSLVHAQSILAI--WACQVVLMGAVEGYR-----IAGGPL
+GEVVDPLYPGGSFDPLGLA---ED------------P--EAF------------------
+----------------------------------------------------------AE
+LKVKEIKNGRLAM-FSMFGFFVQAIVTGKGPLE--------------NLADHIADPVNN-
+-------------------------------------------NAWAFATNFVPGK----
+------------------------------------------------------------
+-
+>tr|D3B574|D3B574_POLPP SH3 domain-containing protein OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=PPL_03586 PE=4 SV=1
+-----------------------ML-------------YTWH------------------
+------------------------------QSNNTVVIT---------------------
+------------------------------------------------------------
+----------------------------FSTPA-------RISREDVIA-----ELS---
+-----------------------------------DG--VNFQAGVDGYVLHIDGVLSAA
+----------------------------------------------------------CK
+STVKVN----LKEDANQAILTLDKQSP--GKWSALLSEI-----------AETAVPRARV
+LFD--------YVGSGASEEEGELAPLYANELLQVVAKDESGW-WEGIKLQM-SGVFPSN
+FVDDFEHD-----------YQEQEDVE--------------ASSELTKFEESQQPINTGK
+I
+>sp|Q9P940|TPIS_CANAL Triosephosphate isomerase OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=TPI1 PE=1 SV=3
+----MARQFFVGGNFKANGTKQQIT--------------SIIDNLNK-------------
+-ADLPKDVEVVICPPALYLGLAVEQNK-----QPTVA-----------------------
+------------------------------------------------------------
+-----------------------------------------IGA----------------
+----QNVFDKSCGAFTGET----------CASQILDV-GASWTLTGHSERRTII------
+----------------------------------------------------------KE
+SDEFIAEKTKFAL-DTGVKVILCIGETLEERKGGVTLDV---CARQLDAVSKIVSDWSNI
+VVA---YEPVWAIGTGLAATPE-DAEETHKGIRAHLAKSIGAEQAEKTRILYGGSV----
+------------------NGKNAKDFKDKANVDGFLVGGASLKPEFVDIIKSRL------
+-
+>tr|C4LZV3|C4LZV3_ENTHI SNF7 family protein OS=Entamoeba histolytica OX=5759 GN=CL6EHI_194400 PE=2 SV=1
+-----------MSRLFHKKTPQEIV-------------REQKLNISKS------------
+IREITRESK----------RL----------EREEVRLTN--------------------
+------------------------------------------------------------
+---------------------------EIRKMA-------RLGRTNTVK-----VMAADL
+VKTKKQI---------------DKLQ---VVIAQLNS--TKMKLTEMSSMVAVTEAMNGV
+----------------------------------------------------------TN
+AMRKVNEATKLPA-MQKVMNDFEKQNAELGIKNTMVSDMVNEGYEGDDIEEETELEVDKV
+LTE--------I---GLDVENG-LKPVPETRQRNTRLKERRQ-------VQMEGGVKTRN
+EGNEQPEDLDTPGSRVPKAFNEGEDDED----------EDDIVSRIANL-----------
+-
+>tr|Q18543|Q18543_CAEEL SCP-Like extracellular protein OS=Caenorhabditis elegans OX=6239 GN=scl-5 PE=3 SV=1
+----MHTSILLLTALC-AGAYAQFS-ANGQAAILNV------HNTLR-------------
+-SRIAK-------------GTYVAKGTA----KPAAS-----------------------
+------------------------------------------------------------
+---------------------------DMLKMK-WDATV--AASAQAYA------NKCPT
+GHS----------GAAGLG---ENLYWYWTSATITNI--DQFGATGSAAWE---------
+------------------------------------------------------------
+---KEFQDYGWSS-NTLSMSLFN---TGIGH------------------ATQMAWAKTNL
+IGC----------------------------GVKNCGKDTNGFNKVTVVCQYKPQGNYLN
+Q-----------------NIYTSGTTCSKCP-------SGTSCEAATGLCA---------
+-
+>sp|Q54P63|CHMP3_DICDI Charged multivesicular body protein 3 OS=Dictyostelium discoideum OX=44689 GN=chmp3 PE=3 SV=1
+-----------MFSFLKKPTPEELV-------------KKWK------------------
+-RELRREDR----------GLDTQLRAIDMQEKKTVRM----------------------
+------------------------------------------------------------
+----------------------------IKERV-------KAGDQKSAK-----TLAKEI
+VNSRKAK---------------ERIY---TAKAQMNS--VSMQLQSNLAMTKVQGNLAKS
+----------------------------------------------------------TE
+IMKMMNDLIKLPE-LNKVMMAMGSEMTKAGIMEEMISDVFD--MQGEDLEEEAEMEVNKI
+MDE--------ILVSGPQVSSA---PL-ETHQQEEVVQEKQ-------------------
+-----------------------EDSE--------------LLDRLKALKS---------
+-
+>tr|A2DA38|A2DA38_TRIVA Golgi apparatus membrane protein TVP23 homolog OS=Trichomonas vaginalis OX=5722 GN=TVAG_476150 PE=3 SV=1
+MENDNEKKDLILEANKKSPAEESSS---------RVLFMHISLNLAAPIILLFLTFIPAF
+VRDLLALISL----------------------IPAIYFTH--------------------
+------------------------------------------------------------
+--------------------HTFS----------WE------------------LVGIKC
+IIDKNQQPSFPHFVYSSRSLP--------FVATLANS--NAFWLTLFISNVSFL------
+------------------------------------------------------------
+--------------FALVKSLIS--------------------YEYFRILVLLAMEAANA
+LSL-----QLLIICHGRTKTES---------------------DAVARNLLLDPHVEFQS
+VVXXXXXXXXXXXXXX--XXXXXXXXXXXXXXXXXXXXRWKACS----------------
+-
+>tr|A8BCB6|A8BCB6_GIAIC Nucleolar protein family A, member 2 OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_13926 PE=4 SV=1
+---MPMIALVNLFSFCTSHFKIALA--------------AMSHSVTS-------------
+-SEMK-------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------------------SSVSVTFPMAEEKV-------
+----------------------------------------------------------EH
+KASKLIVRAREAK-TLARGTKEVAKYIRRGRKG-----------------ICIIAADTHP
+IY--------VFAHLPVLCEQN-GIPYFFIKSKKALAEAAGTTGTASVVLLQEPSK----
+---------------------DASDGEDRKTYKKIYQKAEDALKALKKHVEIH-------
+-
+>tr|Q8SSH9|Q8SSH9_ENCCU RAS-LIKE GTP-BINDING PROTEIN (RHO subfamily) OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=ECU02_0410 PE=4 SV=1
+-----------MAETATADVSKQLT-IIGSATCGKT-------SILT-------------
+-RHVKRT-----------FGTEI---------SPTVFNSV--------------------
+------------------------------------------------------------
+-------------------SNTYKHKDHVIELRLWDT----AGQDEYARFRHLALPSADY
+IMIVYAVDDRSSYAEVKNSLV------------------GQVREKAPQAKYFLVGAKTDL
+RED-------------------------------------------------------SA
+RLEELARNGDSPI-TTSEGLELSQSIGAMGYFE--------------------CSAKNNV
+----------------------------------GIDEIFEKISEYALRAQQKESMSF--
+--------------------------------------IGAMCASLWNCLSCRQIN----
+-
+>tr|G7PGD3|G7PGD3_MACFA Transcription factor MafB (Fragment) OS=Macaca fascicularis OX=9541 GN=EGM_02085 PE=4 SV=1
+----MAAE---LS----MGPELPTS-PLAMEYVNDF-------DLLK-------------
+-FDVKKE-------P---LGR------AERPGRPCTRLQP--------------------
+------------------------------------------------------------
+-----------------------------------------AGSV----------SSTPL
+STPCSSVPSSPSFSPTEQKTHLEDLYWMASNYQQMNP--EALNLTPEDAVEALIGSHPVP
+QXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXIRLK
+QKRRTLKNRGYAQ-SCRYKRVQQ-----KHHLE--------------NEKTQLIQQVEQL
+--------------------------------KQEVSRLARERDAYKVKCEKLANSGFRE
+----------------------AGSTSD--------------------------------
+-
+>sp|Q08907|FIT3_YEAST Facilitator of iron transport 3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=FIT3 PE=2 SV=1
+---MKFSSALVLSAVAATALAESIT-------------------TTI-------------
+-TATKN-------------GHV------------YT------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----KTVTQDATFVWGGE---------------------DSYASSTSAAESSA-------
+----------------------------------------------------------AE
+TSAAET--SAAAT-TSAAATTSAAETSSAAETSSADE------GSGSSITTTITATKNGH
+VYTKTVTQDATFVWTGEGSSNT-WSPSSTSTSSEAATSSASTT--ATTTAETSSSA----
+---------------------TSSSTAELSS----YTGAADAITAGTGLMGAALAAVMLL
+-
+>tr|Q7SAW7|Q7SAW7_NEUCR Anchored cell wall protein 3 OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=acw-3 PE=4 SV=1
+---MRSTTTLLQALFASSALAIQITNPKKNDVVDPSSGVEVKWSTVS-------------
+-TDPKS-------------AHLVLVNMASGH-TPYTK-----------------------
+------------------------------------------------------------
+---------------------------D-------------LGAVDL--------TKGSV
+IISEKDVPNDSDFQFNFQS---------------VDPLNQGILAQSEQFEVKN-------
+----------------------------------------------------------SD
+DDKKETTKSAAAT-TTAAATLVTASDSAAA-----------------------TAT----
+--------------SGAASSDE-ESSSSAAASMSGASTLATVTGSATVTASGTASA----
+---------------------THAPTA-----------AAGKVESGS-LLALAVGLVAVL
+A

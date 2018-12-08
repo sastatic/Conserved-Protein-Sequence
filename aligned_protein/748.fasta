@@ -1,0 +1,72 @@
+>tr|K4AT98|K4AT98_SOLLC Cysteine proteinase inhibitor OS=Solanum lycopersicum OX=4081 PE=3 SV=1
+MTRDLLDAKKYN----------------YSKMATLG------------------------
+----------------------------------GIRE-------------AGGSENSLE
+INDLARFAVDEHNKKQN------------ALLEFGKVVNVKEQVVAGTMYYITLEATE--
+-GGKKKAYEAKVWVKPWQNFKQVEDFKLIG--DAATA-----------------------
+------------------------------------------
+>tr|D3BE23|D3BE23_POLPP Actobindin OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=abnC PE=4 SV=1
+-----MS------------------------SQDLKDQL---------------------
+--------------------------------------------------KTGTTLKSTT
+TNDKSQPLIEKDVKIQKNNHDQLL-----------KEVSNPPSL-----------TPTTT
+ADRSNPVID-------------------------SSAHISANGRNALLNDIKNHATTTA-
+------------------------------------------
+>tr|A0A1D8PM81|A0A1D8PM81_CANAL MICOS complex subunit MIC10 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=orf19.3782.2 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------MSTEIKPQELVPSTASQNL
+LNDKWDVVLSNTLIK-----------TGLGFGGGVLASILFFKRRA------------FP
+-----------VWLGVGFGLGRGYAEGDAIFRSNHGLRTVKA
+>tr|C4LX40|C4LX40_ENTHI Cysteine protease inhibitor 1 (EhICP1) OS=Entamoeba histolytica OX=5759 GN=CL6EHI_159600 PE=4 SV=1
+-----MSLTEDN------------------NNTTIT------------------------
+-----------------------------------IAKGENKEIILHGNPTTGYSWVVDS
+CEGLSNTVEYV------------------ADQHAPGICGCGGKYHIKI-------TGTQT
+GEGKIVLVYRR--------------------------PWAPNANDRTFTLKVNVQ-----
+------------------------------------------
+>sp|O01829|SSP19_CAEEL Sperm-specific class P protein 19 OS=Caenorhabditis elegans OX=6239 GN=ssp-19 PE=1 SV=1
+-----MSLTAD-------------------PPA---------------------------
+----------------------------------------------CTVPAAGVSSTHKL
+VNGGAEKIVFK-IKSSNNNEYRIAPVFGFVDPSGSKDV----VI-----------TRTAG
+APKEDKLVVH-----------------------FASAPADATDAQAAFVAVAPAGTVTIP
+MSATA-------------------------------------
+>sp|Q54TW3|RL29_DICDI 60S ribosomal protein L29 OS=Dictyostelium discoideum OX=44689 GN=rpl29 PE=3 SV=1
+------------------------------------------------------------
+-----------------------------------MAK----------------SKNHST
+------------HHKNRKDH-----------RNGIKKAVVHKKTSSKGVEL--------G
+FARNQRYARIGTEIK-----------RYV---RGDMQEVKAHKNPR------------QP
+LKT-------IVAAAK-----AKLAAKKAAAKK---------
+>tr|A2ENF6|A2ENF6_TRIVA Roadblock/LC7 domain containing protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_202840 PE=4 SV=1
+------------------------------MSSEID------------------------
+----------------------------------GILK------------------NLAT
+IPGVTGWMV---LKMN----------------------GLPYKTSLREAESVHYAGLVSE
+FVKKAKTTLENSLL------------------PGAISQIRVRSHKNEI--------IIVP
+DND-------FILVAI----------QDAAIPA---------
+>tr|A8BIM3|A8BIM3_GIAIC CCAAT-binding transcription factor subunit A OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_7231 PE=4 SV=1
+----MTDERTTD---------------PFLPIANIG------------------------
+----------------------------------SIMK-------------ECLPANT--
+--KLTRGAKE-----------------------------LVQEAVTELICFVALQAQTYA
+VSHRRKTVNGNDIITALHDLGFVRFHAILH--KYYSSMLRKN------------------
+------------------------------------------
+>tr|I7IV33|I7IV33_ENCCU ECU01_1375 protein OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=ECU01_1375 PE=4 SV=1
+-----MDEKL--------------------------------------------------
+------------------------------------------------------------
+-----------------------------------KEMADASSF----------------
+AEKELESILGEITLQ---NEKLVDIQRKI---GITRAHLLKNSR-----LVGEMLRITKP
+KLAIGIIVLSIIFIAIIY--------VKLVFPS---------
+>tr|G7PPG6|G7PPG6_MACFA Hepatitis delta antigen-interacting protein A OS=Macaca fascicularis OX=9541 GN=EGM_05412 PE=4 SV=1
+-----MEAKAG-------------------GPEEVTDEEXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXPRGGPGGAGGS
+GAGPAPELA--------------------LPPCGPRDLGDGSSS-----------TGSVG
+SPDQLPL---------------------------ACSPDD--------------------
+------------------------------------------
+>sp|P47131|YJ55_YEAST TMEM14 protein homolog YJR085C OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YJR085C PE=1 SV=1
+-----MEHPAYTLSLLTTAGGLMGYYRKGSIPSLVS------------------------
+----------------------------------GLV--------------------FGS
+VYGIAGYL----LHMNR---------------DGGLEMALGASTLLLGAGVIR--GMPSR
+FTKPVPVVL--TAL------------------GGLGSYYYYNKYKE-----------FYP
+------------------------------------------
+>tr|A7UWA6|A7UWA6_NEUCR LYR family protein OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=NCU11258 PE=3 SV=2
+-----MSTR----------------------PAVLS------------------------
+------------------------------------------------------------
+-------LYRRSLKLS-------------LDWAVNRQLWRGQALYIRSLFE---KNRDVH
+DPRQLRVLLRET-------EKLLEHWKHP---DPFVPPLSPGGSKYERNLSAHVLDPPPP
+LRF---------------------------------------

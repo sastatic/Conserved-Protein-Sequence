@@ -1,0 +1,120 @@
+>sp|P14275|CB2C_SOLLC Chlorophyll a-b binding protein 1C, chloroplastic (Fragments) OS=Solanum lycopersicum OX=4081 GN=CAB1C PE=3 SV=1
+-------------------MAAATMALSSPSFAGQAVKLSPSASEISGN-GRIT---MRK
+AV----------------------------------------------------------
+--------------AKSAPSSSPWXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXSLVHAQS-------------ILAIWACQVV------------LMGAVE--------
+-----------GYRIAG-GPLGE---------------------------VVDPLYPGGS
+FDPLGLAEDP------------------------EAFAELKVKEIKNGRLAMFSMFG---
+------FFVQAIVTGKGPLENL--------------ADHLADPVNNNAWAFATNFVPGK-
+---------------------------
+>tr|D3BBW8|D3BBW8_POLPP Vacuolar protein sorting-associated protein OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=PPL_05988 PE=4 SV=1
+--------------------------MFESLVADILVKY------IGEYIKNLSS-----
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------------------E
+QLKVNVFSGNVVLRNL--EIKGEALQSFKLP---------LHVQKGIIGTLELKIPWTVF
+CAQV--KVDDWNQPQFG-RPQIHL--------------------------ETDNRYAQGG
+GQQESTDGQVGA-----------------------------------------------K
+DEGAVSVRGGVVLHRGESVSNH-------------------SEAVDNDW-----------
+-------RVRTGIKVS-QVPTEAAS--
+>sp|Q5ALX8|APT_CANAL Adenine phosphoribosyltransferase OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=APT1 PE=3 SV=1
+---------------------------MSDRVLEINALAKELKANLKQF-PNFPK--EGI
+LFEDFLPIFT--------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--KPDLFNK---------------LVKAFKLHVGEQKID-------YVIGLE--------
+-----------SRGFLF-GPTLALALNAGFVP----VRKPGKLPGPTFKVEFQKEYGSDE
+FE---IQQDV-------------------------IPKGAKVLIVDDILATGGSAFG---
+---AGELAKK---TGAEIVEYLFVMELDF----LKGRDKLDAPVYT--------LFGGQE
+EKFTE----------------------
+>tr|C4M937|C4M937_ENTHI Trafficking protein particle complex subunit OS=Entamoeba histolytica OX=5759 GN=CL6EHI_025820 PE=2 SV=1
+-------------------------------MISKSEKQKTGELVWNDM-KKINS---EL
+LTMTYGGI----------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--VLQLLKE--------NEFDG------------EKVNNELDEMGYNIGTRIVE----EY
+LAKVEGKM---STKCLSFKEHIE---SITYVA----FKMFLGINAECY--EVNEKQWKIS
+IPNNPLSECVELPEKLK------------------------------------------N
+KLWYSNIYCGIIRGSLEMLKYK--VECKFIGDILRGNSTTEIEVTLIDL-----LEQAKY
+VNYNE----------------------
+>tr|Q9XX02|Q9XX02_CAEEL Neuropeptide-Like Protein OS=Caenorhabditis elegans OX=6239 GN=nlp-21 PE=4 SV=1
+----------------------MRNSLFTTLFFGLAALVMVL---NAQYTSELEE-----
+------------------------------------------------------------
+--------------DEKRGGARAM------------------------------------
+------------------------------------------------------------
+----------------------------------------LHKRG---------------
+-----------GARAFS--------------------------------ADVGDDYKRGG
+ARAFYDEKRGGARAFLTEMKRGGARVFQGFEDEKRGGARAFMMDKRGGGRAFGDMMKR--
+--GGARAFVENSKRDEDWVIRPF------------EDDRLEKRGGGRSFPV-------KP
+GRLDD----------------------
+>sp|P13651|IF5A_DICDI Eukaryotic translation initiation factor 5A OS=Dictyostelium discoideum OX=44689 GN=eif5a PE=1 SV=2
+---------------------------------------------MSDN-EALD------
+-VEDY-------------------------------------------------------
+--------------AQAGSGA---------------------------------------
+------------------------------------------------------------
+--SLTFPIQCSALRK-----NGFVVIKGFPCKIVDMSTSKTGKHGHAKVNIT--------
+-----------AIDIFT-GKKYE---------------------------EICPSTHNID
+VPNVSRKEYT-------------------------------VMDVQDGYLSLLDAGG---
+-------------EVKEDLALP--------------EDDIGKEITQM-------LKEGKE
+P-LVSV-ISALGKEG---VVSVKVSNN
+>tr|A2EGY4|A2EGY4_TRIVA Acetyltransferase, GNAT family protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_497420 PE=4 SV=1
+---------------------------MPISIRRIK---------ITDL-PEMQQTNLSC
+LAENYGMWFWLYH-----------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--YLTFPASSHCAVNSQNHVLGYVLSKMNDEPYRKATNEGLHALMTSVAVYN--------
+-----------GYRKLG-LGR---------------------------------------
+-QLMILSQRSSHE---------------------CYKAEFVKLHVRETNRAGHQLYE--K
+TLGYARIAVEKGYYVDGEDAWS--MKYTF----PKSEKELAEEAAK------------KQ
+STLQK--KSRRGRK-------------
+>tr|A8BKK3|A8BKK3_GIAIC Coatomer zeta subunit OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_17345 PE=4 SV=1
+---------------------------MQRQLAGLA---------LTDV-----------
+------------------------------------------------------------
+------------------SGAAIYAQC---------------------------------
+------------------------------------------------------------
+--YDPLLAE------------GY-LSSFLPA---------LHAA--TLDSIS--------
+-----------TSSQLH------------YCPYPCIYRKLGGLFLFVIGAEAENEMLLCD
+IASTVVEALVGI-----------------------LGERLSLAACKEQYASICITLGE--
+-----------------------IVDNGF----YLSDNPAGPQVSERSF---------KQ
+T-LSDGARFLLGALMN-----------
+>tr|Q8SVT8|Q8SVT8_ENCCU Similarity to TRANSLOCATION PROTEIN SEC66 OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=ECU04_0940 PE=4 SV=1
+-------------MILLLAMILSTVILMFTFIKRINRKKAP----GDES-PNLE------
+-LEVYFL-----------------------------------------------------
+---------------QKSEGAS--------------------------------------
+------------------------------------------------------------
+--SSTLLKQ---------------LVKAAAC-FKERVMK-LEKDMEVLGTLY--------
+-----------EDRMIS-EEHWE---------------------------RVNEESKNCE
+VERICIESEANII---------------------KPGYGEEIFKDASRVSTIGPRKG--K
+GPGDGTLYQK----KKEVL----------------------------------------E
+---LEL-LRKLGVGG------------
+>tr|G7PPG6|G7PPG6_MACFA Hepatitis delta antigen-interacting protein A OS=Macaca fascicularis OX=9541 GN=EGM_05412 PE=4 SV=1
+----------------------------------MEAKAGGP-EEVTDE-EXXX------
+-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXPRGGPGGAGGSGAGP-------------------------------------
+------------------------------------------------------------
+APELALP----------------------PC-----------------------------
+------------------GPR---------------------------------------
+-------------------------------------------DLGDGSSSTGSVGS---
+-------------PDQLPLACS--------------PDD---------------------
+---------------------------
+>sp|P38801|LRP1_YEAST Exosome complex protein LRP1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=LRP1 PE=1 SV=1
+---------------------------ME-DIEKIKPYVRSFSKALDELKPEIEKLTSKS
+LDEQ--------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---LLLLSDERAKLELINR-YAYVLSSL------------MFANMKVLGVKD--------
+-----------MSPILGELKRVK---------------------------SYMDKAKQYD
+NRITKSNEKSQAE---------------------QEKAKNIISNVLDGNK---NQFE--P
+SISRSNFQGKHTKFENDELAES--TTTKI----IDSTDHIRKASSK------------KS
+KRLDKVGKKKGGKK-------------
+>tr|Q7SGL5|Q7SGL5_NEUCR Mitotic spindle biogenesis protein Spc19 OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=NCU08068 PE=4 SV=1
+MNYNYNYNPPPPSFSTLLPPLHSSLNLLSSSLSLLDSSTS-------DF-PRLSS--VLK
+TVRHYELI----------------------------------------------------
+--------------PQPTLQAA--------------------------------------
+------------------------------------------------------------
+--EASLRDE---------------IGPFIEL-LLERVDKELERKGRRVETLK--------
+-----------ARCELN-GGRLS---------------------------NYNREQKS--
+-----------------------------------GGAGGGIQKKGGGTKEAGSGSGGKK
+LNGEAALRAKVVRQRKEALKYS--------------VERLEMEVAQ------------KE
+---REL-RMRLEQQGGGPVL-------

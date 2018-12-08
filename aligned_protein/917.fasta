@@ -1,0 +1,84 @@
+>tr|K4B6F0|K4B6F0_SOLLC Nuclear cap-binding protein subunit 2 OS=Solanum lycopersicum OX=4081 PE=3 SV=1
+----------MASLFKDL--------AKISAY------------RDKRFPGTQ------E
+EFEDALLRSITVYVGNMSFYTTEEQVYELFSRAGEIKKIVMGLDKNSKT-PCGFCFIMYY
+SRDDAEDSVKYISG-------------TILDDRPIRVDFDWGFQEGRQWGRGRSGGQ---
+------------VRDEYRT---------DYDPAI--------RRGGYGKLVQKEL-----
+-----EAQRQLVDYGTGSLGAYPPVMPPPHYGRHNGGNHGRGGSYRHGRDYHRKRHR--E
+DDHHRPDYPKRTYERESRRNSDHESRPEKN---------PRFRESGDSDEEDDDDRKRRT
+>tr|D3BUN5|D3BUN5_POLPP Nuclear cap-binding protein subunit 2 OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=ncbp2 PE=3 SV=1
+--------------MSDLY------TIQQPLY------------FDKKSGFTL------E
+EFKLAIERSTTVYVGFLSFYTTEEQLYELFSKCGEIKKIIMGLDRIHKT-PCGFCFVEYY
+SKEDASDCIKYING-------------TKLDERLIRCDWDYGFKEGRQYGRGVSGGQ---
+------------VRDEYRT---------DYDPG----------RGGYGKQKLIEMETGSS
+-GGGEYASDQHV----------------------------------------GKRAR--D
+DDND--------------DENDEESRRYKNG-------RNRHRE---RDEPDEDN-----
+>tr|Q59VH0|Q59VH0_CANAL Nuclear cap-binding protein subunit 2 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=orf19.763 PE=3 SV=1
+MN---LIEDNFKNSAERL--------DKPSAYLIRKARHNY------------------G
+ELERAM-TSKTVYVGNLSHFTTEEQIHELFSKCGAIDRIIMGLDRNKLT-PCGFCFVIYR
+TEQGSLNAMKFLQS-------------TILDSQSISIDLDPGFREGRQFGRGKHGGQ---
+------------ASQEMAAA-------GGFDNGRNGGGYRGRGRGGF-------------
+-RGG-----------------------------FRGGHRGRGGGFRGG--FRGGRGGG--
+-------GGGGGF----GRGESSVYIPSKD---PTFDAPTTFNPLADMSQN---------
+>tr|C4M4C7|C4M4C7_ENTHI Nuclear cap-binding protein subunit 2 OS=Entamoeba histolytica OX=5759 GN=CL6EHI_156270 PE=3 SV=1
+--------------MSELYI-----TQPTLEY------------FDRESGFTP------E
+QMIQKISTSTTLYVGNVSHSMNDKRVYTLFGRFGNINRVIMGVNH-SNE-PCGFCFVEFN
+KRNDAALAMKALDR-------------TQVFGQYIRIDWDYGFVEGRQYGRGDGGEQKQT
+QRKRKFYNHSDNYRNERRFEFHEDTRRNDYDDTCDS-------RRRY-------------
+-----VDEDDQL--------------P----------------------SRRGDRRY---
+------------------------------------------------------------
+>sp|Q93594|NCBP2_CAEEL Nuclear cap-binding protein subunit 2 OS=Caenorhabditis elegans OX=6239 GN=ncbp-2 PE=3 SV=2
+---------MVFDPRTLDN------PKEISAY------------RDQRYQGTV------R
+DQETALRTSCTLYVGNLSYYTKEDQVYELFGRAGDVRRVIMGLDRFKKT-PCGFCFVEYY
+TREDAELALQNISN-------------TRMDDRVIRADWDAGFIEGRQYGRGKHGGQ---
+------------VRDEYRK---------DYDPE----------RGGYNRA----------
+-----IAQKG------------------------------------------GDRQ----
+------------------------------------------------------------
+>sp|Q54KR9|NCBP2_DICDI Nuclear cap-binding protein subunit 2 OS=Dictyostelium discoideum OX=44689 GN=ncbp2 PE=3 SV=1
+--------------MSELY------STPQPFY------------YDKKSGFTQ------D
+EFKHAIDKSSTIYVGYLSFYTTEEQLYELFSKCGEIKRIIMGLDRNQKT-PCGFCFVEYY
+SKEDAADCIKYING-------------SKLDERLIRCDWDYGFKEGRQYGRGLSGGQ---
+------------VRDEYRT---------DYDPG----------RGGYGKQRQFEMDQFSD
+VNGGDITYQQQILQLQQSQQQH------QLYQQANAGG---------PQNYSGKRNRGAD
+DDSDS-------FKRQ-RDNNGSISAGNTPN-------KGRFRE---RDEEDD-------
+>tr|A2EW15|A2EW15_TRIVA Nuclear cap-binding protein subunit 2 OS=Trichomonas vaginalis OX=5722 GN=TVAG_345370 PE=3 SV=1
+--------------MASLIALSEFGKVRHSEY------------VDHKSGIDD------M
+QLKILMSRSSTIYVGNLNFSTTEAAIYSVFSQFGPIKRIIRGVNKLTLT-PCGFCFVEFF
+DRASALATLGKSIK-------------IKIDGEIVRCDLDRGYEVGREFGRGASGNQ---
+------------VRDEHKF------------------------R-GVGRQ----------
+---------------------------------------------------NPKRQR---
+-----------------FNDRR--------------------------------------
+>tr|A8BES2|A8BES2_GIAIC ARF2 OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_7562 PE=3 SV=1
+MGAA---------------------SSRPARH-----KTAKLLILGRQFSGKS------T
+LINYLKTNSFTVVNPTINFTAEKYNRYEVIDVGGSAEMMQLWSEHYSGTQTCLFVVDGTS
+PLDQARDLIKDILGHTDMRASRFAVVVTKIDQPGVSQKADY-------------------
+------------YRTTLQL---------DKDRVQEVFMFCG--LDGQGCDK---------
+-----IAQWLDV--------------P---------------------------------
+--------------KQ-----------------P--------------------------
+>tr|Q8SW46|Q8SW46_ENCCU Nuclear cap-binding protein subunit 2 OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=ECU03_0760 PE=3 SV=1
+-----------MVTLERYF------GGEPRGYFY----------REKTFVGTD------E
+EYLEAKRSSSTVFVSNISTSVREERIWELFLLCGPVRRVVMGLNRNTLR-FCGFCFVEFY
+STDSANVAVRYLNG-------------FRLEQSPLAIDKDYGFVDGRQYGRGVFGGR---
+------------VKTDRMYL--ED--RHQRDNNK---------RRKHGRHLR--------
+------------------------------------------------------------
+------------------------------------------------------------
+>tr|G7NYS5|G7NYS5_MACFA Nuclear cap-binding protein subunit 2 OS=Macaca fascicularis OX=9541 GN=EGM_11239 PE=3 SV=1
+-----MSGGLLKALRSDSY-------VELSQY------------RDQHWRGDN------E
+EQEKLLKKSCTLYVGNLSFYTTEEQIYELFSKSGDIKKIIMGLDKMKKT-ACGFCFVEYY
+SRADAENAMRYING-------------TRLDDRIIRTDWDAGFKEGRQYGRGRSGGQ---
+------------VRDEYRQ---------DYDAG----------RGGYGK-----------
+-----LAQNQ--------------------------------------------------
+------------------------------------------------------------
+>sp|Q08920|NCBP2_YEAST Nuclear cap-binding protein subunit 2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=CBC2 PE=1 SV=1
+MSLEEFDEVKYDHSTKRL--------DTPSRYLLR---------KARRNPNGL------Q
+ELRESM-KSSTIYVGNLSFYTSEEQIYELFSKCGTIKRIIMGLDRFKFT-PCGFCFIIYS
+CPDEALNALKYLSD-------------TKLDEKTITIDLDPGFEDGRQFGRGKSGGQ---
+------------VSDELRF---------DFDAS----------RGGFAIP----------
+-----FAERVGV--------------P---------------------------------
+--HSR------------FDNSSSQS--NTNNYIPPPDAMGTFRPGFDEEREDDNYVPQ--
+>tr|Q7RXL6|Q7RXL6_NEUCR Nuclear cap-binding protein subunit 2 OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=NCU00210 PE=3 SV=2
+-----MLNTRQRSTVERL--------DRPSAYFFNKNRRNRRHDRDHRDGENEDSNMHPE
+AFDDPLKDATTLYVGNLSFYTTEEQVYELFSKCGEIKRLVMGLDRLQKT-PCGFCFVEYY
+THQDALDCMKYIGG-------------TKLDERIIRTDLDPGFEEGRQYGRGKSGGQ---
+------------VRDEYRE---------DYDEG----------RGGLGRQIQ--------
+----------------------------------------------------AERMR--E
+HDHKR------------YDDNDEQY--------------GRLR-----------------

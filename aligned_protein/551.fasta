@@ -1,0 +1,108 @@
+>sp|P14275|CB2C_SOLLC Chlorophyll a-b binding protein 1C, chloroplastic (Fragments) OS=Solanum lycopersicum OX=4081 GN=CAB1C PE=3 SV=1
+MAAATMA--------------------------LSSPSFAGQAV----------------
+------------------------------------------------------------
+-KLSPSASEI---SGNGRITMRKAVAK-SAPSSSPWXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXSLVHAQSILAIWACQVVLM---------------------GAVE
+-----GY----RIAGGPLG--EVVDPLYPGGSFD-PLGLAEDPEAFAELKVKEIKN-GRL
+AMFSMFGFF-------------------VQAIVT--------------------------
+----------GKGPLENLADHLADPVNNNAWAFATN--FVPGK------
+>tr|D3BMW8|D3BMW8_POLPP Amidase OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=PPL_12541 PE=4 SV=1
+--MKA-------------------------LIIIDMLNDFV--T----------------
+----------------------------GVLNNQAHASKII-----PNIKALLDYAR---
+-SQP--DW-IILFSNDAH-----------HDDDREMG-----------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-------VWGKHAMKDTDGAKVIPEL-----------------------EPI-IGEREYN
+VPKRFYGGF------DETEMGEICKKHGITEVYLTGQHTHCCVRHTAYGAFTRGYGINII
+EDGVCV--FDGVD--NAAAIEYLKTIYGSTITNSNS--------VIVKA
+>tr|A0A1D8PRE2|A0A1D8PRE2_CANAL Nicotinamidase OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=PNC1 PE=4 SV=1
+MKKTA-------------------------LIVVDLQEDFLPPN----------------
+----------------------------GSLAIK-NGRSVI-----PKINQLLPSQD---
+-NHSKFDWSLIVATQDWHPPNHTSFAS-QHENVAPFTEIE--------------------
+------------------------------------------------------------
+----------------------------------------------FIHPEKKLDPKTNQ
+PIVMNQIVWPDHCVQGTKGAQLEPSFANQFE----KLTKQDDNN----TAPCKIVKKGYL
+PDREYYSCFQDCWGLHHTELIDLLHEYDIENVVFVGLAYDFCVLSSAIDSAKNGFKTFVL
+KNYC-----ESVY--PEKINDTDKLFIDNGVTIVDNDEKFD---SLFK-
+>tr|B1N5U3|B1N5U3_ENTHI T-complex protein 1 subunit eta OS=Entamoeba histolytica OX=5759 GN=EHI_005760 PE=3 SV=1
+MSFST-----------------------------QTPTIVVLKE----------------
+----------------------------GTDLSQ-GKGQII-----NNINACLAIQDTLK
+PTLGPFGSDILIVSSNGKTT----------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------ISNDGATILKLLDIVHPAAKMLVDISRAQDA---------EVGD-GTT
+SVTILAGEL-------------------MKESKTF---------------IEDGISSHLI
+TKGLRKASELAVAKVKEVALEIKKERKSNSAIY----------------
+>sp|C0HLB3|VATL2_CAEEL V-type proton ATPase 16 kDa proteolipid subunit 2 OS=Caenorhabditis elegans OX=6239 GN=vha-2 PE=2 SV=1
+MSYDL-----------------------------ETAERAAYAPFFG-------------
+------------------------------------------------------------
+-YMGAASAQIFTVLGAAYGTAKSAVGICSMGVMRP-------------------------
+------------------------------------------------------------
+----------------ELIMKSVIPVIMAGIIGIY---------------------GLVV
+-----AMVLKGKVTSASAGYDLNKGFAHLAAGLTCGLCGLGAGYAIG-----IVGDAGVR
+GTAQQPRLF-------------------VGMILIL---------------I---FSEVLG
+LYGMIVALILGTS------------------------------------
+>tr|Q54BH7|Q54BH7_DICDI Nicotinamidase OS=Dictyostelium discoideum OX=44689 GN=pncA PE=4 SV=1
+--MSC-------------------------LLIIDVQNDFMK-D----------------
+----------------------------GSLEVE-NANDII-----KPINDIRNNC----
+------SFDLVALSKDWHPENHISFAS-TH-NKKPYDSI---------------------
+------------------------------------------------------------
+-----------------------------------------------------ITKSNNT
+-----QLLFPDHCIQNTKGSEINKDL----------IVKDKDI----------IINKGLD
+KEVDSFSSFYDNDKKSKTELHDILKKHSIVNVYICGLATDFCVLASCLDSVSCGFKTYFI
+EDCS-----KGVS--KNGTDQSLQKMKDNGIIFINSLDLIQNKNN----
+>tr|A2DHS6|A2DHS6_TRIVA Isochorismatase family protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_366320 PE=4 SV=1
+MQDTA-------------------------LVVIDLQNDFVEPT----------------
+----------------------------GSLSVK-GAMDII-----PKVNRIRS------
+------KFQNVLFTYDWHPKNHVSFVD-SHPGHKVYD-I---------------------
+------------------------------------------------------------
+-----------------------------------------------------VDAGSVK
+-----QMLFPAHCVQNSKGAELQKDL----------IKKDGDM----------VVYKGTN
+EKIDSYSCFFDVIKSSQTNADQLLRSKGIKTLYILGVATDFCVKFSALDAVKLGYKVYLI
+EDCI-----AGVQ--KESSIAALKEMKEQGITFVNS--------NIF--
+>tr|A8B9B0|A8B9B0_GIAIC Pyrazinamidase/nicotinamidase OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_6757 PE=4 SV=1
+--MAA-------------------------LLIIDMQIDFCK-G----------------
+----------------------------GALGIN-DGAEVI-----PFINQLRQSR----
+------HYDMVVITQDWHPPHHCSFAS-RY-NKQPFT-----------------------
+------------------------------------------------------------
+-------------------------------------------------------PYGDH
+-----DYLWPDHCVQDTPGAQLHPDL----------VVEKTDV----------RIRKGTK
+VDLDAYSCF------GGTKLAQFLREHHIKTCDIVGLAFDFCVRYSAIDARREGFEVRVF
+REGS-----RPVD--KDAVDIVIKELTELGVRVE---------------
+>tr|Q8SSC2|Q8SSC2_ENCCU 40S RIBOSOMAL PROTEIN S16 OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=ECU03_0310 PE=4 SV=1
+MSRSVKSVTTQGKKKRAVATCVCTQTGEFSIRINKVPFKLIT------------------
+----------------------------NTLMIA-KLKEIICIVEQANIKDLSFDITC--
+-KIGGDVSRVYAV--------RMAFAK---------------------------------
+------------------------------------------------------------
+-------------------------AILA----FYGT---------Y------FDEWKKQ
+--------------------EIQKRLLDFDRFSLVADSRKREPKKFG----------GPG
+ARARYQKSYR--------------------------------------------------
+-------------------------------------------------
+>tr|G7PPG6|G7PPG6_MACFA Hepatitis delta antigen-interacting protein A OS=Macaca fascicularis OX=9541 GN=EGM_05412 PE=4 SV=1
+MEAKA-----------------------------GGPEEVTDEEXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-XXXXXX-----XXXXXXXXXXXXXX
+PRGGPGGA----------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-------------GGSGAG---------PAPELALPPCGPRD-----------LGD-GSS
+STG---------------------------------------------------------
+----------SVGSPDQLPLACSPDD-----------------------
+>sp|P53184|PNC1_YEAST Nicotinamidase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=PNC1 PE=1 SV=1
+MK--T-------------------------LIVVDMQNDFISPL----------------
+----------------------------GSLTVP-KGEELI-----NPISDLMQDAD---
+-R----DWHRIVVTRDWHPSRHISFAK-NHKDKEPYSTYT--------------------
+------------------------------------------------------------
+----------------------------------------------Y-HSPRPGDDSTQE
+-----GILWPVHCVKNTWGSQLVDQIMDQV------VTKH-----------IKIVDKGFL
+TDREYYSAFHDIWNFHKTDMNKYLEKHHTDEVYIVGVALEYCVKATAISAAELGYKTTVL
+LDYT-----RPISDDPEVINKVKEELKAHNINVVDK-------------
+>tr|Q7SBV6|Q7SBV6_NEUCR Ribosomal protein L13 OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=NCU07852 PE=3 SV=1
+MSQTVGATRLAYSR---VWHHISAVTPHPTLSTIKAPSEAITPP----------------
+------------------------------------------------------------
+-SLGRLASRIATI---------------LMGKHKPIWDPSTDCGDY--------------
+------------------------------------------------------------
+-------------------------VVVTNCAGLYTTGHKKWRKTYYRHNTR---PGSLQ
+-----AITMDALMEKHGGA-----EVLRKAVSGMLPKNRLRDK-RLARLKA-FEGD----
+---------------------------------------------------AHPYKENLV
+RFGGKVV---GAPGWEEAVKAIREADMERL-------------------

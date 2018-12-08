@@ -1,0 +1,48 @@
+>tr|K4CB98|K4CB98_SOLLC Cytochrome c oxidase subunit OS=Solanum lycopersicum OX=4081 GN=101258567 PE=3 SV=1
+-------------------------MAEIELKTAPA-----DFRFPTTNQTRHCFTRYVE
+FHR------------------CVA--AKGDEAAD-----------------------CAR
+FAKYYRALCPGEWVD----------KWNEQRENGTFPGPL----------
+>tr|D3AYF0|D3AYF0_POLPP ATP synthase epsilon chain OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=atp5e PE=4 SV=1
+------------------------MAGQYWRFAG-----------LTYLEYINLSGSHLR
+-----------------------------NCLKEPFKAAAKNREQMFSTYTT------YQ
+NGKELSSITL-------------------------SMPDLAAPKK-----
+>sp|P0CT51|BLP1_CANAL Blood-induced peptide 1 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=BLP1 PE=1 SV=1
+MDFK-----------RKLSEVDADAAEDVKMDMG-----------ATIIPQRERATSVIE
+-DF-------------------L---HQEN--SE-LKKSLKNLE--------------ME
+NEKLKNILKTDYNVN--------------YIRK-----------------
+>tr|C4M939|C4M939_ENTHI LSM domain containing protein OS=Entamoeba histolytica OX=5759 GN=CL6EHI_025840 PE=4 SV=1
+-------------------------MSKYNRYTT-----------LSDL------GSYIE
+KEV-------------------I---VQFNDGKE-IEGILQNYDDRFNLFLTNAIQHINE
+NDKNTSLKTTRKLGE--------------VFCKGSSVLELTLKEGIVKIE
+>sp|Q20588|TMA7_CAEEL Translation machinery-associated protein 7 homolog OS=Caenorhabditis elegans OX=6239 GN=F49C12.11 PE=3 SV=1
+MSG----------------------------------------------RQGGKAKPLKA
+AKK-----------------------TEKDLSEE-DVEFKKKQ---------------QE
+EAKKIKE-MAAKAGQRGPLLGG------GIKKSGKK--------------
+>sp|Q5FXM5|ACBP_DICDI Acyl-CoA-binding protein OS=Dictyostelium discoideum OX=44689 GN=acbA PE=1 SV=1
+MTT---------------FEEAAQKVKEFTKKP----------------SNDELLSLYGL
+YKQGTDGDCNISEPWAVQ--------VEAKAKYN-AWNALKGTSK-------------ED
+AKAKYVALYEQLATKYA---------------------------------
+>tr|A2EGT7|A2EGT7_TRIVA HMG box family protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_302620 PE=4 SV=1
+MPKSPYIFFCQEKRPQVKEENPGIAFGDIAKKLGEM---------WKNLSEEEK-KPYME
+MAE-----------------------KDKEAHKN-DPKEEKKSKK-------------SK
+SKKSKKEESEKESDK----------------ESGSDE-------------
+>tr|A8BYA6|A8BYA6_GIAIC Ribosomal protein L36-1 OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_16114 PE=4 SV=1
+MPG------------KVFNLKKGGAVVRIVRK-----------------KEERKTKPHQE
+FVKSIIQECTGMAPYEMHIIELLRMNKDRHALRY-AKKRLGNIKR-------------AK
+AKRDQLSVYARNI-------------------------------------
+>tr|A0A1T5PD42|A0A1T5PD42_ENCCU ECU07_1645 protein OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=ECU07_1645 PE=4 SV=1
+-----------------------------MKREGENGEGK-----SKDLKDKRRKKTEEE
+IER-----------------------IRAHRIAE-RRLYMQRTKKN------------QP
+VTSNRISLLLKQIEK--------------LPKE-----------------
+>tr|G8F5B1|G8F5B1_MACFA Guanine nucleotide-binding protein subunit gamma OS=Macaca fascicularis OX=9541 GN=GNGT2 PE=3 SV=1
+----------------------------------------------------------MA
+QDL-----------------------SEKDLLKM-EVEQLKKEVKNTRI-------PISK
+AGKEIKEYVEAQAGN-DPFLKGIPEDKNPFKEKGGCLIS-----------
+>sp|Q3E772|LSO2_YEAST Protein LSO2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=LSO2 PE=2 SV=1
+MG-------------KRFSESAAKKAAGLARK-----------------RDQAHAKQRAQ
+MEQ---LEAEEASKWEQG--------SRKENAKK-LEEEQKRQEK-------------AR
+AKKERDALLTAEEEQ--------------LGKGGKGKRKMK---------
+>tr|V5IQJ6|V5IQJ6_NEUCR Acylphosphatase OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=NCU16374 PE=3 SV=1
+MGTR-----------RVYFLAHGRVQGVFYRKFTANRAQELNLTGWVRNRSDEKVEGEAQ
+GDET----------------------SVAQLIKD-LKKGPTHALV-------------SK
+LDVEDRELVDGESGF--------------QVRRG----------------

@@ -1,0 +1,108 @@
+>sp|P14275|CB2C_SOLLC Chlorophyll a-b binding protein 1C, chloroplastic (Fragments) OS=Solanum lycopersicum OX=4081 GN=CAB1C PE=3 SV=1
+-------------------------------------MAAAT------------------
+---MALSSP-------SFAGQAVKLSPSASEISGNGRITMR--KAVAKSAPSSSPWXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSLVHAQSILAI-------------
+---WACQ-----------------VVLMGA-----------------VEGYRIAGGPLGE
+VVDPLYPG-------GSFDPLGLAEDPEAFAELKVKEIKN---GRLAM------------
+----FSMFGFFVQAIVTGKGPLENLADHLADPVNNNAWAFATNFVPGK------------
+--------
+>tr|D3BN10|D3BN10_POLPP Protein YIPF OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=yipf6 PE=3 SV=1
+-----------------------------------------------------MDQQHQQ
+MSMNTLDEPVYVTILRDIKTVGFKLYHVIIPRGNAIAV--------LRDWDLWGPLLLC-
+------------------------------------------------------------
+--------------------------------------LLMAIMLS--------TSAPDN
+QK--ALV-----------FALVFVVVWVGA---------------------------GLV
+TLNAQVLG-GNLSLFQSVCVLGYCVFPLTIATFVIWIPTAFFSG-LHI-AIKLPIVLICL
+AWSIFASYGFLASSVPLSRKGLAT-------------YPVALFYIDRVILYSFETR----
+--------
+>sp|Q9B8D7|NU6M_CANAL NADH-ubiquinone oxidoreductase chain 6 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=NAD6 PE=3 SV=2
+-------------------------MSL---------ISGI-------------------
+---ASILAIGLLSPVQSILALILLFVTVAINLYTSGYVLM---GILYI---LVYVGAIA-
+------------------------------------------------------------
+--------------------------------------ILFLFILSL-------------
+---LNIEYKPTGGM--HPLVIVLILIPLIP---------------------------LDI
+AFEPIAIV-ESVSTTYNELS---------IVGTLFYSE----------------------
+-------------------------------------YAPMLVIIGIILIVSVIGAIAMT
+R-------
+>tr|C4LUX9|C4LUX9_ENTHI Protein YIPF OS=Entamoeba histolytica OX=5759 GN=CL6EHI_092140 PE=3 SV=1
+MSEFQEYPSQPSVQSG-------DSTSVKSDEPVE-------------------------
+---TTLDEPVLTTLWREIKQVGTKLFHVVVFCTKTEKV--------IKDWDLWGPMLVC-
+------------------------------------------------------------
+--------------------------------------YILSLLLSINIMIRKGNNGKDD
+QY-SSYI-----------FSIVFICFWLGS---------------------------IVI
+SLNTKFLG-GHLTIPQSICIVGYCVFPIFVGAITTTIATICWSP-LSI-YVGVPVMILCD
+IWSCMASFGFLQSAIKLTRRPLAV-------------FPIVLFFTMLSWLTLVVNITGFT
+SNKATSEA
+>tr|C6KRN3|C6KRN3_CAEEL Protein YIPF OS=Caenorhabditis elegans OX=6239 GN=CELE_W02D9.2 PE=1 SV=1
+MGGSESKLHVFATDSSKNIDKLEQEMAAEQTANLSGNIAGMSAPKSSSNRRGPMQEVDLD
+AEFDTLEEPVWDTVKRDVLTVGAKFTHVVLPHGDKQQL--------LRDWDLWGPLFIC-
+------------------------------------------------------------
+--------------------------------------VGLALLLQ--------HNG-GT
+ES--APQ-----------FTQVFTITFFGS---------------------------VIV
+TANIKLLG-GNISFFQSLCVIGYCLLPPFVAAVLCSLFLHG----IAF-PLRLLITSIGF
+VWSTYASMGFLAGCQPDKKRLLVI-------------YPVFLFYFVVSWMIISHS-----
+--------
+>sp|Q54RZ2|YIPF6_DICDI Protein YIPF6 homolog OS=Dictyostelium discoideum OX=44689 GN=yipf6 PE=3 SV=2
+--------------------------------------------------------MIES
+ENPNTLDEPVIQTILRDLKMIGFKLYHVILPRGNAANV--------LRDWDLWGPLILC-
+------------------------------------------------------------
+--------------------------------------LVMAIFLS--------ISA-EE
+QK--ALE-----------FTIVFVVVWCGA---------------------------AIV
+TVNGQLLC-GNISFFQSVCILGYCIFPLTIATIIIWIIQNF-----TM-IVKLPIVGGAW
+FWSSFASYGFLGSSVPESRRLLAV-------------YPVLLFYLVIAWLVVVQ------
+--------
+>tr|A2EVI8|A2EVI8_TRIVA EF hand family protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_173650 PE=4 SV=1
+-------------------------------------MSAV-------------------
+-------------------AKSLTEFFNRIDKDKSGALDFKEFSLLFQKLGFKGKLPLAA
+------------------------------------------------------------
+-------------------------------------SVCFYTIIGI----PQDKNISLE
+QF-LSIY----GDMPNTRFATI---------------HD---------------------
+---------HTIKKLFEACDLDHS-------------------GTISVNEISSIFSKLGQ
+RVSTGQAETYLRQFDKDKNGVLDVN-----------EFNLLMNKVFRDYSSQ--------
+--------
+>tr|A8BPU6|A8BPU6_GIAIC Vacuolar ATP synthase 16 kDa proteolipid subunit OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_15598 PE=3 SV=1
+-------------------------MTLE-------ALQEA-------------------
+---LELLSPYFFAEMGIYVVLGFSILGSAIGIFNTGATLV---TSTVAHPEIRSKNLLS-
+------------------------------------------------------------
+--------------------------------------ILFCEAIAL-------------
+---YGV------------IMSIIILTAIKEGAERSLTRDYVTKQEVLKAGYGYGAAGLSV
+GFSNFAAA-ITVGVLGSSVAVSHCGDSSLFVKLFISEI----------------------
+-------------------------------------FAEAIALIGLISGIVMTTSVGFD
+RGI-----
+>tr|Q8SW52|Q8SW52_ENCCU Protein YIP OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=ECU03_0590 PE=3 SV=1
+-MEFEEY-GEPYVDKF------------DLRSALLGRLPG--------------------
+------DGPLLEELGIDFGTI-KKESHLAFGVFQRKAVDF---S-FVKNADLSGPIVFVG
+------------------------------------------------------------
+-------------------------------------LYTLGLILN--------------
+---YKIH-----------FGYIYFISLLTT---------------------------LSI
+YFLLNVLGTKHIGFLECCSVLGYSFLPVVFFSFLNILM-----GRISV-ELRVFYGLAFA
+CWSSYAASVVFCRYLSLSNKHLVV------------GYPLLLGYTGFVMVILF-------
+--------
+>tr|G7Q2X4|G7Q2X4_MACFA Protein YIPF OS=Macaca fascicularis OX=9541 GN=YIPF6 PE=3 SV=1
+MAEAEESPGDPGTASPRPLFAGLSDISISQDIPVEGEIT------------IPMKSRIRE
+FDSSTLNESVRNTIMRDLKAVGKKFMHVLYPR-KSNTL--------LRDWDLWGPLILC-
+------------------------------------------------------------
+--------------------------------------VTLALMLQ--------RDSVDS
+EKDGGPQ-----------FAEVFVIVWFGA---------------------------VTI
+TLNSKLLG-GNISFFQSLCVLGYCILPLTVAMLICRLVLLADPGPVNF-MVRLFVVIVMF
+AWSIVASTAFLADSQPPNRRALAV-------------YPVFLFYFVISWMILTFTPQ---
+--------
+>sp|P25515|VATL1_YEAST V-type proton ATPase subunit c OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=VMA3 PE=1 SV=1
+-------------------------------------MTEL-------------------
+---CPVYAP-FFGAIGCASAIIFTSLGAAYGTAKSGVGIC---ATCVLRPDLLFKNIVP-
+------------------------------------------------------------
+--------------------------------------VIMAGIIAI-------------
+---YGL------------VVSVLVCYSLGQ-------------KQALYTGFIQLGAGLSV
+GLSGLAAG-FAIGIVGDAGVRGSSQQPRLFVGMILILI----------------------
+-------------------------------------FAEVLGLYGLIVALLLNSRATQD
+VVC-----
+>tr|Q7RV74|Q7RV74_NEUCR 40S ribosomal protein S12 OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=NCU06432 PE=3 SV=2
+MSDVEEN-TVPAS----------EEVEVSADAAPKGQMSVL-------------------
+---DALKGVLKISLMHDGLARGLREASKALDRREAH---------------------MC-
+------------------------------------------------------------
+-------------------------------------------VLN--------ESCEEE
+AY------------------KKLVIALCSE---------------------------HKI
+PLIKVPDG-KQLGEWAGLCVLDREGNARKVVNCSCVVVKN--------------------
+-WGEMSSE-----------------------------REILLNYFQTEQ-----------
+--------

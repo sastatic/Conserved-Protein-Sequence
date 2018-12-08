@@ -1,0 +1,72 @@
+>tr|K4C2S7|K4C2S7_SOLLC V-type proton ATPase subunit G OS=Solanum lycopersicum OX=4081 GN=101254490 PE=3 SV=1
+-----------------MESNRGNQNG-IQQLLG------AEQEAQHIVNAARSAKQ---
+-------ARLKQAKDEAEKEIAEF--------RAFMEAEFQRKLE---------------
+-----------------------------------------------------QTSGDSG
+AN--------VKRLDQETFAKIQHLKAES----------------------ESISNDVVQ
+ML----LRQVTTVKN-----------------------------------
+>tr|D3BBJ3|D3BBJ3_POLPP Cytochrome bd ubiquinol oxidase OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=uqcrb PE=4 SV=1
+---------------------MS----------------FVKFLPETVVK--RLQNS---
+-------WLEYRKIGLYYADLYNE--------TPVMKEA---------------------
+------------------------------------------------------------
+----------LNRLPPQVLVERDRRKAIAFDCNVKKIYLP--ENLWSDLEKDKIYTDQVE
+GV----MQQVEKEFEIRR----------QFRE------------------
+>tr|Q5A937|Q5A937_CANAL Mitochondrial 37S ribosomal protein RSM27 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=orf19.3297 PE=4 SV=1
+-------------------------MS------------VLKVLPS-KARLAEVRKTSFK
+IFDQFW---------NPNA------------------KRNPNKILRA-------------
+-----------------------------------------------------PLKGPEY
+VK---------YYGD------------------NNAVP---------------TFKDFKK
+WF--PQLKLVDPREAHRVFI-------------VADRKRRNKGAPKKKKQ
+>tr|C4LV00|C4LV00_ENTHI Macrophage migration inhibitory factor-like protein OS=Entamoeba histolytica OX=5759 GN=CL6EHI_092370 PE=1 SV=1
+-------------------------------------------MPHALI---TLSAD---
+-------ITEEIKKEIAHESMKIL--------SEVIGKPISYCATQVVTSV---------
+-----------------------------------------------------GGFGGKI
+VK--------SAFID------------------IKSISGL--KG------KQEGLSDRYC
+KL----LEQKAGIEGGNIY--------LNFTEMTGN----NWGYDHSTF-
+>tr|Q7YWS9|Q7YWS9_CAEEL Helix Loop Helix OS=Caenorhabditis elegans OX=6239 GN=hlh-32 PE=4 SV=1
+-----------------ME-KMSSDLTFAEPGV-------------------RLSIN---
+-------LRERCRMHDLNEALDDL--------RAVIPYAH--------------------
+--------------------------------------------------------GGSV
+RK--------LSKIATLLLA-KNHIIMQA-----KAIEEL--SVLVSQL-KTRKSSGNSE
+NL----EKTVSTPSEGD---------------------------------
+>sp|Q54HG5|SDHFA_DICDI Succinate dehydrogenase assembly factor 1A, mitochondrial OS=Dictyostelium discoideum OX=44689 GN=sdhaf1A PE=3 SV=1
+----------------------------------------MNTTP---IRHSGLQKAVLS
+LYRSFLRVSNKKEMDNPSSSISNYIKTQFRLKATTIQKRDINKIESL-------------
+-----------------------------------------------------LVKGKRQ
+LE---------QIQD----------------------P---------------EFSGFA-
+-----------------VF------------------------TPKSK--
+>tr|A2EUN9|A2EUN9_TRIVA HMG box family protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_161660 PE=4 SV=1
+MPASPYILFCKEKRPQVKADNPGIAFGDIAKKLGEMWKNLSEEEKKPYIEKAEAEK----
+----------AEHKDEPKEK----------------KSKCKSKCK---------------
+-----------------------------------------------------STK----
+-K--------SKKEDSE--------KEESEK-------------------EESGSDDE--
+--------------------------------------------------
+>tr|E2RTN0|E2RTN0_GIAIC DNA-directed RNA polymerase II RPB6 OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_15955 PE=4 SV=1
+---------------------MDKPLI------------VESNQP---------------
+----FI---SKIKPADPDKRIT---------------PRYLTKFEQA-------------
+-----------------------------------------------------RILGTRA
+YQLSMGAPAHITITDKGGHL--DPLVLARRELANNAIPII----IRRHL-PDGTYEDWK-
+-L--SELHIID---------------------------------------
+>tr|I7IV33|I7IV33_ENCCU ECU01_1375 protein OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=ECU01_1375 PE=4 SV=1
+------------------------------------------------------------
+-------------MDEKLKEMADA--------SSFAEKELESILGEI-------------
+-----------------------------------------------------TLQNEKL
+VD--------I----------------------QRKIGIT-----RAH-----LLKNSR-
+-LVGEMLRITKPKLAIGIIVLSIIFIAIIYVKLV---------FPS----
+>tr|G7PPG6|G7PPG6_MACFA Hepatitis delta antigen-interacting protein A OS=Macaca fascicularis OX=9541 GN=EGM_05412 PE=4 SV=1
+-----------------MEAKAGGP-----------------------------------
+------------------EEVTDE--------EXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXPRGGPGGAGGSGAGPA-
+----------------------------------PELALP--PCGPRDLGDGSSSTGSVG
+SP----DQLPLACSPDD---------------------------------
+>sp|P38202|YBC8_YEAST UPF0642 protein YBL028C OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YBL028C PE=1 SV=1
+---------------------MAKSLR------------ASSHLNAKSVKRRGV------
+----FQ-----KAVDAREQRISD----------KLKEDLLKQKLEDL-------------
+-----------------------------------------------------KKKEEQG
+ID--------MDVDEKK----------SNEEAPRKKISTSGWRDGRHH-----TYKKAK-
+-L----MKQSKKKTSFTRF-------------------------------
+>tr|Q7S0H5|Q7S0H5_NEUCR Prefoldin subunit 6 OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=NCU06941 PE=4 SV=1
+---------------------MASPLQLKLQALSDEYQNLNKELQETVLARQKLEAQ---
+-------KQENVSVQNEFEKLKDD--------EQIFKLV---------------------
+--------------------------------------------------------GPVL
+LK--------QDKMDAENTV-KGRLEFIS-----KEITRL--EGVIKET-QGKIEKKRTE
+II----QVQTSAQAGGAP----------QAVKA-----------------

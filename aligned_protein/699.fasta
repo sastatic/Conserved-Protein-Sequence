@@ -1,0 +1,72 @@
+>tr|K4BQ40|K4BQ40_SOLLC Acyl carrier protein OS=Solanum lycopersicum OX=4081 GN=101250008 PE=3 SV=1
+MAARIALLKYLR--VE-------------ARPVQL-----RNPRLIGGSVSQLFKRHFSE
+E---VRGSFLDKDEVRDRVINVVKNFQKVDPC----------------------------
+-----------------------------------------KVVPNAHFQ------NDLG
+LDSLDTVEVVMALEEEFGFE-------------------------------------IPD
+NE-------ADKINSINLAVDFIASHPQAK-
+>tr|D3AVK7|D3AVK7_POLPP Acyl carrier protein OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=ndufab1 PE=3 SV=1
+-MLSRSFKSLVQ--IQ--------------RPVL-------------MAGQSSMIRSFSS
+------DHRLSEKEVTDRILEVISKYDK--------------------------------
+------------------------------------CAGK-SVSPSDTF-------KELE
+LDSLDSADILVAVEEEFGIE-------------------------------------IPD
+EE-------VDRITSVKDTISYIRKTPTAK-
+>tr|A0A1D8PDT0|A0A1D8PDT0_CANAL Acyl carrier protein OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=ACP1 PE=3 SV=1
+-MFRTTLLKSLRASVSKPSIVK-TIQSS-SRSLFTITTITNNKNVTPLTSSMNFIRCYSA
+------FPELTRDIAKERIIELLEGYDKVDQS----------------------------
+---------------------------------------KGEITEQSSFT------SDLG
+LDSLDVVEVIMELEHEFNIQ-------------------------------------IPD
+NE-------ADSLKTVGQTIDYILAQPDSC-
+>tr|C4LYR0|C4LYR0_ENTHI Thioredoxin OS=Entamoeba histolytica OX=5759 GN=CL6EHI_004490 PE=3 SV=1
+-------MAVLH--IN-------ALDQ--LTALLS-------------TEKVIVIDFFAT
+WCGPC-------RSISPYFEELAGQYNNIKFV----------------------------
+---------------------------------------KVDVDQAEEIC------VNYK
+VRSMPT-------------------------FVL-----------------------VKD
+GIEQKRFSGADR-NALKQMVETA--------
+>tr|Q9U241|Q9U241_CAEEL Acyl carrier protein OS=Caenorhabditis elegans OX=6239 GN=CELE_Y56A3A.19 PE=1 SV=1
+-MLRVAVSAALR-TVSVRALSNASVQQRVITPILL-----------SAQKPSFQIRQYSA
+------KAPLTKKTLEERIVLVLSLYDKIDA-----------------------------
+---------------------------------------K-KLTMDSDFS------KDLG
+LDSLDHVEVVMAMEEEFGFE-------------------------------------IPD
+GD-------ADRFKTPRDIFQYIADKEDVFE
+>sp|Q54E22|ACPM_DICDI Acyl carrier protein, mitochondrial OS=Dictyostelium discoideum OX=44689 GN=ndufab1 PE=3 SV=1
+-MIRNTFKLVSN--IA-------------VRPAFS-STFVRQ----PIVASSMMVRNYGS
+---------ISEKEITDRVIGVVSQYDK--------------------------------
+------------------------------------VSGK-TVTPTTTF-------KELG
+LDSLDSADILVAVEEEFGIE-------------------------------------IPD
+EE-------ADKITSCAETISYLRKTPTAK-
+>tr|A2DE42|A2DE42_TRIVA Profilin OS=Trichomonas vaginalis OX=5722 GN=TVAG_166350 PE=3 SV=1
+----------MSYEID-------FLIGKVTGGCIIGLDGGIWASTPGFYGSTAEFSHFKD
+------AFDPQSEMIFKGIVFLGETYVVTDINPEYV------------------------
+------------------------------------VAKK--------------GANSLV
+IVKRPTCIVLGYNDDQIKFE----------------------------------------
+-------TCFNAVTKLAQSLPELK-------
+>tr|A8BMJ0|A8BMJ0_GIAIC Ribosomal protein L7Ae OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_11287 PE=1 SV=1
+----------MQ--ID--------------------------PRAIPFANEELSLELLNL
+-----VKHGASLQAIKRGANEALKQVNR--------------------------------
+--------------------------------------GK----------------AELV
+IIAADADPIEIVLHLPLACE------DKGVPYVFIGSKNALGRACNVS---------VPT
+IVAS-----IGKHDALGNVVAEIVGKVEALV
+>tr|I7KFY6|I7KFY6_ENCCU ECU09_0275 protein OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=ECU09_0275 PE=4 SV=1
+-MDRESLEKFRA-QVE--------------------------------------------
+--------ILSAKEV-ERVMKRLS------------------------------------
+---------------------------------------K------EEF--------DVG
+IDAL----------EKYNMELNKKLED--------ARSDLQQRLENYKMLLNDVWNVIPD
+DVRKH---LAEHYKSMRDIL-----------
+>tr|G7PPG6|G7PPG6_MACFA Hepatitis delta antigen-interacting protein A OS=Macaca fascicularis OX=9541 GN=EGM_05412 PE=4 SV=1
+--------------ME--------------------------------------------
+------AKAGGPEEVTDEEXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXPRGGPGGAGGS-GAGPAPELALPPCGPRDLG
+DGSSSTGSVGSPDQLPLACS--------------------------------------PD
+D------------------------------
+>sp|P32463|ACPM_YEAST Acyl carrier protein, mitochondrial OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=ACP1 PE=1 SV=1
+-MFRSVCRISSR--VA-PSAYR-TIM---GRSVMS--------------NTILAQRFYSA
+--------NLSKDQVSQRVIDVIKAFDK-NSPN---------------------------
+------------------------------------IANK-QISSDTQFH------KDLG
+LDSLDTVELLVAIEEEFDIE-------------------------------------IPD
+KV-------ADELRSVGETVDYIASNPDAN-
+>sp|P11943|ACPM_NEUCR Acyl carrier protein, mitochondrial OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=nuo-12 PE=1 SV=2
+-MFRTAALTAAR--VARPAVAS-AVRAGVARPAFV--------QAVPKVAAFQAVRFYSA
+------GGHLKKDEVFSRIAQVLSGFDKVNDP----------------------------
+---------------------------------------K-NITETAHFA------NDLG
+LDSLDTVEVVMAIEEEFSIE-------------------------------------IPD
+KD-------ADQIHSVDKAVEYILSQPDAN-

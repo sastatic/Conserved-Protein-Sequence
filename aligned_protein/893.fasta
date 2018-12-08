@@ -1,0 +1,72 @@
+>tr|K4D978|K4D978_SOLLC 50S ribosomal protein L20 OS=Solanum lycopersicum OX=4081 PE=3 SV=1
+--MTRV------------------------------------------------------
+----------------------------KRGYIGQ----RRRTKILLFASRFRGAHSRLT
+KTITQQKIRA--LVSAHRDRDRKKRDFHRLWITRINAV----------------------
+------------------IRER----GVS------YSYNRL----------IHDLYSCFS
+TVKYLHK------------------
+>tr|D3BEH1|D3BEH1_POLPP LYR motif-containing protein 4 OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=lyrm4 PE=3 SV=1
+--MSQS------------------------------------------------------
+---------------------------------------ATRQTVLQLYRSMQREANKFS
+SY-----------------------NFRE--YSK--------R--RIALG----------
+------------------FRENKLA------TP--DQTKDL----------IVQSQNDYE
+MLKRQATINSLYAHRKVVVE-----
+>tr|A0A1D8PQN0|A0A1D8PQN0_CANAL Ribosomal 40S subunit protein S28B OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=RPS28B PE=3 SV=1
+---MDA------------------------------------------------------
+---------------------------------------KTPVTLAKVIKVLGRTGSRGG
+-------------------------------VTQ------------VRVEFL----E--D
+ASRTIVRNVKGP------VRENDILCLM-------ESEREARR-----------------
+-------------LR----------
+>tr|Q962P4|Q962P4_ENTHI Chitinase Jessie 1 OS=Entamoeba histolytica OX=5759 GN=CL6EHI_024660 PE=4 SV=1
+--MTLI------------------------------------------------------
+--------------------------------------------IFLII----------S
+LSFSLC--------------------------TN------------VKKGFYCL-----D
+RSKFVWCSGTNQSMAITCFKETVCKCGKTKYNPCVFSFQELDDCEGLPGDIINEPSKFYE
+NYK----------------------
+>tr|Q18590|Q18590_CAEEL Helix Loop Helix OS=Caenorhabditis elegans OX=6239 GN=hlh-15 PE=4 SV=1
+MLMEDG------------------------------------------------------
+------------------------------------GLDTTSEEYRKLSKAERRKRRRAT
+------------------------PKYRNLHATR--------E--RIRVESFNM------
+--------------AFSQLRAL---------LPTLPVEKKLSK--------IEILRFSIA
+YISFLDNL-----LQ----------
+>sp|Q55FC6|HSL5_DICDI HssA/B-like protein 5 OS=Dictyostelium discoideum OX=44689 GN=hssl5 PE=3 SV=1
+--MSILSSLIS-------------------------------------------------
+-----------------------ISISSPSKNSTVSS---NNNYYSAVSMEGITIASSHI
+KTISYTSPK-----------------------SS--NTRAYSP-----TGYGYS------
+-------------------------------Y-S--------------------------
+-------------YSYGYSSCGYNF
+>tr|A2E5G3|A2E5G3_TRIVA MIZ zinc finger family protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_301410 PE=4 SV=1
+-MINQIA-----------------------------------------------------
+----------------------------LKEPVRKICCNQPPNGICPLT-----------
+---------------------------HKI-ITR------------PARGVNCMHGECFD
+VSGFICNS----------MRNNSWQCPICR-KP--LTIEDLR---------IDPYYFALA
+SGSLT--------------------
+>tr|A8BRA6|A8BRA6_GIAIC Kinase, NEK OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_27124 PE=4 SV=1
+--MR----------DHS-------------------------------------------
+----------------------------------------DSRRQSHLSVSTEAFRRH--
+--LSVYAPPEVLLGEEPTP------------ASDLWSLGAVLY--ELSTGSKPV------
+-------------------------------APDGRRTDEL-------------------
+-------------LEKGVTSDL---
+>tr|I7L8I8|I7L8I8_ENCCU ECU06_0575 protein OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=ECU06_0575 PE=4 SV=1
+--MKFIVGIISVF-----------------------------------------------
+----------------------AVSILSTSGSSGLGSAMYSSRYVSRYSSTGGGSSS---
+--LPYFSPY-----------------------SSPYYRGSYFPGPPFGTGVGTS------
+-------------------------------APS--------------------------
+-------------LPLGY-------
+>tr|G7PPG6|G7PPG6_MACFA Hepatitis delta antigen-interacting protein A OS=Macaca fascicularis OX=9541 GN=EGM_05412 PE=4 SV=1
+--MEAKAGGPEEVTDEEXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXPRGGPGGAGG-------------SGAGPAPELA
+--LPPCGPRD--LGDG---------------SSS--------------TGSVGS------
+-------------------------------PDQ--------------------------
+-------------LPLACSPDD---
+>sp|P35179|SC61G_YEAST Protein transport protein SSS1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SSS1 PE=1 SV=2
+--MARAS-----------------------------------------------------
+----------------------------EKGEEKK----QSNNQVEKLVEAPVEFVREGT
+QFLAKCKKPD--LKE----------------YTKIVKA--------VGIGFIAV-----G
+IIGYA-------------------------------------------------------
+-IKLIHIP-----IRYVIV------
+>tr|V5IN44|V5IN44_NEUCR Dolichyl-phosphate mannosyltransferase polypeptide 3, variant OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=NCU05544 PE=4 SV=1
+--MTRA------------------------------------------------------
+---------------------------------------QQTISIALLVSSLYL-----S
+LYLELVPLPA--LVQ-----------------TAIVPVLPFWA--LVSFGAWVL-----F
+RLGWGMLT----------FRDT----------P--EAYKEL-----------------ME
+EIKLAQAD-----LRAKGVSVD---

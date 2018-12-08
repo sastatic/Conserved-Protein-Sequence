@@ -1,0 +1,108 @@
+>sp|P14275|CB2C_SOLLC Chlorophyll a-b binding protein 1C, chloroplastic (Fragments) OS=Solanum lycopersicum OX=4081 GN=CAB1C PE=3 SV=1
+MAAATMALSSP-------------------------------------------------
+--------------------SFAGQAVKLSPSASEISGNGRITMRKAVAKSAPSSSPWXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSLVHAQSI-LAIW--ACQVVLM
+GAVE------------GYRIAGGPLGEVVDPLYPG-GSF---------------------
+--------DPLGLAED----PEAFAELKVKEI--KNGRLAMFSMFGFFVQ-AIVTGKGPL
+ENLADHLADPV-------------------NNNAWAFATN------------FVPGK---
+----
+>tr|D3BMH1|D3BMH1_POLPP Rab GTPase OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=rabC PE=4 SV=1
+----------MSE-----------------------------------------------
+----------------------EETLYKIILVGETAVGKSSILVRFTDNTFTPHFAPTLG
+VDFNVKTIR---------------------------------------------------
+--------------------------------------NKETGQTVKLQLWDTAGQERFK
+SITQ------------TFYRGSHGVIVVYDITDSK--SFDRCRNWIEDI---NNYSMGGM
+IMILVG--NKSDLPSR-----K-VTYEQGKALADELG-IKFLE--------TSAKDNVGV
+NAVFDTIVQDI-----QNIIINSTPTQNTIDNLGG---------EG---------QQRKP
+CCGS
+>tr|Q5AI00|Q5AI00_CANAL Rab family GTPase OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=YPT1 PE=4 SV=1
+-------MNN--E-----------------------------------------------
+----------------------YDYLFKLLLIGDSGVGKSCLLLRFADDTYTPDYISTIG
+VDFKIRTI----------------------------------------------------
+---------------------------------------ELDGKTIKLQIWDTAGQERFR
+TITS------------SYYRGAHGIIIVYDVTDQE--SFNNVKQWLQEI---DRYATGGV
+MKLLVG--NKADLSDK-----KIVEYTAAKEFADALD-IPFLE--------TSALSSTNV
+EQAFYTMARQI-----KAQMTN-NANAGNAANAKGKSNVNLRG-ES------LTSNQSNS
+CC--
+>tr|C4M8B7|C4M8B7_ENTHI Ras family GTPase OS=Entamoeba histolytica OX=5759 GN=CL6EHI_101260 PE=4 SV=1
+-------MPS--------------------------------------------------
+--------------------------VKIVVLGPPCVGKTAVTIRLVNHVFQQQYDPTIE
+DCFRTTR-----------------------------------------------------
+---------------------------------------NLDGIDVCLDILDTAGQDEFV
+SVKQ------------QYMVVGNGFLILYSIISKQ--SFVECQSTVEML---LRIRDVTV
+PWMLIG--NKIDLKEE-----REVTQEDALEYAKQKGAVGFLE--------TSAKSNINI
+EHAFISLAKQILKV------------------------------RGKQE---NQSTKDKK
+CFIL
+>tr|Q9UAQ6|Q9UAQ6_CAEEL RAB family OS=Caenorhabditis elegans OX=6239 GN=rab-1 PE=1 SV=1
+----MAAMNP--E-----------------------------------------------
+----------------------YDYLFKLLLIGDSGVGKSCLLLRFADDTYTESYISTIG
+VDFKIRTI----------------------------------------------------
+---------------------------------------ELDGKTIKLQIWDTAGQERFR
+TITS------------SYYRGAHGIIVVYDITDQE--TFNNVKQWLQEI---DRYACENV
+NKLLVG--NKCDLTAK-----RAVETQAAQDYAGQLG-IPFLE--------TSAKSSTNV
+EQAFLTMASEI-----KSRM-------GPVQGAGGAPGVRITGSQP------VQDKKSGG
+CC--
+>sp|P20791|RAB8B_DICDI Ras-related protein Rab-8B OS=Dictyostelium discoideum OX=44689 GN=rab8B PE=2 SV=1
+--MTSPATNKPAA-----------------------------------------------
+----------------------YDFLVKLLLIGDSGVGKSCLLLRFSDGSFTPSFIATIG
+IDFKIRTI----------------------------------------------------
+---------------------------------------ELEGKRIKLQIWDTAGQERFR
+TITT------------AYYRGAMGILLVYDVTDEK--SFGSIRNWIRNI---EQHASDSV
+NKMLIG--NKCDMTEK-----KVVDSSRGKSLADEYG-IKFLE--------TSAKNSVNV
+EEAFIGLAKDI-----KKRMID-TPN------------------DPDHTICITPNNKKNT
+CC--
+>tr|A2ESK3|A2ESK3_TRIVA Ras family protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_350580 PE=4 SV=1
+-MSADSTTNS--------------------------------------------------
+--------------------------FKVVVVGSSGVGKTAVVRQLIDGKFNEEGQPTIG
+VEFKTYSL----------------------------------------------------
+---------------------------------------TADGDNIKLQIWDTAGQERFR
+SVSK------------AYFRNAVGAILVYDITSRA--SFEELNTWLNDL---NALAAPNA
+CIVLIG--NKSDLTDD-----RQIDEAEADAFAQRYG-LTRIE--------TSAKDGTGV
+KEAFARLGEGIIRKEKEGKLVTPKPA-----SEAGALNTN------------TVSPKKQS
+CC--
+>tr|A8BSW7|A8BSW7_GIAIC ADP-ribosylation factor OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_7789 PE=3 SV=1
+-------MGQGASKIFGK------------------------------------------
+--------------------LFSKKEVRILMVGLDAAGKTTILYKLMLGEVVTT-VPTIG
+--FNVETV----------------------------------------------------
+-----------------------------------------EYKNINFTVWDVGGQDSIR
+PLWR------------HYYQNTDALIYVIDSADLEPKRIEDARNELHTL--LGEDELRDA
+ALLVFA--NKQDLPKA----------MSTTDLTEKLG-LQELKKRDWYIQPTCARSGDGL
+YQGLDWLSDYIF----------------------------------------DKKNKKKG
+KKR-
+>tr|Q8SQQ1|Q8SQQ1_ENCCU GTP-BINDING PROTEIN OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=ECU09_0170 PE=4 SV=2
+------------------------------------------------------------
+----------------------MRSTYKIVFLGSSNVGKTTLMSQYLHQEVQKSYGPTIG
+LDFVSTTI----------------------------------------------------
+---------------------------------------VVSGHRVRLQLWDTAGQERFN
+SIIP------------NYTRNSFLAIIVFDMKDKG--SFESIDHWINTLTKANDSSGRRV
+RILIVG--NKKDLSDED---TRGWYREAGNRKAKKHG-GEYVE--------TCAMKHEGI
+EDLVKAVDRLI-----EEDLESPMEEESTV--------------RPES----IRFTKRRG
+CC--
+>tr|G7PPG6|G7PPG6_MACFA Hepatitis delta antigen-interacting protein A OS=Macaca fascicularis OX=9541 GN=EGM_05412 PE=4 SV=1
+---MEAKAGGPEE-VTDEEXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXPRGGPGGAGGSG-------------------
+------------------------------------------------------------
+-----------------------------------------------------AGPAPEL
+ALPPC-------------------------------------------------------
+--------GPRDLGDG----------------SSSTGSVGSPDQLPL----ACSPDD---
+------------------------------------------------------------
+----
+>sp|P15454|KGUA_YEAST Guanylate kinase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=GUK1 PE=1 SV=2
+-------MSRP-------------------------------------------------
+----------------------------IVISGPSGTGKSTLLKKLF-----AEYPDSFG
+--FSVSSTT---------------------------------------------------
+--------------------------------------RTPRAGEVNGKDYNFVSVDEFK
+SMIKNNEFIEWAQFSGNYYGSTVASVKQVSKSGKT--CILDID--MQGVKSVKAIPELNA
+RFLFIAPPSVEDLKKRLEGRGTETEESINKRLSAAQAELAYAE--------TGAHDKVIV
+NDDLDKAYKEL---------------------------------KD-----FIFAEK---
+----
+>sp|Q7RVM2|ARF_NEUCR ADP-ribosylation factor OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=NCU08340 PE=3 SV=3
+-------MGNTLS-IFGKL-----------------------------------------
+-----------------FDGLFGKKEMRILMVGLDAAGKTTILYKLKLGEVVTT-IPTIG
+--FNVETV----------------------------------------------------
+-----------------------------------------EYKNIQFTVWDVGGQDKIR
+PLWR------------HYFQNTQGIIFVVDSNDRD--RVVEAREELQRM--LNEDELRDA
+LLLVFA--NKQDLPNA----------MNAAEITDKLG-LSSLRQRSWYIQATCATTGDGL
+FEGLDWLSTEL---------------------------------------------KKKS
+P---

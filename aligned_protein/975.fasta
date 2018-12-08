@@ -1,0 +1,84 @@
+>tr|K4DHL6|K4DHL6_SOLLC Actin-related protein 2/3 complex subunit 4 OS=Solanum lycopersicum OX=4081 GN=101260916 PE=3 SV=1
+-----------------MANPLRLYLTCIRNTLEAAMCLQNFP----------CQEVERH
+NKPEVELKT---------------------------------------------------
+--------------------------SPELLLNPITICR------------NEAEKCLIE
+TSINS----LRISLKVKQSDELENILTKKFL---------------RFL--SMRAEAFQV
+LRRKPVQGYDISFLITNYHCEDMQKQKLIDFIVQFMEDIDKEISELKLSVNTRGRLV---
+------ATEFLKQFI-
+>tr|D3BJ37|D3BJ37_POLPP Actin-related protein 2/3 complex subunit 4 OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=arcD PE=3 SV=1
+MIIRMIILIIAATIMVHLTTAQVPYLNCIRTTLTAAICLENFA----------SQIVERH
+NKPEVEVKT---------------------------------------------------
+--------------------------NKELLLNPIVIAR------------NKQEKVLIE
+SSINS----VRISVSIKKSDEVEVILAKKFV---------------RFL--VQRAENFII
+LRRKPVEGYDISFLVTNFHTESMFKHKLVDFIIQFLEDIDREVSDLKITLNSRARIV---
+------ASEYLKEYA-
+>tr|A0A1D8PRU4|A0A1D8PRU4_CANAL Actin-related protein 2/3 complex subunit 4 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=ARC19 PE=3 SV=1
+-----------------MSQSLKPYLTAVRASLTAAICLEDFS----------SQLIERH
+NRPEIEVDSKSC------------------------------------------------
+-------------------------HNPELILNPMIIAR------------NENEKILIE
+SSINS----IRISIKIKQADEIENILVHKFT---------------RFL--TSRAENFFI
+LRRTPIKGYDISFLITNFHTEQMVKDKLVDFIIEFMEDVDKEISEMKLFLNARARIV---
+------AESFLIPFD-
+>tr|C4LSV0|C4LSV0_ENTHI Actin-related protein 2/3 complex subunit 4 OS=Entamoeba histolytica OX=5759 GN=CL6EHI_030820 PE=3 SV=1
+-----------------MATTYQAYLDTIRATLNSAMCVTNFA----------SQLIERH
+NKPEVELGL---------------------------------------------------
+--------------------------SKEVIFKPVVIVRVPSEPSGEENGVDKCEKVMIE
+GSINS----VRISICVKKADNLEVILLRRFV---------------SFL--QQRAENFVI
+LRRKPIKGYDISFLITNFQTENLFKHKLIDFIIEFMQEIDKEISDMKISVNTRARIAVAG
+ITGTSPAPGFFKALLA
+>sp|P58798|ARPC4_CAEEL Probable actin-related protein 2/3 complex subunit 4 OS=Caenorhabditis elegans OX=6239 GN=arx-6 PE=3 SV=1
+-----------------MSATLQPYLEAVRHTLQAALCLEQFS----------SQVVERH
+NKPEVEVQT---------------------------------------------------
+--------------------------SKELLMTPVVVAR------------NKQERVLIE
+PSVNS----VRISIAIKQSDEIEKILCHKFT---------------RFM--CQRADNFFV
+LRRKPLPGYDISFLITASHTEAMFKHKLVDFLLHFMQEIDKEISEMKLSLNARARVS---
+------AEEFLKRFN-
+>sp|O96625|ARPC4_DICDI Actin-related protein 2/3 complex subunit 4 OS=Dictyostelium discoideum OX=44689 GN=arcD PE=1 SV=1
+-----------------MSTAQVPYLNCIRNTLTASMCLQNFG----------SQIVERH
+NKPEVEVKT---------------------------------------------------
+--------------------------SKELVLNPVIIAR------------NKNERVLIE
+TSINS----IRISVSIKKSDEVDVILAKKFV---------------RFL--QQRAENFII
+LRRKPVEGYDISFLVTNFHTENMFKHKLVDFIIQFMEDIDREISDLKLTLNARGRIV---
+------ASEYLKNFA-
+>tr|A2FE23|A2FE23_TRIVA Actin-related protein 2/3 complex subunit 4 OS=Trichomonas vaginalis OX=5722 GN=TVAG_470160 PE=3 SV=1
+-----------------MANPLASYLAAIRRTLQASLCLRNFA----------SQEIERQ
+NKPEIEIGK---------------------------------------------------
+--------------------------TPEVIARPLLISR------------SQYEKVYIE
+TAINS----VRISVKVKQIDDVDRILAKMFM---------------RFL--AQRADQFRI
+IRRKPIEGYDISFLVTNVHTEQMILSKLIEFIITFLTDVDKELSDMKITLTKRARNC---
+------AEEYLKILV-
+>tr|A8B8A5|A8B8A5_GIAIC Dynein light chain OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_14270 PE=4 SV=1
+-------MVLSS-----RPAPVCPYFSFSRDHL----CTNHNTF------VENSQLVIHK
+QHPETKVWM---------------------------------------------------
+--------------------------ASEL---DETIKRISSK--------KGVEGVII-
+--INSDGIPIRTSLDEEQATIYAGICSHLVMKGKSLITGIDPSDELRLL--RLRSKKYEL
+L-LAPDKGY-------------------------LMVVIQKPQTD---------------
+----------------
+>sp|Q8SSF6|RLP24_ENCCU Probable ribosome biogenesis protein RLP24 OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=RPL24 PE=3 SV=1
+-------MRIEKCW----------------------FCSSNIYQGHGTIYVRNDAKVFRF
+CRPKCRKLF---------------------------------------------------
+--------------------------ARRV--NPRKVKW------------TKISRKMAN
+KELCNDAI-LTFEHRLNEPRMYDRAEAERTL------SSIP-----RILEIRKRREDFFI
+KDR----------ILTG---QEMNKESDLKYIERHANLLEEEVAGEKQVAKAKKREA---
+------QTN-------
+>tr|G7PPG6|G7PPG6_MACFA Hepatitis delta antigen-interacting protein A OS=Macaca fascicularis OX=9541 GN=EGM_05412 PE=4 SV=1
+--------------------------------MEA--------------KAGGPEEVTDE
+EXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXPRGGPGGAGGSGAGPAPELALPP----------CGPR---DLGDGSSST
+GSVGS---PDQLPLACSPDD----------------------------------------
+------------------------------------------------------------
+----------------
+>sp|P33204|ARPC4_YEAST Actin-related protein 2/3 complex subunit 4 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=ARC19 PE=1 SV=2
+-----------------MSQSLRPYLTAVRYSLEAALTLSNFS----------SQEVERH
+NRPEVEVPNT--------------------------------------------------
+--------------------------SAELLLQPMHISR------------NENEQVLIE
+PSVNS----VRMSLMVKQADEIEQILVHKFT---------------RFL--EQRAEAFYI
+LRRVPIPGYSISFLITNKHTESMKTGKLVDFIIEFMEDVDKEISEIKLFLNARARFV---
+------AEAYLDEFVY
+>tr|Q7SH88|Q7SH88_NEUCR Actin-related protein 2/3 complex subunit 4 OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=NCU01918 PE=3 SV=1
+-----------------MSQSLRPYLQAVRSSLTAALCLSNFA----------SQTAERH
+NVPEVEART---------------------------------------------------
+--------------------------SPEVLLTPLTIAR------------NENERVLIE
+PSINS----IRISIKIKQADEIEHILVHKFT---------------RFL--TQRAESFFI
+LRRKPIKGYDISFLITNFHTEEMLKHKLVDFIIQFMEEVDKEISEMKLFLNARARFV---
+------AESFLTPFD-

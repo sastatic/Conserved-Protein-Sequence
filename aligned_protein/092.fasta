@@ -1,0 +1,120 @@
+>sp|P14275|CB2C_SOLLC Chlorophyll a-b binding protein 1C, chloroplastic (Fragments) OS=Solanum lycopersicum OX=4081 GN=CAB1C PE=3 SV=1
+MAAATMALSSP-------------------------------------------------
+SFAGQAVKLSPSASEISGNGRITMRKAVAKSAP-------SSSPWXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXSLVHAQSILAIWA-------------CQVVL----
+--MGAVEG------------------------YRIAGGPLGEVVDPLY---PGGSFDPLG
+LAEDPEAFAELK-------------------------VKEIKNGRLAMF-----------
+-----------------------SMFGFFVQAI---------------------------
+--------------VTGKGPLENLADHLADP-VNNNAWAFATNFVPGK------------
+---
+>tr|D3B6G0|D3B6G0_POLPP BCAP29/BCAP31 family protein OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=PPL_03708 PE=4 SV=1
+MDFIMIS-----------------------------------------------------
+IFILLMVEMLICTVAML---P-ISMATRKSLFTGLNKVFGGKTP----------------
+------------------------------------------------------------
+------------VIVFRVIFVILLGIFGDAIINSSKYDRK------------------IH
+DPEGATTQSE----KNNLYLMLFRY-------QRNIYL--TGFTLYLFFLIYRAQSIVLE
+LTSVETKSNAVIKQAENNKSQT---------------ERLIKSNS---ELE---------
+--------------------EEVKTLRKKEKEFIAM------------------------
+----------KSQAENTSKEYLKLKKEYDAL------LGTKTKGQKKDD-----------
+---
+>tr|Q59X89|Q59X89_CANAL Rab family GTPase OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=VPS21 PE=4 SV=1
+MSQHPAPATAVKLVLLGEAAVGKS--------SLVLRFVSNDFQENKEPTIGAAFLTQKC
+TIGERTIKYEIWDT--------AGQERFASLAPMYYR--NAQA-----------------
+------------------------------------------------------------
+------------AIVVYDITKP-------ASFIKARHWVKE----LHEQANRDITIALVG
+NKLDLVEDDSAED-GETL---------------RKVSVEEGQSL-ADE---EGLLFFETS
+AKTGNNVNEVFV-----------GIGSKIPSVTV--TGGEAQEG----------------
+-----------------------SN-GRRIDLTANT------------------------
+----------DNANAPRSTCC---------------------------------------
+---
+>tr|C4LSE8|C4LSE8_ENTHI Tetratricopeptide repeat domain containing protein OS=Entamoeba histolytica OX=5759 GN=CL6EHI_153660 PE=4 SV=1
+MDKVIIA-----------------------------------------------------
+EKSGNIENIEIAITEILKKDP-INKEAIQRL-----------------------------
+------------------------------------------------------------
+-------------IALR----IQQGNNDEAISLLQKYNEI------------------YM
+ETQAFVQLAE-------LYCTEVRYNDAFDIMQEVVMMEPSNFYMWQF-----AGEIALQ
+LNAVKEARKMFLSACKLSDYKY---------------VRALKSTVFVLGLS---------
+--------------------KESKT----KSEAIAA------------------------
+----------RLQ---------QLLDEYQP----------SIDKQKRNFF----------
+---
+>sp|Q09544|ATPD_CAEEL ATP synthase subunit delta, mitochondrial OS=Caenorhabditis elegans OX=6239 GN=F58F12.1 PE=1 SV=1
+------------------------------------------------------------
+MLARTIQRFSV-----------VAKRGYAAAAPA------ANA-----------------
+------------------------------------------------------------
+--------------------NPEELRLTFASPDTAVFSN---------------------
+---AVVKQVDV-----------------------------------------------PT
+LAGMVGVLANHV-----------------PT------IGVLKPGVVSVT-----------
+-----------------------TNEGTVQRLFVSSGTLSVNIDGSCQVLAEEVLKVEEI
+DESAARAELDAAQRASGEGSEVARAEAQIRAEVAEALIKAATNQQ---------------
+---
+>sp|P54660|PONA_DICDI Ponticulin OS=Dictyostelium discoideum OX=44689 GN=ponA PE=1 SV=1
+--------------------------------MLVLRNL-------------LALVTLAL
+LFTLSSAQYTL---------------SVSNSASG------SKC-----------------
+------------------------------------------------------------
+-----------------------------TTAVSAKLNAC------NTGCLNSFNI----
+-----VESSN----GKGLVFKTF---------------------------------INAA
+CSGEYESLSQFT----------CAANQKIPTTS---------------------------
+-------------------------------------------------------YIVSC
+NSTPSSNSTTDSDSSSGSTVMIGLASSLL--------FAFATLLALF-------------
+---
+>tr|A2G864|A2G864_TRIVA p270-related protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_114980 PE=4 SV=1
+MTQWKKPKTSSPISXXXXXXXXXXXXXXXXXXXXXXXXX-------------XXXXXXXX
+XFEERTGKFEYKFYEDQSYIP-LPEKNVKEISSG------SST-----------------
+------------------------------------------------------------
+-----------------------------S---SKKLLA-------DDGKTYQLTIP--A
+PKIDEIRDSE----EAKLRIRT-------------------------------------A
+QSDEQPPSNVFSKEIKLEKTKYVSGEQPNPTSSP--SKGGLSGG----------------
+-----------------------QIVGIVFAVLLGIVIIVL------------IVYFIFC
+KKPSNDRSSSDMKEDSGSGVYV--------------------------------------
+---
+>tr|A8B8Z6|A8B8Z6_GIAIC Ribosomal protein L15 OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_8001 PE=3 SV=1
+MGAYKYV------------------------QELWRKKQSEALHY---------------
+LFRLRTWEYRQLNAIKRCSHP-TRPEKARRLGYK--------------------------
+------------------------------------------------------------
+-----------------------------AKRGYVVYRVRVRRGGRKRQCVHGISYG-KP
+RNIGIVGLKP----SRSLRALAEQK-----------------------------------
+------------------------VGRRLPSLRVLNSYWVAQDGSYKWYEVILIDPFHPW
+IRNDPKINWICNPVMKRRECRGLTSAGRKARGLHNKGIGAMKLR----------------
+----------PSKRAAWKRNHTRSLRRYR-------------------------------
+---
+>sp|Q8SS77|H31_ENCCU Histone H3.1 OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=HHT1 PE=3 SV=3
+MARTKQSARK--------------------------------------------------
+TTGGKAPRKQLSAK--------SARKGVSPASS---------------------------
+------------------------------------------------------------
+-----------------------------AGAKKSRYRP---------------------
+---GSVALKEIRRYQKSTDFLIRRL--PFQRACRSVVKECSNATDIRF---QG-----PA
+LASIQEALEVYL-------------------------VGLFEDAMLCAYHA---------
+--------------------KRVTVFPKDISLVLKL------------------------
+----------RSRHVKS------ISD----------------------------------
+---
+>tr|G7PPG6|G7PPG6_MACFA Hepatitis delta antigen-interacting protein A OS=Macaca fascicularis OX=9541 GN=EGM_05412 PE=4 SV=1
+------------------------------------------------------------
+----------------------------MEAKAG------GPE-----------------
+------------------------------------------------------------
+-----------------------------E------------------------------
+-----VTDEE----XXXXXXXXXXX--XXXXXXXXXXXXXXXXXXXXX---XXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXPRGGP-----GGAGG----------------
+-----------------------SGAGPAPELAL--------------------------
+-PPCGPRDLGDGSSSTGS---VGSPDQLP--------LACSPDD----------------
+---
+>sp|P30902|ATP7_YEAST ATP synthase subunit d, mitochondrial OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=ATP7 PE=1 SV=2
+MSLAKSAANKLDW---------------------------------------AKVISSLR
+ITGSTATQLSSFKKRND-----EARRQLLELQSQ--------------------------
+------------------------------------------------------------
+----------P------------------TEVDFSHYRS-------------------VL
+KNTSVIDKIE-----------------SYVKQYKPVKIDASKQLQVIE------SFEKHA
+MTNAKETESLVSKE-----------------------LKDLQSTL---------------
+--------------------DNIQSARPFDELTVDD-LTKIKPEIDAKV-----------
+----------EEMVKKGKWDVPGYKDRFGNLNVM--------------------------
+---
+>tr|Q7SI08|Q7SI08_NEUCR ATP synthase subunit G OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=NCU00644 PE=4 SV=2
+MSFALVSRRSA------------------------------------------------L
+TFGRRAVRFESTTSEKATE---AAKKTAAKASEGLSR--VSSA-----------------
+------------------------------------------------------------
+-----------------------------AGPVLAKYAK-----------TLQSTL----
+---GRVGGRT----GKLIAFAERQT--PFVIYYSKVAAELGRIV---F---RGQSMTPPS
+VSTFKAYFQNF--------------------------VKSVQSG--SFF-----------
+-----------------------SNAGASLQNVRNI------------------------
+----------SRTQVAAAGVL--LAECLG---------FFTIGEMIGRMKLIGYHGETHA
+AAH

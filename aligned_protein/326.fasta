@@ -1,0 +1,72 @@
+>tr|K4AYP7|K4AYP7_SOLLC Acyl carrier protein OS=Solanum lycopersicum OX=4081 GN=101245883 PE=3 SV=1
+M-ASALRSAILRHI----------------------------------------------
+--------------------------------------------RIPATQAVSANG-LRL
+TAVRLMSSHDDHITKDE--VIKRVLDVVKCFPKVDPS--------KVTPEVHFEKD----
+-----------LGLDSLDTVEIVMALEEEFKLEIP-DKEAVRIESCEQAIEYVYN-HPMS
+S-------------
+>tr|D3AVT4|D3AVT4_POLPP 4E-binding protein OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=febA PE=4 SV=1
+--MSSASPSTTS-------TRA--------------------------------------
+-------------------------IPFPAKDPRHDLMNFSTSLGGSIYGTTPGGTKIKY
+DRSTLLQIRNSPLSKTPPPELAGIIEVLNKPQHA--------HQQQQQPKSPQ-VK-SQK
+PPTAPVQP------------------PQQQPES----TAQKTASTAKTN-----------
+----EEAGKI----
+>sp|Q5AF39|PGA59_CANAL Cell wall protein PGA59 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=PGA59 PE=1 SV=1
+--MQFSSAIILSAVAG--------------------------------------------
+----------------------------------------------SALATYANST-VTD
+IATTVVTITSCEENKCHETEVTTGVTTVTEVE----------TTYTTYCPLPTAKAPVAS
+TSNSTTTP------------------------------------PVSTAEGAAAA-NAVP
+AVA-AGLLALGAFM
+>tr|B1N617|B1N617_ENTHI Peroxiredoxin family protein (Fragment) OS=Entamoeba histolytica OX=5759 GN=EHI_018740 PE=4 SV=1
+-----MKRQILKR-----------------------------------------------
+----------------------------------------------------------RD
+GRERSM----DVRNKEEGGMIKKVKEMYYSITGTKPSIRVGEKAPKICGKAYYKGEIKEY
+EMEAEKGKYHVIGFYCRDFSRVCPREIKELSDNIE-KFKELNAEVIGISVDSVET-HKRL
+CERKEKKE------
+>tr|O44898|O44898_CAEEL MS Related Protein OS=Caenorhabditis elegans OX=6239 GN=msrp-2 PE=1 SV=1
+--MNRQTTALLLIV----------------------------------------------
+----------------------------------------------SILAVF--------
+--------------------VHHGFAAAEEEK----------NTASVVSPAPDSEA-AQP
+AGNGTETP------------------KDEVKDEAPKEGSETEASPEAKTKGSMVF-HALG
+AIS-TVVLA--GIM
+>sp|P22683|RLA2_DICDI 60S acidic ribosomal protein P2 OS=Dictyostelium discoideum OX=44689 GN=rplp2 PE=1 SV=3
+--MKYLAAYLLASLSGN--A--N-------------------------------------
+--------------------------------------------AASVTKILQSVG-VEV
+DAARVESVCKELDGKDVQALIAAGKSKVGSV---------------AAAAAPAAAT-SAA
+PAAAAAAP------------------AKKVVEE------KKEESDDDMGMGLFD------
+--------------
+>tr|A2DI06|A2DI06_TRIVA 60s Acidic ribosomal protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_402500 PE=3 SV=1
+--MRYIAAYLLAKAAGN--EKPT-------------------------------------
+--------------------------------------------QEQVKKILEAAG-VEI
+DAAQLEAVVTKMAEKPVEELVETGKNEMGKV----------------GGAAPAAAG-AAT
+AAA--EAP------------------KEEAPKE------EEAAAPLDLG-DMFDF-----
+--------------
+>tr|A8B356|A8B356_GIAIC FEN-1 nuclease OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_5488 PE=4 SV=1
+--MSAVAPSGSEMVVESPDEQS--------------------------------------
+----------------------HASASSSSDDYT----------SGTTTESNEEES--EE
+DNEEEESEDEDEEDESEEDEDEEEEEEYEEEEE---------EEEEEEEEESEEEE-TSE
+ESEEETGE------------------SEEDEEE----TSEDEEQSAQSALGRFLAEHSLE
+SGSEPE--------
+>tr|I7JTZ1|I7JTZ1_ENCCU ECU01_0555 protein OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=ECU01_0555 PE=4 SV=1
+--MKVLQKLSLLLFL---------------------------------------------
+------------------------------------------------------------
+----------------------------------------------VFGLAYAHENPKTS
+NDKNEGGS------------------DDENKEG---KDGKKDSSALGLSTSLLGL-GAIL
+AICLAK--------
+>tr|G7PPG6|G7PPG6_MACFA Hepatitis delta antigen-interacting protein A OS=Macaca fascicularis OX=9541 GN=EGM_05412 PE=4 SV=1
+MEAKAGGPEEVT-------DEEXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXPR----------GG------PGGA----
+----------GGSGAGPAPELA------------------------LPPCGPRDLG-DGS
+SSTGSVGS------------------PDQLPLA----CSPDD------------------
+--------------
+>sp|P05319|RLA2_YEAST 60S acidic ribosomal protein P2-alpha OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=RPP2A PE=1 SV=1
+--MKYLAAYLLLNAAGN--T-PD-------------------------------------
+--------------------------------------------ATKIKAILESVG-IEI
+EDEKVSSVLSALEGKSVDELITEGNEKLAAV----------------PAAGPASAG-GAA
+AASGDAAA------------------EEEKEEE------AAEESDDDMGFGLFD------
+--------------
+>sp|P78713|VATG_NEUCR V-type proton ATPase subunit G OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=vma-10 PE=3 SV=1
+--MSAQKSAGIQLLLDA--ERE--------------------------------------
+----------------------ATKIVQKAREYR----------TKRVREA---------
+-----------------RDEAKKEIEAYKAQKEAEFK---KFEAEHTQGNQAAQEE-ANA
+EAEARI---------------------REIKEA----GNKNREQVIKDLL------HAVF
+TPS-PEAMAAH---

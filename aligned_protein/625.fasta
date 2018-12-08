@@ -1,0 +1,120 @@
+>sp|P14276|CB2E_SOLLC Chlorophyll a-b binding protein 3A, chloroplastic (Fragments) OS=Solanum lycopersicum OX=4081 GN=CAB3A PE=3 SV=1
+MAASTMALSSST------------------------------------FAGKTVK-----
+--------------LAPS--------------SSEITGNGRITMRKTAAK----------
+---PKPASSGSPWXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSLVHAQS
+ILAIWACQVVLMGAVEGYRIAGGPLGEVVDPL---------YPG-GSFDPLGLAEDPEA-
+--------FAELKVKEIKNGRLAMFSMFGFFVQAIVT-----------------------
+GKGPLENLADH---------------------IADPVN---NNAW---------------
+-------AFATNF------------------------------VPGK-------------
+-
+>tr|D3AY54|D3AY54_POLPP Calmodulin-like protein OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=calB PE=4 SV=1
+------------------------------------------------------------
+--------------MAKED--TTIYKDAF--NLFDKDKDGKITTQDLGTVM-----RSVG
+SNITQAELKE--------------------------------------------------
+------------------------------------------------------------
+------------------------MIKEIDTDGSGLV---------DFQQFT--------
+---------SLLQRKTQYSDS---EADIKQAFKTF-------------DKKGNGYAPIAD
+LKHT---LT----------------------TIGEKLT---KEEFDNILK----DA-KVV
+DGQIHVDEFIR------IIKSSKAFIKQSIYSVLSYLYNLVLVYLNNVENYAHK------
+-
+>tr|A0A1D8PP58|A0A1D8PP58_CANAL Calcineurin regulatory subunit B OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=CNB1 PE=4 SV=1
+-----MGANASI--------------------------------LDGFIEDTN-------
+--------------FSIEE--IDRLRKRF--MKLDKDGSGQIDKQEFLSI------PGIS
+SNPLATRLMD--------------------------------------------------
+------------------------------------------------------------
+------------------------V---FDKDGDGSI---------DFEEFI--------
+---------TGLSAFSGKSDN---LNKLRFAFNIY-------------DIDRDGYIGNGE
+LFIV---MKM---------------------MVGKNLK---DEELQQIVDKTLMEADLDG
+DGKLNFEEFKN------AVNTDT------IANTLT---------LNMF------------
+-
+>tr|C4LVN8|C4LVN8_ENTHI Eukaryotic translation initiation factor 5A OS=Entamoeba histolytica OX=5759 GN=CL6EHI_186480 PE=3 SV=1
+-----MSSNGS----------------------------------DNEFEKGNAE-----
+-----------HSGVYPCQ--CSALRKGGY------------------VVI-----KGRP
+CKVFEMST----------------------------------------------------
+------------------------------------------------------------
+--------------------------SKTGKHGHAKVTF------AGYDIFT--------
+--------GKRLDDSCPSTHNVEVPEVKRTEFSLI-------GI---NDGYASLLLESGE
+TRDD---LKLP------------------EGEMGQKIQADYDDGKELIVA---VQTAMGM
+EAIIDYKEAKD-------------------------------------------------
+-
+>tr|G5EF37|G5EF37_CAEEL Paralysed Arrest at Two-fold OS=Caenorhabditis elegans OX=6239 GN=pat-10 PE=1 SV=1
+-----------------------------------------------MAEDIEEI-----
+-----------LAEIDGSQ--IEEYQKFF--DAFDRGKQGYIMATQIGQIM-----HGME
+QDFDEKTLRK--------------------------------------------------
+------------------------------------------------------------
+------------------------LIRKFDADGSGKL---------EFDEFC--------
+---------ALVYTVANTVDKETLEKELREAFRLF-------------DKEGNGYISRPT
+LKAL---LK----------------------EIADDLT---DQQLEEAVD----EIDEDG
+SGKIEFEEFWE------LMAGESD------------------------------------
+-
+>sp|P54670|CAF1_DICDI Calfumirin-1 OS=Dictyostelium discoideum OX=44689 GN=cafA PE=2 SV=1
+------------------------------------------------------------
+--------------MASTQNIVEEVQKML--DTYDTNKDGEITKAEAVEYF-----KGKK
+AFNPERSAIY--------------------------------------------------
+------------------------------------------------------------
+------------------------LFQVYDKDNDGKITIKELAGDIDFDKAL--------
+---------KEYKEKQAKSKQQ--EAEVEEDIEAFILR---------HNKDDNTDITKDE
+LIQG---FK----------------------ETGAKDP---EKSANFILT----EMDTNK
+DGTITVKELRV------YYQKVQKLLN-----------------PDQ-------------
+-
+>tr|A2G864|A2G864_TRIVA p270-related protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_114980 PE=4 SV=1
+MTQWKKPKTSSPISXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXFEERTGKFEYKF
+YEDQSYI-------PLPEK------------NVKEISSGSSTSSKKLLAD----DGKTYQ
+LTIPAPK-----------------------------------------------------
+------------------------------------------------------------
+------------------------IDEIRDSE----------------------------
+--------EAKLRIRTAQSDEQPPSNVFSKEIKLEKTKYVSGEQPNPTSSPSKGGLSGGQ
+IVGIVFAVLLGIVIIVLIVYFIFCKKPSNDRSSSDMKE---DSGSGVYV-----------
+------------------------------------------------------------
+-
+>tr|A8BLM2|A8BLM2_GIAIC Calmodulin OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_13231 PE=4 SV=1
+------------------------------------------------------------
+-----------------------MAAEAF--CAFDKDGSGYLTLQELCEAL-----ESIG
+CDVTMDRAES--------------------------------------------------
+------------------------------------------------------------
+------------------------LLSIIDANNDGKVQL------CEFEQLM--------
+---------YILQHADLACDESV-------LFYAT-------------DLDRSGSIGTNE
+LHSI---LT----------------------KIGIDCS---QRRVEQLMG-------RIC
+SGEMNYVEFMR------LMTTVRQCLR--LHSQPN--------TPNTTHEYA--------
+-
+>sp|Q8SVD9|BUD32_ENCCU EKC/KEOPS complex subunit BUD32 OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=BUD32 PE=3 SV=1
+-----MGF---------------------------------------HFQGAESI-----
+-----------IS-ADGETVVKKRARKAYRIEALDLKIINGRTKREAKILR-----KLEA
+LGIPAPRL----------------------------------------------------
+------------------------------------------------------------
+----------------------------ISTYGDTIV-MEKVEG----------------
+---------TVLKEMIDSSDN---PGALFRDLGALVSRLHIADII-HGDLTTSNFIHGSK
+IYAIDFGLS----------------------YISRKDE---DKAVDLYVF-------EKA
+VGCAHDAKFLEDFYCGYMGEGSESVLK----------------KLGTVRLRGRKREAMAF
+G
+>tr|G7PPG6|G7PPG6_MACFA Hepatitis delta antigen-interacting protein A OS=Macaca fascicularis OX=9541 GN=EGM_05412 PE=4 SV=1
+------------------------------------------------MEAKAGG-----
+----------------PE------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------EVTDEEXXXXX---XXXX-XXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXPRGGP---GGAGGS
+GAGPAPELAL---------------PPCGPRDLGDGSS---STGS---VGSP--------
+------DQLPLAC------------------------------SPDD-------------
+-
+>sp|Q03233|ADD37_YEAST Alpha1-proteinase inhibitor-degradation deficient protein 37 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=ADD37 PE=1 SV=1
+--MAIKPTKS----------------------------------FQNCLEAEVPG-----
+YNDCPTVLFSIDPNSGPRS------------KSKQRTKSKRCVSGRLATEVLDLYGNTKT
+ATTPPPVLR---------------------------------------------------
+---------------------------------------------------RPSVTAAQQ
+---ESACEGVL-------------VKDQGDRQ---------------LQPILCSKEELVA
+KINDLCVCGSKLSSKELEFYKKKLDSNITKILQNEHTKTVLSQIFNEKDKN---------
+------------MAVKTIKHWM----------VTDTTI---SNWCPAFL-----------
+-------KIFENA------------------------------MPN--------------
+-
+>tr|Q7S0X6|Q7S0X6_NEUCR Efhand domain-containing protein OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=NCU06948 PE=4 SV=3
+---------------------------------------------------MTPK-----
+-----------YPTLTPEH--IAQFREVF--DIFDKDHTGDITAEELGVVM-----RELG
+LNPSKAELED--------------------------------------------------
+------------------------------------------------------------
+------------------------LVNEADTNKDGVI---------NFEEFL--------
+---------NLMSQSVKETDS---EKELLEAFKVF-------------DKDNSGTISTEE
+LRAV---LK----------------------SLGEDMT---DADVDEMIK----LADKNG
+DGQIDYAEFAQ------IMK----------------------------------------
+-

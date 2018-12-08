@@ -1,0 +1,132 @@
+>sp|P14277|CB2F_SOLLC Chlorophyll a-b binding protein 3B, chloroplastic (Fragments) OS=Solanum lycopersicum OX=4081 GN=CAB3B PE=3 SV=1
+------------------------------------------------------------
+--------------------MAASTMALSSS---------TFAG--------KAVKLSPS
+SSEISG-NGRI-----TMRKTAAKPKP---------------------------------
+---ASSGSPWXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSLVHAQSILA
+-------------------------IWACQVVLMGAV---EGYRIAGGPLGEVVDPLYPG
+GS-------------------------------------------------FDPL-----
+-------------------------GLAEDPEAFAELKVKEIKNGRLA-MFSMFG-----
+-----------------FFVQAIVTGKGP--------------LENLADHIADPVNNN--
+--AWAF---ATNFVPGK----------
+>tr|D3BQE6|D3BQE6_POLPP Peptidyl-prolyl cis-trans isomerase OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=ppiA PE=3 SV=1
+-----------MANPKVF-FDITING--------------APSG----------------
+---RIIFELFKDVVPKTAE-NFRALCTGEKGIGKSGKPL-HFKG-----SSF--HRIIPN
+FMLQGG------------------------------------------DFTRGNGTGGES
+IYGEKFAD----------------------------------------------------
+------------------------------------------------------------
+----------------------------------------ENFKLKHTG------PGILS
+MA------------------------------------------------NAGPN-----
+TNGSQFFVC---TVETAWLDG--------------------------------KHTVFGK
+VVDGLPLV---------KEIEKRGSQSG-----KPSAVVT--------------IADCGQ
+LE-------------------------
+>sp|Q5AI90|SIR5_CANAL NAD-dependent protein deacylase OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=CAALFM_C102740CA PE=3 SV=1
+------------------------------------------------------------
+--MNKQLKEFQEYLPKCRKIIALVGAGLSASSGL-----PTFRGSQGLWKNFNMIDLATP
+DAFYID-PGLVWQFYSWRRYGALRAKPNKGHYALSKLSHKFNSD--EYITITQNVDG---
+-LSSRSGH----------------------------------------------------
+-----------------------------------------------NLDSLYEIHGSLF
+-------------------------DLKCTSFMCNYVD-HNNFK----------QPLTKA
+LED---------------TEFEYSNLSTRKRTFGDSDGNDGV--DISLSPQFNPV--K-T
+ISEKDLPSC--PVCHDLLRPGVVWFGESLPLNLITEIDSFVESDPSVD-LILVIGTS---
+----------GTVYPANSYVERVRLKGGK--------------VAIFNTDIEDNILNGKV
+EDTWGFKGDAAELLPIALKPLIGDI--
+>tr|B1N2V5|B1N2V5_ENTHI RBR-type E3 ubiquitin transferase OS=Entamoeba histolytica OX=5759 GN=EHI_159910 PE=3 SV=1
+-------------------------MFCC------------------SVC----------
+---------YEEYTYK-----------------------ETFIN----------------
+-----------------------------------ECGHRFCIKCWRENIIQQIQSDWHQ
+VHCMEQG-----------------------------------------------------
+------------------------------------------------CNCVVKIEDIMT
+HCLIQDICMLNMYCERLTFKTFEDNICECPKCRCEMITFEKEYKTT--------CPRCKY
+LF--CRKCGENWHEGKSCDEWKRNKEQEQE--------------------DLKWI----N
+QNTKKCPSC----------------GDRI------------QKNGGCNHMTCKCGYQFCW
+L--------CGVKYSSDHWTNNTXXXXXX--------------XXXXXXXXXXXXXXXXX
+XXXXXXXXXXXLIL-------------
+>tr|Q18851|Q18851_CAEEL Downstream Of DAF-16 (Regulated by DAF-16) OS=Caenorhabditis elegans OX=6239 GN=dod-18 PE=1 SV=2
+-----------MKEAIIVLASQSPNRLKLLQ-QIGLENVIVKVSNFEEN-----------
+------LPKTLPVKQFVIETAKGKLTTIVEEMKRKEEPYSVIIA-----CDTVIEF----
+-------NGEIIG------------KPTDANDAK--------------ETLKRLRNNTHN
+VY-TGMAL----------------------------------------------------
+------------------------------------------------------------
+HY-------------------------------HE---TDQYEEIIEKT----------I
+VH---------FGDIPDR-------------------------VIDEYVKSGEPL-----
+KKAGSYGIG---DFGAVFVRGIE--GCMPN----------------------VVGLPLHR
+LHQALIAKNIL-------------------------------------------------
+---------------------------
+>sp|Q9GRF8|EF1B_DICDI Elongation factor 1-beta OS=Dictyostelium discoideum OX=44689 GN=efa1B PE=1 SV=1
+------------------------------------------------------------
+---------------------MPSFADLTTENGLVE--LNKFVS-----DKTYIVGFVPS
+SADVQA-FNLV------------KTAP---------CATKYPHAARWFNTIASYS-----
+--AAEQGQ----------------------------------------------------
+------------------------------------------------------------
+---------------------------------FEKV--TETVTIA--------APAAPK
+ADDDVDLFGS---DDEDDEEYERQLEERRKKAMEHKKPKETVIAKSSILLDVKPW--DDE
+TDMVELEKC----VRSIEMDGLVW-GASK---------------------LVAVGYG---
+----------IKKLVINLVVEDLKVSTDE--------------LEEKIKDFEDYVQSVDV
+A---AF----------------NKI--
+>tr|A2G864|A2G864_TRIVA p270-related protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_114980 PE=4 SV=1
+-----------MT-------------------QWKKPKTSSPISX---------XXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXFEERTGKFEYKF--YED-----QSYIPL-----
+--------------------------PEK-------------------NVKEISSGSSTS
+SK-KLLAD----------------------------------------------------
+------------------------------------------------------------
+--------------------------------------DGKTYQLTIP-----------A
+PK---------IDEIRDSEEAK-------------------LRIRTAQSDEQPPS--NVF
+SKEIKLE-------KTKYVSGEQ--PNPTSS----------PSKGGLS-GGQIVGIVFAV
+LLGIVIIVLIVYFIFCKKPSNDRSS------------------------------SDMKE
+DSGSGVYV-------------------
+>tr|A8BRB1|A8BRB1_GIAIC Maf-like protein yhdE OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_13889 PE=3 SV=1
+-----------MKKLHLVLASTSPRRAQLLQ-DAGYTFEVVP-SPADEN-----------
+---DVVFTATNSIESFVCKKA-----AIKAEGAVPLRPGALVVG-----CDTIVVC----
+-------KGRIYE------------KPKSPAECV--------------QFLEDFSESTCT
+VV-TAVALR---------------------------------------------------
+-------------------------------------------------------GPGVC
+H------------------------------------------DLTAST----------E
+VD---------FRRIPKE-------------------------DSVAYAATSEPY-----
+DKSGGFACL---GHAARWISCMR--GDAPT----------------------VLGLPICA
+FANALEQLGLAV------------------------------------------------
+---------------------------
+>sp|Q8SWG8|Y215_ENCCU Spore wall protein ECU02_0150 OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=ECU02_0150 PE=1 SV=1
+-MFGSKYLLILLAGLVICSQAIGIRR--------------IPVEVYVSEAGRKKFLDKGR
+SIEDIVGSVAEELELKMNEHVYADRASTDKRKFHFDWNVSGMTS-----SEI--------
+DLDKCGKDTNRFQY----------------------------------DLVQAARDKAGV
+SV----------------------------------------------------------
+---------------------------------------------------------ILL
+YT-------------------------------CESEGYSEDFILAGQK-----TPLVIQ
+RK---------YPECSND-------------------------VATFT--ETEPM-----
+----KIESI---IANALFITA----GSPLN-----------------------DMVEFEE
+VDNG---------------------------------------RDGFKRDIRLKTTDFSL
+FSGGVCH--------------------
+>tr|G7P4G1|G7P4G1_MACFA NAD-dependent protein deacylase sirtuin-5, mitochondrial OS=Macaca fascicularis OX=9541 GN=SIRT5 PE=3 SV=1
+-----------MRPLQIVPSRLISQLYCGLK---------PPASTRNQICLK-------M
+ARPSSSMADFRKCFAKAKHIVIISGAGVSAESGV-----PTFRGAGGYWRKWQAQDLATP
+LAFAHN-PSRVWEFYHYRREVMGSKEPNAGHRAIAECETRLGKQGRRVVVITQNIDE---
+-LHRKAG-----------------------------------------------------
+------------------------------------------------TKNLLEIHGSLF
+-------------------------KTRCTS--CGIV--AENYK----------SPICPA
+LS-------------------------------GKGAPEPGT-QDASI-----PV-----
+---EKLPRCEEAGCGGLLRPHVVWFGENLDPAILEEVD---KELGRCD-LCLVVGTS---
+----------SVVYPAAMFAPQVAARGVP--------------VAEFNTETTPATNRFRF
+H----FQGPCGTTLPEALARHENETVS
+>sp|P40006|IRC22_YEAST Increased recombination centers protein 22 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=IRC22 PE=1 SV=1
+MRFSMLIGFNLLTALSSFCAAISANNSDNVEHEQEVAEAVAPPS----------------
+----INIEVKYDVVGKESENHDSFLEFYAEDTATLAYNVTNWED-----TNITIFGV---
+-------NGTIVTYP--------HGYPVA-------------------DITGASIGPYEM
+EV-NGTSK----------------------------------------------------
+------------------------------------------------------------
+--------------------------------------FGQDVTLNLPEGQYFLIPFLLA
+SR---------FDEI----------------------------VRIA----APPTLFEIV
+SPPISFF-------NPQFLS---------------------------------VQVIFLA
+IIG------GVSYYYMKSKTNQRPSKKS------------------------ATVKKVDE
+SWLPETYKK------------------
+>tr|Q7S0W3|Q7S0W3_NEUCR Mitochondrial chaperone Frataxin OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=NCU09754 PE=4 SV=1
+------------------------------------------------------------
+--------MSRAIVTKVARATLRSLQGTSRNTRITSTP---FAA-----AALLPRATVPR
+FYSTAGPNGNMIT-P--------DKQPVQPKEEAA------------PTVVRAATELTDD
+EY-HKLADQY--------------------------------------------------
+------------------------------------------------------MDRLVT
+HL-------------------------------EELQDEREDIDVEYSA-------GVLT
+VS---------FDDG----------------------------IGTYVINKQPPN-----
+--------------KQIWLSSPK--SGP-------------------------KRYDYVA
+LGDG--------------QNEKEGTAKGEWVYLRDNSTINQLFRDELQIDLSMPVGHYGE
+EEA------------------------

@@ -1,0 +1,72 @@
+>tr|K4CV07|K4CV07_SOLLC Histone H2A OS=Solanum lycopersicum OX=4081 GN=101264975 PE=3 SV=1
+---------------------MPSITAAKSVAGR----GKTQKASK------STSRSQKA
+G--LQFPVGRVARFLK--------------------------------------------
+---------NGRYAQRVGSGS------------PVYLSAV-------------LEYLTAE
+LL-ELAGNAARDNKKNRIVPRHIQLAVRNDDELSKL----LGSATIANGGVLPNIHQNLL
+--PKKIVKGKGEINSVSQEF-------------------------
+>tr|D3BTU3|D3BTU3_POLPP S60 ribosomal protein L27a OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=rpl27a PE=3 SV=1
+---------------------------MPTRFSK--------------------HRKSRG
+D--VCAGYGRVGKH----------------------------------------------
+---------RKHAGGRGNAGGLTHHRINIVKYHPGYFGKLGMRTFHLVRHRSYCPTISLE
+KIWTLVPETVR-K----------TLAAKADGTAPVVDVTQRGFFKVLGHGILPNQ-----
+--PIIV---KARYFSKVAEKKIKAAGGACILVA------------
+>tr|A0A1D8PSC5|A0A1D8PSC5_CANAL Ribosomal 60S subunit protein L28 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=RPL28 PE=3 SV=1
+---------------------------MPTRLTK--------------------TRKHRG
+N--VSAGKGRIGKH----------------------------------------------
+---------RKHPGGRGKAGGQHHHRTNLDKYHPGYFGKVGMRYFHKQQNHFWRPEINLD
+KLWTLVDSEKKDE----------YLSKSSASAAPVIDTLAHGYGKVLGKGRLPEV-----
+--PVIV---KARFVSKLAEEKIRAVGGVVELVA------------
+>tr|C4M3K9|C4M3K9_ENTHI Profilin OS=Entamoeba histolytica OX=5759 GN=CL6EHI_109900 PE=3 SV=1
+MTWQEYVDVELIGSGYCKSAVIIGMDGTENAVSL-HCHLEKNEIANLISLFGDSKKRQTG
+MKIKLKGTGCIIQY----------------------------------------------
+-------------------GG--------------------------------DRTIT--
+-----------------------AMSEKEDEGFVIVKTK---------------------
+--QVII---VATYGDYMKEEQ-------CLLVVEKLADYLIQKGF
+>sp|P48166|RL36A_CAEEL Ribosomal protein rpl-36.A OS=Caenorhabditis elegans OX=6239 GN=rpl-36.A PE=3 SV=2
+------------------------MVNVPKARRT-FCDGK--------------CRKHTN
+HKVTQYKKGKESKFAQGR------------------------------------------
+---------RRYDRKQSGFGG---------QTKPIFRKKA---------------KTTKK
+IVLRMECTECKHKKQL--------------------------------------------
+--PIK----RCKHFELGGQKKSR--GQVIQF--------------
+>sp|P48160|RL27A_DICDI 60S ribosomal protein L27a OS=Dictyostelium discoideum OX=44689 GN=rpl27a PE=3 SV=1
+---------------------------MPTRFSK--------------------HRKSRG
+D--VCAGYGRVGKH----------------------------------------------
+---------RKHPGGRGNAGGLTHHRINFDKYHPGYFGKLGMRHFHLLRNQYHCPTVSLE
+KIWTLVPESVR-K----------SLAAKNDGTAPVVDVTQKGFFKVLGHGILPTQ-----
+--PIIV---KARYFSKVAEKKIKAVGGACILVA------------
+>tr|A2DHC5|A2DHC5_TRIVA Histone H2A OS=Trichomonas vaginalis OX=5722 GN=TVAG_021440 PE=3 SV=1
+---------------------MPAKKGVKKTATKTAVDGERQHPK---------TRSSRA
+G--LQFPVGRLHRFLR--------------------------------------------
+---------EGRYGERVGAGA------------PVFMAAV-------------LEYLTVE
+VL-ELAGNAARDNKKTRISPRHIMLAVRNDEELNQL----LSNITIASAGVVPHIHKVLL
+GNPK-----KGKDASQTQE--------------------------
+>tr|A8BZ78|A8BZ78_GIAIC Ribosomal protein L27a OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_16310 PE=3 SV=1
+---------------------------MPTRIRK--------------------SRKRRG
+H--RQMGYGRVGGH----------------------------------------------
+---------RKHPSGRGKAGGLQHKRTSFDKYHPGYFGKLGMRNYHVRRNIEYNPTINID
+KIWSLIPEEQRDG----------FLQRKSTTEAPVVDVTRFGFFKVLGRGSLPQC-----
+--PIII---KARYFSSDAEKKLREVGGVPLLVP------------
+>sp|O62581|RL27A_ENCCU 60S ribosomal protein L27a OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=RPL27A PE=3 SV=1
+---------------------------MTDRVKK--------------------TRKLRG
+H--VSHGYGRVGKH----------------------------------------------
+---------RKHSGGRGLAGGFSHMKTFFTRFHPDYHGKRGMRVYHRKENSDYARPISSA
+RLWGMIPKEQRYD----------FLD--NPEKVPVIDVREFGYHVVVGGKLSLER-----
+--PIVV---KARYFTPSAKEEITKVGGKWIITY------------
+>tr|G7PPG6|G7PPG6_MACFA Hepatitis delta antigen-interacting protein A OS=Macaca fascicularis OX=9541 GN=EGM_05412 PE=4 SV=1
+---------------------MEAKAGGPEEVTD--------------------EEXXXX
+X--XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXPRGGPGGAGGSGA-----------GP-------------------APEL---
+---ALPPCGPRD------------LGDGSSSTGSV--------------GSPDQL-----
+--PLAC---SPDD--------------------------------
+>sp|P02406|RL28_YEAST 60S ribosomal protein L28 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=RPL28 PE=1 SV=3
+---------------------------MPSRFTK--------------------TRKHRG
+H--VSAGKGRIGKH----------------------------------------------
+---------RKHPGGRGMAGGQHHHRINMDKYHPGYFGKVGMRYFHKQQAHFWKPVLNLD
+KLWTLIPEDKRDQ----------YLKSASKETAPVIDTLAAGYGKILGKGRIPNV-----
+--PVIV---KARFVSKLAEEKIRAAGGVVELIA------------
+>sp|P08978|RL28_NEUCR 60S ribosomal protein L28 OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=rpl-28 PE=2 SV=1
+---------------------------MPTRFSK--------------------TRKHRG
+H--VSAGKGRVGKH----------------------------------------------
+---------RKHPGGRGMAGGQHHHRTNLDKYHPGYFGKVGMRHFHLLRNHQWAPILNIE
+KLWTLVPAEAREK----------YVSGAATETAPVIDLLSHGYAKLLGKGRLPQV-----
+--PIVV---RARYVSAEAERKIKEAGGVIELVA------------

@@ -1,0 +1,132 @@
+>sp|P14275|CB2C_SOLLC Chlorophyll a-b binding protein 1C, chloroplastic (Fragments) OS=Solanum lycopersicum OX=4081 GN=CAB1C PE=3 SV=1
+--------------MAAATM----ALSSPSFAGQ-----------AVKLS----------
+------------------------------------------------------------
+PSASEISGNGRITMRKAVAKSAPS------SSPWXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXSLV-------------------------------------------
+-------HAQSILA------------IWACQVVLM------GAVEGY--RIAGGPLGEVV
+DPL-------------------YPGGS--FDPLGLAEDPEAFAELKVKEI----------
+--------KNGRLAMFS------MFGFFVQ-----------AIVTGKGPLENLADH----
+-------------------LA----DPV----------NNNAWAFATNF-----VPGK--
+-------------------------------
+>tr|D3BJ21|D3BJ21_POLPP Palmitoyltransferase OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=PPL_08258 PE=3 SV=1
+------------------------MSDPDTFTR--------GVVHSFFST----------
+---------------------MFTIFI---LISY--------------------------
+-YL--------------CSTTSPGEFQDTLSPSYYL------------------------
+----------------------------------------------------IYPISDHT
+EEK-----------RFC----NKCNELKPERAHHCS-ICKKCVLRMDHHC-----IWIGN
+CVGVFN-HKYFVLF------------LFYSSI----------------------SIIY--
+-----------------------------------------------FFLLLIAR-----
+--------ATQVLSFQSDE------------NSLPVIDLSHVIISGL-----LLVN----
+-----------Q-------VT-----PTKK--YDKGL-INNLSSVFGDFSFTWLLP----
+------------VPPSILKNNYVKKGDIFFV
+>sp|Q59MA3|PSF2_CANAL DNA replication complex GINS protein PSF2 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=PSF2 PE=3 SV=2
+-------------------M----VLPKNLQGNLMPSE-------ITFLAE-NE------
+----------------------------------------------LIT-------ILP-
+RYSI-----KKI---------------DL-------------------------------
+------------------------------------------------------------
+------------------IGTSIPNLRAMRRELVP--LWVALILKSQDKCSIVPPKWLTV
+AYLKER-YEDEIRKPLQ-FSDLPWNWLELSKILLE------KAPDDL--SDPVDQLRSVI
+QDLRETRL------------VKSKKGLK------------------------------EL
+NESNIQLNGLSLLEINE-----------LRPFVIPVMNKLRQLYDTTQSNTINADDQD--
+-------MEDASDDEDV-------------------------------------------
+-------------------------------
+>tr|B1N5H0|B1N5H0_ENTHI Palmitoyltransferase (Fragment) OS=Entamoeba histolytica OX=5759 GN=EHI_048840 PE=3 SV=1
+----------------VPSC----LIDQSYF--------------GSFLINLG-------
+-------------------------LYLLIFFLFV-----------YFSILYVKPHIIP-
+PYASLEEKQDAIA-RANEAFVNNWHCYDV-------------------------------
+--------------------------------------------------------DYPI
+R--------------YC----CVCKRFIPQRCFHCS-QCGYCVELKDHHC-----DYFGF
+CI--GR-HNLLLFY------------LFFLTLIALC---LYGFV-------CFFHLCYVV
+GF-----------------------GT--FTPL------RIFKLIGILHILA--------
+-----------CLSLGL------ILSFYFLNNSLS------LLINRKTQFELLLEH----
+-----------R-------IS-----------LKLHS-------------VCF-LSYNSY
+S------------------------------
+>tr|Q21981|Q21981_CAEEL Palmitoyltransferase OS=Caenorhabditis elegans OX=6239 GN=dhhc-5 PE=3 SV=2
+-------------------M----WLERTKW----------------VLANIGWP-----
+--------------------IAFTFWYQIIVVLYAADGTISQWALYYFHFLWII--IVC-
+SYFS-------------ASFTPPTKCRDVEK-----------------------------
+----------------------------------------------------VEHCDKEI
+KE------------DVC----QLCNYRKPPRWHHCR-RCNLCVHRMDHHC-----PILQL
+CIHSGN-HKYFLLF------------LVWPLQLAI----------------------FTI
+WH-----------------------GY--YDFW------KTIRSVYTAEILSTSEQLKGT
+G-------VSNALMVG-------IAALYLLKNQLP------NLMRNQT---LIEES----
+-----------RE-----NTS-----------YNLGSWQENVKSVMGAWTIAW-LPFSVT
+KS--REKKFE---------------------
+>sp|Q54IC9|DERL1_DICDI Probable derlin-1 homolog OS=Dictyostelium discoideum OX=44689 GN=derl1 PE=3 SV=1
+------------MDGVKEWFNSIPPVSRYMF--------------AIFLG----------
+----IPVLAAMHL-------ISFNYLYLDFTFTFK-----------HFH-LWRL------
+ITAP-------------CIISSLG--------PMFLF-----------------------
+--------------------------------------------------NLIFFYQYTT
+RLESLNYAGKSDDYLFCIIFISICNII---------------------------------
+-------FGLIFEY------------YFLGTMTIM-------------------SLIYIY
+SRM-------------------NPTGTSNFYGF------FSFKTIYLPWVFLVAHFLQ-T
+GHP----PYSDFLAIVSGHIFFYLTDIYPRANGVPALIKTPKFITNI-----FNKGDR--
+------NPNNVR-------RDPRTGRPIQEGGYNWGQ-GHALG-----------------
+-------------------------------
+>tr|A2GBI9|A2GBI9_TRIVA Palmitoyltransferase OS=Trichomonas vaginalis OX=5722 GN=TVAG_313610 PE=3 SV=1
+MFVFSHYINYIAVYLAAPSTDYFYSYNPSNF--------------AFFLY----------
+---------------------TINYFV---SMYF--------------------------
+-YS--------------LAAKSPG-YQNTPKQP---------------------------
+--------------------------------------------------------KQEN
+EDR-----------FYC----EKCEHHCLLRCSHCS-ACCACILRRDHHC-----IWLGQ
+CVGQNN-HAHFYIY------------IFLESINCI------------------ASLIFTL
+K------------------------GL--FYRFKYH--NKNYNGFLLIYLLPWAI-----
+--------YCSGLSF------------------LIFLEQTNNILNNLTGWEVARWN----
+-----------N-------VSYLKGFPYKKSPFDKGV-VKNVKEFFTMRGRKLIYP----
+------------PPRLFL-------------
+>tr|A8BZQ3|A8BZQ3_GIAIC Protein 21.1 OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_115786 PE=4 SV=1
+-------------------M----VLQRMRTDAGGRDAQ--GCT-ALFLA----------
+--------------AQRGMHQLLNLLV----------G----------------------
+AEADIADSRGRTALMA-AAANNRVGCIDR-------------------------------
+----------------------------------------------------LLPFQHGR
+QDFDGDTALIYAA-RFW-ATDALSLLRTEARLQNKRGETALMVAAASNYVEG--------
+-------VEALLLYEARAQTVEGWTALMCAAVVGA--------------TAAVCQLVTVE
+AGLRNNR------------------GRT----------------ALIEAVLC--------
+------GQMASVHVLAP-----------LEHGAIDAAGRCALMYAASRG-----------
+------HTPAIR------ILC-----PLEGDVLDPSG-----------------CDYRSY
+GET-----------------------DCLL-
+>tr|Q8SUL8|Q8SUL8_ENCCU Palmitoyltransferase OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=ECU08_1500 PE=3 SV=1
+---------------MEVWR----LVNRLVV----YTELL-IVTFVVLLY----------
+------LLGLYE--AAIVSGISVRLYLLMTSFYY--------------------------
+-YAG-------------CLAKSPGQLLDFGSANVK-------------------------
+------------------------------------------------------------
+--------------GIC----KKCNRIVGTRTIHCE-ICNKCYHKRDHHC-----SIIGR
+CVASNNIRDLYFAV------------LFINFH----------------------SLVAVL
+R------------------------GST-----------------ELTYMLSVHR-----
+--------YLLAMS------------------SIFVCWLTLLILTDKTTKELMKSGGR--
+------VTDGVR-------MSRMRE------IFRGGL-VGTL------------FPYLRW
+KT------------------SIVK-------
+>tr|G7PRE9|G7PRE9_MACFA Palmitoyltransferase OS=Macaca fascicularis OX=9541 GN=EGM_06626 PE=3 SV=1
+---------------MAPWA----LLSPGVLVRTGHTVLTWGITLVLFLHDTGEPDPERP
+RTHPIPQLRQWEEQGELLLPLTFLLLVLGSLLLY--------------------------
+-LA--------------VSLMDPG-YVNAQPQP---------------------------
+--------------------------------------------------------QEEL
+KEEQTAMVPPAIPLRRC----RYCLVLQPLRARHCR-ECRRCVRRYDHHC-----PWMEN
+CVGERN-HPLFVVY------------LALQLVVLL------------------WGLYLAW
+S------------------------GLQFFQPWGLW--LRSSGLLFATFLLL--------
+----------SLLSLVA---------------SLLLASHLYLVASNTTTWEFISSH----
+-----------R-------IAYLRQRPGNP--FDRGL-TRNLAHFFCG------WPSGSW
+ETLWAEEEEEGSSPTV---------------
+>sp|P53256|RRP46_YEAST Exosome complex component RRP46 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=RRP46 PE=1 SV=2
+-------------------M----SVQAE----------------IGILDHVDGSS----
+------------------------------------------------------------
+EFVS---QDTKVI----CSVTGPIEPKARQELPTQLA-----------------------
+------------------------------------------LEIIVRPAKGVATTREKV
+LEDKLRAVLTPLITRHC-YPRQLCQI-----------TCQILESGEDEAE--FSLRELSC
+CI-----NAAFLAL-----VDAG---IALNSMCASIPIAIIKDTSDIIVDPTAEQLKISL
+SVH------TLALEFVN--------GGK-----------------VVKNVLL----LDSN
+GDFN-EDQLFSLLELGE--------------------QKCQELVTNIR--RIIQDN----
+-------------------IS---------------------------------------
+-------------PRLVV-------------
+>sp|Q7S8M2|SPC24_NEUCR Probable kinetochore protein spc24 OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=kpr-3 PE=3 SV=1
+-------------------M----LLEED------PS---------TLIAHTTQ------
+----------------------------------------------NFN-------ITPD
+RHAV-----SRVA----ESLSTLQQARDLR------------------------------
+------------------------------------------------------------
+------------------LRESETNLKKLARTLN--------TLQSQH-------QEVTS
+SHSSAE-HASLISR------------LDTQKFRVA------KNVSDL--EMETERLQTQL
+AEL-QARLQELELQGVDGGDASAAGGAT------------------------------ST
+GENNGNGSAGNGGQVRS-----------VEDEVLLRLKVYRSL-----GIEIEREEQDGG
+EFTRAVVRNDRRGDVCVVNVD-----------------RHRFSRFF--------YANYFW
+QTL----------------------------

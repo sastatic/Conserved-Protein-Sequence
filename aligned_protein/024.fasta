@@ -1,0 +1,108 @@
+>sp|P14275|CB2C_SOLLC Chlorophyll a-b binding protein 1C, chloroplastic (Fragments) OS=Solanum lycopersicum OX=4081 GN=CAB1C PE=3 SV=1
+----------------------------MAAA----------------------------
+---------TMAL-----------------------SSPSFAGQAVKLSPSASEISGNGR
+ITMRKAVAKSAPSSSPWXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSLV
+HAQSILAIW----------ACQVVLMGAV-------------------EGYRIAGGPLGE
+VVDPL----------------YPGGS-FDPLGLA---------EDPEAFAELKVKEIKNG
+R-----LAMFSMFGFFVQ----AIVTGKGPLENLADHL-----------ADPVNNNAW-A
+FATNFVPGK
+>tr|D3BEP4|D3BEP4_POLPP Peroxiredoxin OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=prdx4 PE=4 SV=1
+------MTGHCHK-----------------------------------------------
+----------------------------HEQIRIRKQAPKFQGQAVV-NGEFKDISLDDY
+KG-KYVYFFFYP------------------------------------------------
+------------------------------------------------------LDFTFV
+CPTEIIAFSEAAEEFRKI-GCEIIACSVD--SVFSHLAWINTPRK---------EGGLGG
+IKFPILSDITHQVSKDYGVY-------IEEDGHT--IRGSFIIGKDGLVKHIQLNDNPVG
+RNVEEALRLVKGYMYTDVHGEVCPANWNPDNSKTMI-------------PDPKGSKAY--
+FQSVNQ---
+>sp|P0CU34|TSA1B_CANAL Peroxiredoxin TSA1-B OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=TSA1B PE=2 SV=1
+------------------------------------------------------------
+-----------------------------MAPVVQQPAPSFKKTAVV-DGVFEEVTLEQY
+KG-KWVLLAFIP------------------------------------------------
+------------------------------------------------------LAFTFV
+CPSEIIAYSEAVKKFAEK-DAQVLFASTD--SEYTWLAWTNVARK---------DGGIGK
+VDFPVLADTNHSLSRDYGVL-------IEEEGVA--LRGIFLIDPKGVLRQITINDLPVG
+RSVEESLRLLEAFQFTEKYGEVCPANWH-PGDETIK-------------PSPEASKEY--
+FNKVNK---
+>tr|C4MAR7|C4MAR7_ENTHI Peroxiredoxin OS=Entamoeba histolytica OX=5759 GN=CL6EHI_001420 PE=4 SV=1
+------MSCNQQKECCKKECQEKECCCPRIKA----------------------------
+------------------FKKFINTF---EKAQIGKEAPEFKAPAYCPCGSIKEIDINEY
+RG-KYVVLLFYP------------------------------------------------
+------------------------------------------------------LDWTFV
+CPTEMIGYSELAGQLKEI-NCEVIGVSVD--SVYCHQAWCEADKS---------KGGVGK
+LTFPLVSDIKRCISIKYGML-------NVEAGIA--RRGYVIIDDKGKVRYIQMNDDGIG
+RSTEETIRIVKAIQFSDEHGAVCPLNWK-PGKDTIE-------------PTPDGIKKY--
+LTAH-----
+>sp|Q21824|TDX1_CAEEL Probable peroxiredoxin prdx-3 OS=Caenorhabditis elegans OX=6239 GN=prdx-3 PE=3 SV=1
+------MFSSAVRALCRT--------VPTVATR---------------------------
+--QLSTSRALLSL----------------RPLGPKNTVPAFKGTAVV-DGDFKVISDQDY
+KG-KWLVMFFYP------------------------------------------------
+------------------------------------------------------LDFTFV
+CPTEIIAYGDRANEFRSL-GAEVVACSCD--SHFSHLAWVNTPRK---------DGGLGD
+MDIPLLADFNKKIADSFGVL-------DKESGLS--YRGLFLIDPSGTVRHTTCNDLPVG
+RSVDETLRVLKAFQFSDKHGEVCPADWH-EDSPTIK-------------PGVATSKEY--
+FNKVNK---
+>sp|Q555L5|PRDX4_DICDI Peroxiredoxin-4 OS=Dictyostelium discoideum OX=44689 GN=prdx4 PE=1 SV=2
+MRSATKLFKNLSKSVVQLKTV-----KPVSSL----------------NF---GYIKTRQ
+FSTSTTDSSNLFLNNNNQFQNF--TFPTKQQIRIRKPAPAFKGQAVV-NGEFKEISLDDY
+KG-KYLYLFFYP------------------------------------------------
+------------------------------------------------------LDFTFV
+CPTEIIAFSNAAEEFKKA-GCELVGCSID--SPFTHLAWINTPRK---------EGGLGG
+INIPLLSDLTHQISKDYGVY-------IEEDGHT--IRGSILIDKEGLVRVITMNDNPVG
+RSVDEAIRTLKALKFTDQFGEVCPANWS-EGDKSMK-------------ADPKGSKEY--
+FEAVNK---
+>tr|Q6UJG4|Q6UJG4_TRIVA Thioredoxin peroxidase OS=Trichomonas vaginalis OX=5722 GN=TPx PE=2 SV=1
+------------------------------------------------------------
+-------------------------------MLVGKPAPAFKSTAVFPDTDFKEVSLEQY
+KG-KWLVLFSYP------------------------------------------------
+------------------------------------------------------LDFTFV
+CPTEIIEFSNKYEEFKKI-GCEVLGLSVD--SVFTHLAWINTPRK---------EGGLGE
+IKYPLIGDLGGKIAKDYGFY-------MCEAGHT--LRGTAIIDPEGIIRHVQMNHPDVG
+RNVDEILRLVKAYQFAAKHGEVCPAQWHGEGDLTIK-------------PNPKASKEY--
+FGKANN---
+>tr|A8B338|A8B338_GIAIC Peroxiredoxin 1 OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_14521 PE=4 SV=1
+-----------------MP-------VPIPGT----------------------------
+------------------------------------PCPDFEVDVVTPELKFAKRKLSDY
+KG-KYLIVFFYP------------------------------------------------
+------------------------------------------------------LDFTFV
+CPSEIIHFSNLAEQLKKKCNAEIIIGSTD--SVYSHYAWCLQGQN---------EGGIGT
+CKCDLFADTNHKMARDFGVL-------VEDAGIA--LRGMFIVSDKGVVRHVTINDLPVG
+RSVEEAMRLVQAFQYADKTGGVIPCGWTPEKNDTII-------------PDPEKKKEY--
+FSKTFKK--
+>sp|Q8SR84|RL12_ENCCU 60S ribosomal protein L12 OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=RPL12 PE=1 SV=1
+----------------------------MAEQKGM---D---------------------
+------------------------------------PDTKYIKLQVV-GGEVPGATLAQR
+VG---------P------------------------------------------------
+------------------------------------------------------LGLS--
+---------------SKVVGEDIKKATADYKSLKVHVQLAIKDRKATVE----VQPSVAT
+LIIKSLKEPPRDRKKEKNIL--HNGS----------LRMTEVVDIARIARSSRSYSNSLS
+GTVKEVLGTCKSIG--------CKVDGKCPKEVTRE---IDAGEIKL--PDQ--------
+---------
+>tr|G7Q2D6|G7Q2D6_MACFA Peroxiredoxin-4 (Fragment) OS=Macaca fascicularis OX=9541 GN=EGM_18620 PE=4 SV=1
+---------GRHRRLLLLPLLL--FLLPAGAVRGWETEDRPRTREEECHFYAGGQVYPGE
+ASRVSVADHSLHL----------------SKAKISKPAPYWEGTAVI-DGEFKELKLTDY
+RG-KYLVFFFYP------------------------------------------------
+------------------------------------------------------LDFTFV
+CPTEIIAFGDRLEEFRSI-NTEVVACSVD--SQFTHLAWINTPRR---------QGGLGP
+IRIPLLSDLTHQISKDYGVY-------LEDSGHT--LRGLFIIDDKGILRQITLNDLPVG
+RSVDETLRLVQAFQYTDKHGEVCPAGWK-PGSETII-------------PDPAGKLKY--
+FDKLN----
+>sp|P34760|TSA1_YEAST Peroxiredoxin TSA1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=TSA1 PE=1 SV=3
+------------------------------------------------------------
+-----------------------------MVAQVQKQAPTFKKTAVV-DGVFDEVSLDKY
+KG-KYVVLAFIP------------------------------------------------
+------------------------------------------------------LAFTFV
+CPTEIIAFSEAAKKFEEQ-GAQVLFASTD--SEYSLLAWTNIPRK---------EGGLGP
+INIPLLADTNHSLSRDYGVL-------IEEEGVA--LRGLFIIDPKGVIRHITINDLPVG
+RNVDEALRLVEAFQWTDKNGTVLPCNWT-PGAATIK-------------PTVEDSKEY--
+FEAANK---
+>tr|Q7S4F4|Q7S4F4_NEUCR Mitochondrial peroxiredoxin PRX1 OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=rhd PE=4 SV=1
+----------------------------MAST------DR--------------------
+----------------------------NAPLRLGTIAPNFQADTTT-----GPIDFHEF
+IGDNWVILFSHP------------------------------------------------
+------------------------------------------------------EDYTPV
+CTTELGEMARLEPEFKKR-GVKLIGLSAN--TLGSHEGWINDIKD---------VTG-SQ
+VQFPIIADKERKVAYLYDMLDYQDTTNVDEKGIAFTIRSVFVIDPKKTIRTILAYPASTG
+RNSAEILRIVDSLQTGDKHKVTTPINWV-PGDDVIVHPSIKGEEATRLFPNLKAVKPYLR
+FTPLPKDA-

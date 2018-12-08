@@ -1,0 +1,96 @@
+>tr|K4D695|K4D695_SOLLC Gamma-glutamylcyclotransferase OS=Solanum lycopersicum OX=4081 GN=101246397 PE=3 SV=1
+-----------------------------------------------------MVMWVFG
+YGSLIWKPGFNYDDRLFGF--IKGYRRVFYQGSTDHRGTPEFPGRTVTLEP---------
+---------------AEGEI-CWGMAYK----------------ITKEEDQEVAL-TYLE
+VRE-KQYDQKAYVDLFTE------------------PAASAPAVSDVLVYIGSPDKKLNE
+NYLGPASVEEIASQ-------------------IARAEGPSGPNKDYLFQLENALGLL--
+GCE------------DKH----------VIDIAKEVRR-----------IL----SEDEV
+TIS-------------------------------------------
+>tr|D3BM04|D3BM04_POLPP Nascent polypeptide-associated complex subunit beta OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=nacB PE=3 SV=1
+-------------------MAMDV-N----------------------------------
+---------------------IEKLNK------------------------LAEKVRTG-
+--------------GPGSVRRKKQVVHNKAGGVDNRQLQAKLQSLGVRPIQGIEE---VN
+LFK-TDGTIIHF------------------------DNPHVQTAQKTFVVSGTAQ---NK
+------TLQEL--L-----PGIISHLGAD--------------NIENLKKIAEQFQVRGD
+NKAD-----------DDV----PTL---VDNFETAAQN----------------------
+----------------------------------------------
+>tr|A0A1D8PL00|A0A1D8PL00_CANAL Gamma-glutamylcyclotransferase OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=orf19.372 PE=3 SV=1
+-------------------MTHP------------------------------QGMWIIG
+YGSLIFKPPPHVSYKVTGY--LKGFIRRFWQSSIDHRGTPEYPGRVVTLLSIDD------
+-LTSPKFHDEFYNVSSPDDLRVYGVAYY----------------IEPQHVEQVK--QYLD
+IRE-QNGYTAHKVPFYV-----------------------GEEFIESDIYIGTID---NE
+AFVGPESLEDTAHV-------------------IRTAVGPSGKNIDYLANLVHS------
+IKDFG--------IRDHY----------LEHLY----------------TLASSNPDSST
+SPTLK-PAPTD-----------------------------------
+>tr|C4LY16|C4LY16_ENTHI Calcium binding family protein OS=Entamoeba histolytica OX=5759 GN=CL6EHI_177620 PE=4 SV=1
+-------------------MTTSE------------------------------------
+------------------------------------------------LIDDYFSI----
+--------------------------------------------LDIDHDKKISRDQVIE
+LLR----------------------ALGKA------PTQQQEEAIMREV---------KE
+DLVGVEKIRQLYKKCEMKVPKDL----YDDMFGVFTALDKEENGQIHEAELRQILSVL--
+---------GRP-LSNSE----------VEAIM----------------RSATVSREGYV
+DYKEFADMLVKEYPPE------------------------------
+>tr|Q9GZE8|Q9GZE8_CAEEL Gamma-glutamylcyclotransferase OS=Caenorhabditis elegans OX=6239 GN=CELE_F22F7.7 PE=3 SV=2
+MPLKSKILWNIAHVPRPRIVKKPPPPPPWPVTTYPAK------MEALATSSTSQSLWIFG
+YGSLIWNPGFTFSTSRKAY--AIGWARRMYQGNTYHRGDEKLPGRVATLIEETNSY----
+---------------------TNGVVFR----------------VDGKSAIATAV-KYLE
+QRECDNGYAFRMVPVQIRS-----------------AAHRRPTVVMALTCVADQQ---NE
+LYLGPDDLIKMARE-------------------IVTAKGCAGPNCEYVLNLAENLRKL--
+FPNDE----------DDH----------LFQLEHHVR-------------IAKVRA----
+----------------------------------------------
+>sp|P13651|IF5A_DICDI Eukaryotic translation initiation factor 5A OS=Dictyostelium discoideum OX=44689 GN=eif5a PE=1 SV=2
+-------------------MSDN---------------------EALDV----EDYAQAG
+SGASLTFPIQCSALRKNGFVVIKGFPCKIVDMSTSKTGKHGHAKVNITAID---------
+-IFTGKKYEE-----------ICPSTHN----------------IDVPNVSRKEY-TVMD
+VQD------------------------G---------------------YLSLLD-----
+--AGGEVKEDLA------------------------------------------------
+LPEDD--------I-GKE----------ITQMLKEGKEPLV-------SVISALGKEGVV
+SVKVSNN---------------------------------------
+>tr|A2G864|A2G864_TRIVA p270-related protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_114980 PE=4 SV=1
+-------------------MTQWKKPK----TSSPISXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXFEER------TGKFEYKFYE---DQSYIP-LPEKNVKEISSGSST----
+--------------SSKKLLADDGKTYQL--------------TIPAPKIDEIR-----D
+SEE----------------------------AKLRIRTAQSDEQPPSNVFSKEIKLE-KT
+KYVSGEQPNPTS------------------------------------------------
+SPSKGG-------LSGGQ----------IVGIVFAVLLGIVIIVLIVYFIFCKKPSNDRS
+SSDMKEDSGSGVYV--------------------------------
+>tr|E2RTW6|E2RTW6_GIAIC Adenine phosphoribosyltransferase OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_112885 PE=4 SV=1
+-------------------MTMSVAD----------------------------------
+---------------------AHALIKTI----------PDFPTKGIAFKDLSDILSTP-
+--------------AALDAVRKEVTAHYK--------------DVPITKVVGIE------
+--------------------------------------------SRGFILGGIVA---NS
+LGVGFVALRKAGKL-----PGDVCKCTFD---------------MEYQKGVTIEVQKRQL
+GPHDVV------LLHDDVLATGGTLLAAIELCETAGVKPENIYINVLYEIEALKGREKVG
+QKCTRLFSVIRE----------------------------------
+>tr|Q8SSL6|Q8SSL6_ENCCU THIOREDOXIN REDUCTASE OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=ECU01_0680 PE=4 SV=1
+----------------------------------------------------MRSVVIVG
+QG----------------------------------------PGAYMCGIYLHTANMSPL
+IIKACKEKPDF---SGSGNV------------------------VGVKGIQRPE--EFID
+LVE----------------------R--------------------------------QS
+RNMGINVVEEEVVE-------------------IARREGCLEVKTDASVYKTKSL----V
+IDSKALETRYRPLLEDNG----------VFYVSDKAPCKEAI-------VLAGAGCKVSF
+DVKEFMDTMKQ-----------------------------------
+>tr|G7PM72|G7PM72_MACFA Gamma-glutamylcyclotransferase OS=Macaca fascicularis OX=9541 GN=CHAC2 PE=3 SV=1
+-------------------------------------------------------MWVFG
+YGSLIWKVDFPYQDKLVGY--ITNYSRRFWQGSTDHRGVPGKPGRVVTLVE---------
+---------------DPAGC-VWGVAYR----------------LPVGKEDEVK--AYLD
+FRE-KGGYRTTTVIFYPK------------------DPTTKPF--SVLLYIGTCD---NP
+DYLGPAPLEDIAEQ-------------------IFNAAGPSGRNTEYLFELANSIRNL--
+VPEEA----------DEH----------LFALEKLVKE-----------RL-----EGKQ
+NLNCI-----------------------------------------
+>sp|P32656|CHAC_YEAST Glutathione-specific gamma-glutamylcyclotransferase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=GCG1 PE=1 SV=1
+-------------------MTNDN-----------------------------SGIWVLG
+YGSLIYKPPSHYTHRIPAI--IHGFARRFWQSSTDHRGTPANPGRVATLIPYEDIIRQTA
+FLKNVNLYSESAPIQDPDDLVTIGVVYY----------------IPPEHAQEVR--EYLN
+VRE-QNGYTLHEVEVHLETNREHEAELGEALEQLPRHNKSGKRVLLTSVYIGTID---NE
+AFVGPETVDETAKV-------------------IAVSHGPSGSNYEYLAKLEQALAQMPI
+MKERGR-------ITDHY----------LTAL------------------LETVNKYR--
+----------------------------------------------
+>tr|Q7SGB2|Q7SGB2_NEUCR Gamma-glutamylcyclotransferase OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=NCU02737 PE=3 SV=2
+-------------------MSAQKPP------------------------SKQDEFWIFG
+YGSLIWKPPPHFDRRIPGW--VEGYVRRFWQASEDHRGTPSAPGRVVTLIERSY------
+WASLADRHD-----SAPAK--VWGVAYR----------------IKADRVAEVK--EYLD
+IRE-INGYTIHWTPFHPASDVD---------PALLPPAQKGPI--QTLVYIGTPD---NA
+QFTGPQDPQELSEH-------------------IYRSKGPSGLNRDYLWGLEKALDEL--
+SPESS----------DEH----------VKDLSNRVRA-----------VAARYKSEGKA
+DPTEETDAATEVIEVNGTTGETHDEHHHQFRRAGSVDEQEETEKTS

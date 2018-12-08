@@ -1,0 +1,84 @@
+>tr|Q7XZS6|Q7XZS6_SOLLC Glutathione peroxidase OS=Solanum lycopersicum OX=4081 PE=2 SV=1
+------------------------------------------------------------
+MAEG--------------------------------------------------------
+----------------SPKSIYDFTVKDIQGNEVPLSNYRGKVL--LIVNVASKC-----
+--------------------GLTDSNYKELNILYE----KYKDQGFEILAF------PCN
+QFLWQEPGTNEEIQQTVCTRFKAEFPVFEKIDVNGDNAAPL---YKFLKSEKG--GFLG-
+SAVKW------NFTKFLVDKEGKVVERYAPKTP--PLQFEKDIKNLLGVA-------
+>tr|D3BAT7|D3BAT7_POLPP Thioredoxin OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=trxC PE=3 SV=1
+------------------------------------------------------------
+MSV---------------------------------------------------------
+--------------------FRSASSLFLNGG-VNRASFLSTRFYFTKADDVK-------
+----------------------------SFDKFLD-------DNKSAVVDFYADWCGPCR
+MMNPVLEKTFNNVKD----------TKLAKLDIDKLPAI-----AEEFGVSSIP------
+TIIGFKDGK--EVVRVIGAVNEKKLLDLIEKTK------------------------
+>tr|Q59WW7|Q59WW7_CANAL Glutathione peroxidase OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=orf19.86 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------MSQFYELAPKDAKGEPYPFEQLKGKVV--LIVNVASKC-----
+--------------------GFT-PQYKGLEELNK----KFADQPVQILGF------PCN
+QFGHQEPGSNEEIGSFCSLNYGVTFPVLDKIEVNGDNTDPV---YKYLKSQKS--GVLGL
+TRIKW------NFEKFLIDQNGKVIERFSSLTS--PESIGTKIEELLKK--------
+>tr|C4LXT1|C4LXT1_ENTHI Prefoldin alpha subunit OS=Entamoeba histolytica OX=5759 GN=CL6EHI_063340 PE=4 SV=1
+------------------------------------------------------------
+MSAP--------------------------------------------------------
+----------------KPIPLTSLSPRDLAG------------LHKTLQNELQNL-----
+--------------------------QASYEQLFS-VQQTYLDNKSIINALTNEKVKGQP
+MLVPMNSSLY------------------MKGDIDSYDRVIIDIGANYFVSKKLP------
+AALEFYDRK----IKLIEGEKE-KILKIVSSRKQMIASVQEQMAKTLAAAQPK----
+>sp|O02621|GPX1_CAEEL Glutathione peroxidase 1 OS=Caenorhabditis elegans OX=6239 GN=gpx-1 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------MSSVYDFNVKNANGDDVSLSDYKGKVL--IIVNVASQC-----
+--------------------GLTNKNYTQLKELLD----VYKKDGLEVLAF------PCN
+QFAGQEPSCEIDIQAFVADKFKFEPTLFQKIDVNGDKQSPL---FKFLKNEKG--GFMF-
+DAIKW------NFTKFLVGRDGKIIKRFGPTTD--PKDMEKDIKEALGEKL------
+>sp|Q54NC5|SMD2_DICDI Probable small nuclear ribonucleoprotein Sm D2 OS=Dictyostelium discoideum OX=44689 GN=snrpd2 PE=3 SV=1
+------------------------------------------------------------
+MSR---------------------------------------------------------
+----------------MNDETMEDKPDDSNGP--------LSILMDSVNNNTQVL-----
+------------------------INVRNNKKLLG-----------RVRAFDR----HCN
+MVLENVKEIWTEV---------------PKTAKGKKKAKPI-------------------
+-------NKDRFISKMFLRGDSVILVLKNPLGA--PPQAN-----------------
+>tr|A2GIZ8|A2GIZ8_TRIVA Glutathione peroxidase OS=Trichomonas vaginalis OX=5722 GN=TVAG_248810 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+------------------MSIYEFVVKDNKGNDFHFDTLKGKVI--MIVNTASKC-----
+--------------------GFT-PQYKDLEALYQ----KHKDEGFEIIAF------PCN
+QFLSQEPGTDEEIASFCSLNYGVTFPIMKKINVNGEYAADI---YKFLKEKES--GFLG-
+SAIKW------NFTKFLISRDGKKIKRYAPTTN--PSSIEKDVVEFIKEQ-------
+>tr|A8BC67|A8BC67_GIAIC Peptidyl-prolyl cis-trans isomerase OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_17163 PE=3 SV=1
+------------------------------------------------------------
+MNSP--------------------------------------------------------
+---------------VSDKVFFDITIGGKPLGRITMGLF-GSIVPKTAENFKKLCTGEMG
+FGYKGSTFHRVIPKFMIQGGDFTNHNGTGGKSIYG---AKFPDENFEIKHFV-----GCL
+SMANAGP------------------------NTNGSQ------------------FFLTV
+ADTAWLDGKHVVFGRVL---DGMDVVKAIETTK--TGANDKPVEKVVIADCGVLQ--
+>sp|Q8SSH7|GPX_ENCCU Probable phospholipid hydroperoxide glutathione peroxidase OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=ECU02_0440 PE=1 SV=1
+------------------------------------------------------------
+MERG--------------------------------------------------------
+---------------MESEAFYGLSARGWDGSEVSLGSFRGCVI--MIANVASSC-----
+--------------------KFAESNYKSFAGLLD----KFYRKGLRILLF------PCN
+QYLGQESRPIEEIRGEVSKKYSDRFVVFDKVDVFGKGAHPV---FRHLVNTKNGKGRLG-
+NFIKW------NFTKFLVDRKGCVVKRFGPSDI--VKEDDENLLRSIEDGENGMQNS
+>tr|G7PPG6|G7PPG6_MACFA Hepatitis delta antigen-interacting protein A OS=Macaca fascicularis OX=9541 GN=EGM_05412 PE=4 SV=1
+------------------------------------------------------------
+MEAKAGGPEEVTDEEXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXPRGGPGG----------------------------
+---AGGS-----------GAGPA----------------------------------PEL
+ALPPCGPRDLGDGSS-------------STGSVGSPDQLPL-------------------
+-----------------------------------ACSPDD----------------
+>sp|P38143|GPX2_YEAST Glutathione peroxidase-like peroxiredoxin 2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=GPX2 PE=1 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+----------------MTTSFYDLECKDKKGESFKFDQLKGKVV--LIVNVASKC-----
+--------------------GFT-PQYKELEELYK----KYQDKGFVILGF------PCN
+QFGKQEPGSDEQITEFCQLNYGVTFPIMKKIDVNGSNADSV---YNYLKSQKA--GLLGF
+KGIKW------NFEKFLVDSNGKVVQRFSSLTK--PSSLDQEIQSLLSK--------
+>tr|Q7S060|Q7S060_NEUCR Glutathione peroxidase OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=NCU09534 PE=3 SV=2
+MIPRYHHRSVATLARTSLTTRHLKLSPILPQQQQQQPRLPVSKPAFRCQPAISRRFATTT
+LNMS--------------------------------------------------------
+----------------SATTIYDFKPLDKKGSELPLSTYQGKVV--LIVNVASKC-----
+--------------------GFT-PQYAGLEKVYKEIKEKYPDD-FEILAF------PCN
+QFGGQEPGTEEEIQSFCQLNYGVSFPIMKKVEVNGDNADPL---YEWMKNEKP--GLMGL
+KRIKW------NFEKFLIGKDGKVKGRWASTTK--PESLKEAILKELGE--------

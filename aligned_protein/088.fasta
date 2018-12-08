@@ -1,0 +1,60 @@
+>tr|K4CAT6|K4CAT6_SOLLC Small nuclear ribonucleoprotein Sm D1 OS=Solanum lycopersicum OX=4081 GN=101248611 PE=3 SV=1
+------MKLVRF-------LMKLNNETVSIELK-NGTVVHGTITGVDVSMNTHLKAV---
+-------KITLKGKNP--VTLDHLSVRGNNIRYYILPDSL-NLETLLVEETP--------
+---RVK--------PKKPTAG-------KPMGRGRGRGRGRG-----------------R
+GRGR------------------
+>tr|D3AWW2|D3AWW2_POLPP Small nuclear ribonucleoprotein G OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=snrpG PE=3 SV=1
+---------MVFGKPQDPDLTKLLDKKMNVKLN-GNRTVIGILRGFDSFMNIVLKDT---
+------VEVTYPQEQ---INMGMVVIRGNSIVMM--------------------------
+--EPLEAVSSKK------------------------------------------------
+----------------------
+>tr|A0A1D8PNM3|A0A1D8PNM3_CANAL mRNA splicing protein OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=orf19.4340.1 PE=4 SV=1
+MSNFQPINPTPF-------LKSLIGKTIIVRLKWNKTQYKGTLVSIDNYMNLQLDQTY--
+---EIISESTDTDATKE-ELIGEIFIRCNNVLFIREYKE----QQQPVDSKPIENGDKNG
+KIDKESVEEEEKATNNEDIEID------KE------------------------------
+----------------------
+>tr|B1N466|B1N466_ENTHI Small nuclear ribonucleoprotein Sm D1 OS=Entamoeba histolytica OX=5759 GN=CL6EHI_052090 PE=3 SV=1
+------MKLVRF-------LMRLTNEVVTIELK-SGAVLTGTIVGVDNYMNVHLKVV---
+-------KMTQKGKNP--INLDQSTVRGNTIRNIILPESL-NLDTYLVDDTP--------
+---RLKVKAAVKSALKKKTEL-------KPKK----------------------------
+----------------------
+>sp|Q19952|LSM4_CAEEL Probable U6 snRNA-associated Sm-like protein LSm4 OS=Caenorhabditis elegans OX=6239 GN=lsm-4 PE=3 SV=1
+-----MVLPLSL-------LKTAQNHPMLVELK-NGETYNGHLKACDSWMNIHLVDV---
+-------IFTSKDGDKF-FKMSEAYVRGSTIKYLRIPET--------VVDLV--------
+---KTEVNEVRRQQQRE-----------QSRGRGGGRGGRGGHRGG-------GGNRGGR
+GGAR------------------
+>sp|Q54TF6|LSM2_DICDI Probable U6 snRNA-associated Sm-like protein LSm2 OS=Dictyostelium discoideum OX=44689 GN=lsm2 PE=3 SV=1
+------MLFFSF-------YKSLVGKEITVELK-NDLSITGLLQSVDQFLNIKLKDI---
+-------KVNEEDKYPYMISVKNCFIRGSVVRYVHLPAE--DVDVETLQDHS--------
+---RLEAREQKKQNKQHQEQT-------NQKSSNTTTTTTV-------------------
+----------------------
+>tr|A2E4T4|A2E4T4_TRIVA Small nuclear ribonucleoprotein Sm D1 OS=Trichomonas vaginalis OX=5722 GN=TVAG_160790 PE=3 SV=1
+------MKLVHF-------LRKLVRETVTVELK-DNTVIKGTVVGVDSAMNTHLRLV---
+-------HIKAPGQEE--KRLENLTIRGASIRYVILPDVL-NLDTLLVDDSPTK------
+--TRMRHGEAKEEKDRKPILF-------QQKKW---------------------------
+----------------------
+>tr|D3KHG8|D3KHG8_GIAIC Pam18p OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_300001 PE=4 SV=1
+-----------M-------LRVLSENRFPLSLV------AGVVAGFYSYLRKDPRVIVTS
+PPRSWKGEISSP------LSSHEARLVLNTSRFSTDAEVTKNYRSLLAKAHPDRGGSKY-
+--IAAIIGEAHEKLRNRC------------------------------------------
+----------------------
+>tr|Q8SSM1|Q8SSM1_ENCCU SMALL NUCLEAR RIBONUCLEOPROTEIN (U1/U2 snRNP) OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=ECU01_0545 PE=4 SV=1
+------MKLVRV-------LRKCKNERVKIETK-EGRRIEGKIVSVDKTMNVEM--V---
+-------DVVVDGAPA--STY---TVRGSSIRYVLFRDDI-DFKPLLVDDRP-R------
+--NRARGQETGKAKRRKTGV----------------------------------------
+----------------------
+>tr|G7PPG6|G7PPG6_MACFA Hepatitis delta antigen-interacting protein A OS=Macaca fascicularis OX=9541 GN=EGM_05412 PE=4 SV=1
+-----------------------------MEAKAGGPE----------------------
+-------EVTDEEXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXX------XPRGGPGGAGGSGAGPAPELALPPCGPRDLGD
+GSSSTGSVGSPDQLPLACSPDD
+>sp|P38203|LSM2_YEAST U6 snRNA-associated Sm-like protein LSm2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=LSM2 PE=1 SV=1
+------MLFFSF-------FKTLVDQEVVVELK-NDIEIKGTLQSVDQFLNLKLDNI---
+-------SCTDEKKYPHLGSVRNIFIRGSTVRYVYLNKN--MVDTNLLQDAT--------
+---RREVMTERK------------------------------------------------
+----------------------
+>tr|Q7S9L9|Q7S9L9_NEUCR U6 snRNA-associated Sm-like protein LSm4 OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=LSM4 PE=3 SV=1
+------MLPLGI-------LTAAQGHPMLVELK-NGETLNGHLIQCDTWMNLTLREV---
+-------VQTSPEGDKF-VRLPEVYVKGNNIKYLRVPDD--------VIDI---------
+---------AREQQHSQHGGHRGGRGGGQNRGDYGGRGGRGGRGGGD-----RGGHRGGR
+GRGRGA----------------

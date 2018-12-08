@@ -1,0 +1,84 @@
+>tr|G8Z291|G8Z291_SOLLC Adenylate kinase isoenzyme 6 homolog OS=Solanum lycopersicum OX=4081 GN=101055607 PE=2 SV=1
+MAHNSSSRRRPNILI---------------------------------------------
+-----------------------------TGTPGTGKTTTSSALAEATQ----------L
+RHINIGELVKEKKLHDGWDDTLDCYIINEDLVCDELEDMM---ETGGNIVDHHGCDFFPE
+RWFDRVVVLQTDNTVLYDRLSRRGYTGQKLTNNIECEIFQILLEEAKDSYP---EDIVVA
+LRSDSIEDISKNVEMMSNWISSWNPVV---------------------------------
+--------------------------------
+>tr|D3B3B6|D3B3B6_POLPP Adenylate kinase isoenzyme 6 homolog OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=PPL_02882 PE=3 SV=1
+--MSTTKRVKPNILI---------------------------------------------
+-----------------------------TGTPGTGKTSLSEILSNTHD----------F
+KHVDISALVKEKELHDGWDDEFQCYILDEDKVCDELEETM---NQGGIIVDHHGCEWFPE
+RWFDLVIVLRTDTKILNERLKKRNYNTVKIENNIDCEIYQMILEEAKNSYK---HEIVKE
+LQSTTIEDNEHNQQIIGEWINSWNKQ----------------------------------
+--------------------------------
+>sp|Q8TG40|KAD6_CANAL Adenylate kinase isoenzyme 6 homolog HBR1 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=HBR1 PE=2 SV=1
+-MTTMSRRYTPNIII---------------------------------------------
+-----------------------------TGTPGCGKSSHSSSLVSQLNQTLGKETTIHF
+KHFNISEIAKERDCIESYDAKLDTSIVDEDKLLDSLEPDL---EKGGVVVDWHCCDIFPE
+RLIDLVVVLRTDNSNLFDRLKTRNYNDLKLQENLDCEIMEVILQEAKDSYI---PDIVIE
+LRSDTAEEMDENVDRISSWVETWIEDHPDGVSNELNKQYNPDDS---SDEGDDNSDSDEY
+ELEEDEQEEEEEREEYDEETNEEMEHTEDIAQ
+>tr|C4M1J2|C4M1J2_ENTHI Adenylate kinase isoenzyme 6 homolog OS=Entamoeba histolytica OX=5759 GN=CL6EHI_001120 PE=3 SV=1
+--MSTGNRPKPNILV---------------------------------------------
+-----------------------------TGTPGTGKSLVCSMIAERTD----------M
+NYVNVGDVVKQYGFYEGRDEEMDTLILDEDKLLDYLEEIQ---KNNNFLLEYHSSELFPE
+RWFDLIVVLRTDNTVLYDRLVNKGYKPNKIENNIDCEIFQICYDEAMESYQ---HKLVWM
+LQNDTPEQLEFNVNCICKYIELWPKAWGISVEEMLQIH----------------------
+--------------------------------
+>sp|Q09527|KAD6_CAEEL Adenylate kinase isoenzyme 6 homolog OS=Caenorhabditis elegans OX=6239 GN=E02H1.6 PE=1 SV=2
+-MATPETRRRPNILV---------------------------------------------
+-----------------------------TGSPGTGKSTLGQQVAEKLG----------F
+VFIEVSKEVRENNLQGDFDEQYNCHVLDEDKLLDHISDRLD-SDEGGIVVDYHGCDLFPE
+RWFDVVVVLRCPTEKLYDRLQSRGYSEFKIKENVECEIFGTLLEEARESYS---EDIVHE
+LQSETTEQMEENLERICELAGEFKNEHTMEQ-----------------------------
+--------------------------------
+>sp|Q54Y03|KAD6_DICDI Adenylate kinase isoenzyme 6 homolog OS=Dictyostelium discoideum OX=44689 GN=DDB_G0278493 PE=3 SV=1
+---MNIKRNKPNILI---------------------------------------------
+-----------------------------TGTPGTGKTSLAGVIASNNE----------M
+NHIDISSAVKEKELHDGWDSEFQCYILDEDKVCDEFEDVM---VKGGNVVDHHGCEWFPE
+RWFDLVIVLRTDIKILNDRLEKRNYNQHKITNNLDCEIMQVILDEARNSYK---QEIVVE
+LPSTTLEDNENNQNFISQWIQNWYEKNN--------------------------------
+--------------------------------
+>tr|A2DYU1|A2DYU1_TRIVA Adenylate kinase isoenzyme 6 homolog OS=Trichomonas vaginalis OX=5722 GN=TVAG_426750 PE=3 SV=1
+-----MSRTRPNFLI---------------------------------------------
+-----------------------------TGTPGVGKTTFSEILAERYN----------L
+VHIPVSRLIQDKHLWQEKDEERDCTIYDEDLLDEAIKEILDSNPEGGVIFDFHCSDIVML
+DDIDYVLVLRTNSDILYKRLQSRGYSESKIQENTECEIFRVVLDEVLEGFEELGEDHIIE
+IQSDTMEQLDEAVMNVGHLIESYQQQE---------------------------------
+--------------------------------
+>tr|A8BL31|A8BL31_GIAIC Adenylate kinase isoenzyme 6 homolog OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_17258 PE=3 SV=1
+----------MRILV---------------------------------------------
+-----------------------------TGTPGVGKTTLAKRFLELHPD---------Y
+RYVNVSDLVHSSGLIESYDEVFNSVVPDEERLLDTLEVLI--QRNKNILVDHHSCERFPI
+RWFDIVVLLRLGTEELYDRLVLRGYSSKKILENIEAEIMGVA-EDAVADFD---QRRVIT
+FTHKTEDDMRHVLARIEERLHQTPRSVRLKGSKTRLCVCRPQRCYAWTWHGSISSFCKAY
+RNSLRFRSSGGERKK-----------------
+>tr|Q8SUE1|Q8SUE1_ENCCU Adenylate kinase isoenzyme 6 homolog OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=ECU10_0960 PE=3 SV=1
+----------MKILV---------------------------------------------
+-----------------------------AGTPGVGKTTFSSRISEMFG----------I
+PHIEMSRYIEENNLYEEYSETYKSLLFDDRVVRKSLEMYV--IGKDSYIVDTHSCGMVKG
+MSFDLIFLLTAPVEVLYKRLKKRGYDEDKIKENIECEIFGVVEEEVEEFFG---AGYYPV
+GEEEGKLTPEEAIDVIGKKMNGTSATAAP-------------------------------
+--------------------------------
+>tr|G7PPG6|G7PPG6_MACFA Hepatitis delta antigen-interacting protein A OS=Macaca fascicularis OX=9541 GN=EGM_05412 PE=4 SV=1
+---MEAKAGGPEEVTDEEXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXPRGGPGGAGGSGAGPAPELALPPCGPR-----
+---DLGDGSSSTGSVGSPDQLPLACSPDD-------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------
+>sp|Q12055|KAD6_YEAST Adenylate kinase isoenzyme 6 homolog FAP7 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=FAP7 PE=1 SV=1
+---MEARRYGPNIIV---------------------------------------------
+-----------------------------TGTPGCGKSSTCEFLKNKLKD---------Y
+KYYNISDFAKDNDCFEGYDEGRKSHIVDEDKLLDMLEPLL---RQGNSIVDWHVNDVFPE
+RLIDLVVVLRCDNSNLYSRLHARGYHDSKIEENLDAEIMGVVKQDAVESYE---PHIVVE
+LQSDTKEDMVSNVSRIVAWEKMWLEQHPDGVTNE----YQGPRS---DDEDDEDSE----
+--------------------------------
+>tr|A7UWZ4|A7UWZ4_NEUCR Adenylate kinase isoenzyme 6 homolog OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=NCU10220 PE=3 SV=2
+-----MSRTLPNIII---------------------------------------------
+-----------------------------TGTPGVGKTSHCELLAERTG----------L
+KHLSVNDVVKSKECHEGWDEEYQSWIVDEDKLLDAIEDEV---KQGGCIIDWHACDLFPK
+SWIDLVVVLRVESSVLYDRLTERKYPELKLQENLDSEIMEVLLQEARDSYD---EEIVVE
+LQSNDAEQMDENVDRIEAWFKQWKENNSSA------------------------------
+--------------------------------

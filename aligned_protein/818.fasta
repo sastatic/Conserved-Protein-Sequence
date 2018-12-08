@@ -1,0 +1,72 @@
+>tr|K4B7B3|K4B7B3_SOLLC EXG1 OS=Solanum lycopersicum OX=4081 GN=101257136 PE=2 SV=1
+-------------MGLSKKNQVEVNKEENKKWVIAGIAI-LAPLRSISTKP----KGDST
+EDEE--------------------------------------------------------
+-------------EFSTTPTARGSRIPERLP------CPPAPMKRRPKST----------
+CHYNSGREFFNP---PDLESVFIRHVERAN------------------------------
+------
+>tr|D3AZF8|D3AZF8_POLPP V-type proton ATPase subunit F OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=vatF PE=3 SV=1
+--MAAKNMTENALVAVIGDEDI----------------VTGFLLAGCGQ------KDKKK
+TE----------------------------------------------------------
+----NFLVVDNKTSISKIEQSFKNFTQRNDIAIILISQKIADEIRPLIDEYNQVIPTILE
+IPSKDHPYDPSKDS-VMLKVKRMTGAD---------------------------------
+------
+>tr|A0A1D8PNU1|A0A1D8PNU1_CANAL Pga56p OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=PGA56 PE=4 SV=1
+----MQFTKVIASLALVASINA--------------------KFHNTTGAA----AGNGT
+------------------------------------------------------------
+--------------VAGGSNSTGGAGSHNGT-----GASNGSSSKSSGSG----------
+AAVNSVTGLAALAA---VGAALLY------------------------------------
+------
+>tr|C4LZ09|C4LZ09_ENTHI Amoebapore C OS=Entamoeba histolytica OX=5759 GN=CL6EHI_118270 PE=4 SV=1
+----MKLFVLLCVFVLCLASQEKQQDREIPVLCPVCTSL-VGKLIDLVLGG----AVDKV
+TD----------------------------------------------------YLETLC
+AKADGLVETLCTKIVSYGIDKLIEKILEGGS-----------------------------
+---------------AKLICGLIHAC----------------------------------
+------
+>tr|O44898|O44898_CAEEL MS Related Protein OS=Caenorhabditis elegans OX=6239 GN=msrp-2 PE=1 SV=1
+-----MN-RQTTALLLIVSILA------------------VFVHHGFAAAE----EEKNT
+AS----------------------------------------------------------
+-------------VVSPAPDSEAAQPAGNGT--------ETPKDE-VKDE----------
+APKEGSETEASPEA-KTKGSMVFHALGAIST--------------------VVLAGIM--
+------
+>sp|P22683|RLA2_DICDI 60S acidic ribosomal protein P2 OS=Dictyostelium discoideum OX=44689 GN=rplp2 PE=1 SV=3
+----MKY--LAAYLLASLSGNA-NAASVTKILQSVGVEVDAARVESVCKEL----DGKDV
+QA----------------------------------------------------------
+-------------LIAAGKSKVGSVAAAAAP------AAATSAAPAAAAA----------
+APAKKVVEEKKEESDDDMGMGLFD------------------------------------
+------
+>tr|A2ETF6|A2ETF6_TRIVA Periaxin-related protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_203800 PE=4 SV=1
+--------MLAALLFVRQVPRIPRYHR-------------QIPQFSVGRPH--KFVHDRY
+ETFR--------------------------------------------------------
+---------------------------------------------------RYPLP----
+KPHRRHQRIPMRQPDENIFIPFIGEVPLPEIKLPPLPEIKLPPLPQIRLPEIKLPEIRLP
+WLQLLQ
+>tr|A8BUC8|A8BUC8_GIAIC Tubulin-specific chaperone A OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_1649 PE=3 SV=1
+MTEIAKKLTKEASITKRLAKDV----------------LADAKELQCERARLEKMKSEGA
+EE----------------------------------------------------------
+----GRLNIQTNV-IKDVEESIPANLAR--------LQKQIKAMEAVLKE-AEALPT---
+PPEKE--LEAAKEA-LKFATDTYESNKK--------------------------------
+------
+>tr|I7JTZ1|I7JTZ1_ENCCU ECU01_0555 protein OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=ECU01_0555 PE=4 SV=1
+----MKV-LQKLSLLL-------------------------FLVFGLAYAH----ENPKT
+SN----------------------------------------------------------
+-----------------------------------------DKNEGGSDD----------
+ENKEGKDGKKDSSA-LGLSTSLL-GLGAILA--------------------ICLAK----
+------
+>tr|G7PPG6|G7PPG6_MACFA Hepatitis delta antigen-interacting protein A OS=Macaca fascicularis OX=9541 GN=EGM_05412 PE=4 SV=1
+----MEA-----------------------------------------KAG----GPEEV
+TDEEXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXPRGGPGGAGGSGAGPAPELALPPCGPRDLGDGSSST----------
+GSVGSPDQLPLACSPDD-------------------------------------------
+------
+>sp|P05319|RLA2_YEAST 60S acidic ribosomal protein P2-alpha OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=RPP2A PE=1 SV=1
+----MKY--LAAYLLLNAAGNTPDATKIKAILESVGIEIEDEKVSSVLSAL----EGKSV
+DE----------------------------------------------------------
+-------------LITEGNEKLAAV-PAAGP------ASAGGAAAASGDA----------
+AAEEEKEEEAAEESDDDMGFGLFD------------------------------------
+------
+>sp|Q9P534|CHZ1_NEUCR Histone H2A.Z-specific chaperone chz-1 OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=chz-1 PE=3 SV=2
+--MSTENGTTDTTLAGTAEANTPFESKGK------GKAAAESEDHPMGEAE----DDEDD
+EDED--------------------------------------------------ETEEPE
+AEEDNLEEIDPSNVISGPRTR----------------QKEIDYAKAAQDL----------
+PAEEDDEEDDEEFVPEDEEMEE--------------------------------------
+------

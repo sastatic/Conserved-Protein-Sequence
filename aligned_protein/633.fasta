@@ -1,0 +1,120 @@
+>sp|P14275|CB2C_SOLLC Chlorophyll a-b binding protein 1C, chloroplastic (Fragments) OS=Solanum lycopersicum OX=4081 GN=CAB1C PE=3 SV=1
+------------------------------------------------------------
+----MAAATMALSSPSFA----------GQAVKLSPS--------------ASEISGNGR
+ITMRK---------------------------------AVAKSA----------------
+------------------------------------------------------------
+-------PSSSPWXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSLVHAQS
+ILAIWACQVVLMGAVEGYRIAGGPLGEVVD-PL---------------------------
+----YPGGSFDPLGL---------AEDPEAFAELKVKEIKNGRLAMFSMFGFFV--QAIV
+TGKG---------PLE--NLADHLADPVNNNAWAFATNFVPGK---
+>tr|D3B1I6|D3B1I6_POLPP Defective in cullin neddylation protein OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=PPL_02160 PE=4 SV=1
+MAR--------------------KASTKTTT-----------------------------
+----VNRKRKTVEDEDKSE---------------------------------QPVVKKVA
+AVSPL----------------------------ASLFDKYKDAEEPNCIG-------PDG
+VTKFCEDLGFAPDSIQVL---------ILAWQMNASKMGYFTF---EEFKKGFEKLHCTD
+LIQLKKELQGFSHT----------------------------------------------
+-----------------------------------------------------IKVDPAK
+FAEL-------------YKFSFGFASEIVNKKSVELAI-AAEMLELVIPDGPHTKTFISF
+L------NSTKNYKVINKDQWICFLEFSK--------TVKED------------------
+LSNYDEY-EAWPLLID--EFVDFVKDLKK-----------------
+>tr|A0A1D8PGY8|A0A1D8PGY8_CANAL Ribosomal 40S subunit protein S9B OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=RPS9B PE=4 SV=1
+--M---------------PRAP-R------------------------------------
+----TYSKTYSVPKRPY------------ESARLDAE--------------LKLAGEYGL
+KNKRE----------------IYRIGF--------QLSKIRRAA----------------
+-RDLLTRDEKDPK------------------RLFEGNALIRRL--VRIGVLSEDKMKLDY
+VLALKP------------------------------------------------------
+----------------------------------EDFLERRLQTQVFKLGLARSIHHARV
+LITQRHIAV---------------GKQIVNIPSFTVRL----------------------
+-------DSQKHIDF---------AHNSP-------------------------------
+YGGG----RAGRVKRK--NQGKGGEEGAEEEE--------------
+>tr|C4LYL7|C4LYL7_ENTHI Skp1 family protein OS=Entamoeba histolytica OX=5759 GN=CL6EHI_118670 PE=3 SV=1
+------------------------------------------------------------
+----MATSGRTVT-LQSSDLMQFVVD--------------------------REIAKNSG
+VVKN-------------------------------LLEDFSEDNP---------------
+-------------TVPFM---------NVRGKILEKVIEFMTYHHNHSFLLGDDK--EKD
+STAIEPWDKNFCN-----------------------------------------------
+-------------------------------------------------------VDQAT
+L------------------FELLQAANFMDVKGLLDVT-CKTVANMI-------------
+----------R-------------GKTPE--------EIRKT------------------
+FGIVNDF-TP-----------EEEEQIRKENLWCEELK--------
+>tr|Q19478|Q19478_CAEEL Fatty Acid/Retinol binding protein OS=Caenorhabditis elegans OX=6239 GN=far-3 PE=1 SV=1
+MSRLFAFNVFCLVLLRFSAAAPADDSSPFSQ-----------------------------
+----ILKQHKDLL---PSEVVQAYQD-------LSPEEKAA----------LKDVFKNYK
+SYKNE----------------------------GELIAALKEKSS---------------
+-------------SL----GEKAE---KLQAKLQKKV-----------------------
+-DALSPKPKDFVNE----------------------------------------------
+-----------------------------------------------------LIAGGRG
+L------------------YARSVNGEKISVSEIKLLI-ETQVAAY--------------
+----------KALP----------AEAQD--------ELKKN------------------
+FGGVAKF----------------LEDDKTQTLIAKLLEKNNNQ---
+>sp|Q86AA1|LYST2_DICDI Probable T4-type lysozyme 2 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0274291 PE=2 SV=1
+------------------------------------------------------------
+----MVSSLKDMLKYDEGEKLEMY----------------------------KDTEGNYT
+--IGI----------------------------GHLITKNKDKNE---------------
+-------------AIKILEGEIGH-TVKLNSKKEPEIS-------------------SSE
+SESLFEKDKSVAIN----------------------------------------------
+-----------------------------------------------------SIENSST
+LST---------------IYNNLDSNRKMALANMVFQMGASNVSKFK-------------
+----------KSLKLIEEKKW---AEAAI--------ELKNS------------------
+TWNT--------------------QTPKRSNRVISVFETGTLKEYK
+>tr|A2G864|A2G864_TRIVA p270-related protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_114980 PE=4 SV=1
+MTQ---------------WKKP-KTSSPISXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXFEERTGKFEYKFYE----------DQSYIPLPEK------------NVKEISSGSS
+TSSKKL---------LADDGKTYQLTIPA-----PKIDEIRDSE----------------
+---------------------------EAKLRIRTAQSDEQPP--SNVFSKEIKLEKTKY
+VSGEQPNPTSSPSK----------------------------------------------
+------------------------------------------------------------
+--------------------GGLSGGQIVG-IVFAVLL-GIVII--VL--------IVYF
+IFCKKPSNDRSSSDM---------KED---------------------------------
+SGSGVYV---------------------------------------
+>tr|A8B9L2|A8B9L2_GIAIC V-type proton ATPase proteolipid subunit OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_8559 PE=3 SV=1
+------------------------------------------------------------
+----MSTTSRNLEACPYTSVFYSYLGIAC---------GLAFSCLGSA-------YGTAK
+SGKGVVASGVMKPSAAMKNTLP--VIMAGILGIYGLINAIVTNT----------------
+-S-LSSLGTEVPLFRSFAH---------LAAGLCTGLSALAAG--IAIGVTGN-------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------AGVRAVARKPKLFVVML-LTLVFGEAL--------ALYG
+L--------------------------------------------IIALILNFS------
+GSNGGNI-----------CVQQ------------------------
+>tr|Q8SS84|Q8SS84_ENCCU ENDOPLASMIC RETICULUM MEMBRANE PROTEIN OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=ECU03_1260 PE=4 SV=1
+------------------------------------------------------------
+-----------------MKVLLLAIGILCRRTKLEPKEQFVFRDKVTADQIYKFMYQAPR
+TSKIELAIFDTKGRQMIKTRDPYSVLYYKISEEGEIVISVKNNS----------------
+-SKVINFGYRCPDTNQRAQGGLGPISVELVSELQDVLETVIQA--QRVHIKKHEE-----
+------------------------------------------------------------
+--------------------------------------------------------HARM
+--------------------VAGSRRWVTRLLVFETLF-FTGV--------------LYF
+L--------------------------------------------HRDMLKMFE------
+TKREV-----------------------------------------
+>tr|G7PPG6|G7PPG6_MACFA Hepatitis delta antigen-interacting protein A OS=Macaca fascicularis OX=9541 GN=EGM_05412 PE=4 SV=1
+------------------------------------------------------------
+----MEAKAGG------------------------PE-----------------------
+--------------------------------------EVTDEEXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXX-----------XXXXXXXXXXXXXXXXXX--XXXXXXXXXXXXXXX
+XXXXXXXPRGGP------------------------------------------------
+------------------------------------------------------------
+---------------------GGAGGSGAG-PAPELAL----------------------
+----PPCGPRDLGDG---------SSS---------------------------------
+TGS---VGSPDQLPLA--CSPDD-----------------------
+>sp|P42937|YCH1_YEAST CDC25-like phosphatase YCH1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YCH1 PE=1 SV=1
+------------------------------------------------------------
+----MDSYSIT------------------NVKYLDPTE------------LHRWMQEGHT
+TTLRE----------------PFQVV------------DVRGSD-------YMGGHIKDG
+WHYAYSRLKQDPEY-----------LRELKHRLLEKQADGRGA--LNV------------
+------------------------------------------------------------
+------------------------------------------------------------
+---IFHCML----------------SQQRG-PSAAMLL----------------------
+---------LRSLDT---------AEL--------------SRCRLWVLRGGFSRWQSV-
+YGDDESV-TAGYLP----------------DLWR------------
+>tr|Q7SDY7|Q7SDY7_NEUCR 40S ribosomal protein S9 OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=un-16 PE=3 SV=1
+-------------------MAP-R------------------------------------
+----SYSKTAKVPRRPF------------EAARLDSE--------------LKLVGEYGL
+RNKRE----------------VWRVLL--------TLSKIRRAA----------------
+-RQLLTLDEKDPK------------------RLFEGNALIRRL--VRVGVLDESRMKLDY
+VLALKA------------------------------------------------------
+----------------------------------EDFLERRLQTCVYKLGLAKSIHHARV
+LIRQRHIRV---------------GKQIVNVPSFVVRL----------------------
+-------DSQKHIDF---------ALTSP-------------------------------
+FGGG----RPGRVRRKKAKAAEGGEAAEEEDEE-------------

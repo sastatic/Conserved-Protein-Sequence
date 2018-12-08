@@ -1,0 +1,72 @@
+>tr|K4BKD3|K4BKD3_SOLLC CASP-like protein OS=Solanum lycopersicum OX=4081 GN=101254780 PE=3 SV=1
+MA----------------------------------SSKSIINTILALRIFTLLFCA---
+--ASLVLIILTMLRGS---IKSEFRGI---------------------------------
+------------------------------------------------KSY---RYVL--
+-------------G------AAAGGILYSLIQLPFAMYHAVKEKRLIRGKFLPMFDFYGD
+KVIAFLLVWDLE---
+>tr|D3BTL0|D3BTL0_POLPP DNA-directed RNA polymerases I, II, and III subunit RPABC3 OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=rpb8 PE=3 SV=1
+MSAI-----LFEDTFEVKEIDPDG-KKFDRVSRFI-CYGESYEMDLHIDIATHIYPM---
+EHEKFKLVLASSLSLDGT---MDI------------------------------------
+--------------------------------SFD------SNKPSLADKF---DYVMFG
+KIFKYQKDNSSS---KVSIFASFGGLLMLLQGDPRYLPGLELDARI--------------
+----YLLIKK--I--
+>tr|Q59MZ8|Q59MZ8_CANAL DNA-directed RNA polymerases I, II, and III subunit RPABC3 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=RPB8 PE=3 SV=1
+MSGI-----LFEDMFIVDSTDPG---RYNKVCRITGHSSTSKDITITLDINKELFPV--Q
+NHDSLTITLASSL-------GNESSMIT--------------------------------
+-----------------------------SNGSWRPPK---PDERSLADDY---DYVMYG
+TVYKFEENADND---KMAVYISFGGLLMRLEGGYRSLSNLKQE-NA--------------
+----YILIRHYKDN-
+>tr|C4LZP1|C4LZP1_ENTHI DNA-directed RNA polymerases I, II, and III subunit RPABC3 OS=Entamoeba histolytica OX=5759 GN=CL6EHI_038570 PE=3 SV=1
+--MV-----EVSGTFKVIAKDIGG-KIFEGVSRFK-LEGE--DLTVFVDINTDLFPL--E
+EHDRIKLDLTKTLNRDGS--PMDIH-----------------------------------
+-------------------------------QGYSDN----FGKNTKMDDF---DYVMSG
+MVFKFVENKNDD---NLSVIASFGGLLLMLYGKPEKLSAYNMKDQV--------------
+----YLLIRK--TN-
+>sp|Q19826|RPAB3_CAEEL Probable DNA-directed RNA polymerases I, II, and III subunit RPABC3 OS=Caenorhabditis elegans OX=6239 GN=rpb-8 PE=1 SV=1
+MAGI-----IFDDMFKVKSVDPDG-KKFDRVSRYF-CDAESFKMELIIDINSQIYPL--K
+QNDKVRLVLATTLREDGL---ADE------------------------------------
+-------------------------------GEYDPK----AEYPRI-KQY---EYVMYG
+KVYRLEDDDTGTDGGKLAAYASFGGLLMRLKGEAINLHGFEVDMNL--------------
+----YLLMKK--TDF
+>sp|Q54YW8|RPAB3_DICDI DNA-directed RNA polymerases I, II, and III subunit rpabc3 OS=Dictyostelium discoideum OX=44689 GN=polr2h PE=3 SV=1
+MTSI-----LFEDTFEVKEIDPDG-KKFDRVSRFV-CYSENYEMDLQIDIATHIYPL---
+GHERFKMVLASSLNLDGS---SDNS-----------------------------------
+-------------------------------GSYD------TNKPSLADKY---DYVMYG
+KIFKYQKENSSS---KVSVFASFGGLLVLLQGDPRYLPGIELDARI--------------
+----YLLIKK--A--
+>tr|A2D8U6|A2D8U6_TRIVA DNA-directed RNA polymerases I, II, and III subunit RPABC3 OS=Trichomonas vaginalis OX=5722 GN=TVAG_186530 PE=3 SV=1
+MS-------LLTKNFRCTAVDPDG-KQFDDVSRIK-ATTDEGDYELVLDYNCFIYEI--K
+QDQLFQLNISTQLHSDEAS-RAEEH-----------------------------------
+---------------------------------WHPSI---VENSTLAASY---EYIMHG
+KVYNYEEQPETN---RATVYVSYGGLLMSLTGDRNTIAGIQRGKEV--------------
+----YLLISR-KSK-
+>tr|E2RU32|E2RU32_GIAIC DNA-directed RNA polymerases I, II, and III subunit RPABC3 OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_15144 PE=3 SV=1
+MS-------LYSSRFSIASFDPECVKYYDNIGRVLLESTDDPDVFLTLDYNLELYPKLNK
+NARSLEVQILSSISYQDFNVSADSP-----------------------------------
+--------------------------------NYDPKL-----SEILHDAYPDLDYAMHG
+TVFEFRAV-----GDKVDMFISFGGLIAKLQAPAFRLERFKFGMKL--------------
+----YLLCCN--TM-
+>tr|Q8SRJ5|Q8SRJ5_ENCCU DNA-DIRECTED RNA POLYMERASE I OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=ECU07_0840 PE=4 SV=1
+MQ-------ILADNFKVSDIDREG-KLYANVSR---AYMKSPTVDIALDYNTVLCRL--Q
+TGHALEVRIFRGISED-----IECH-----------------------------------
+-------------------------------------------------------YLVCG
+RVYSVEYK-----GGRALVKASFGGLLLSMDAPEEGVRDIGDKDEI--------------
+----SLALTFI----
+>tr|G7PPG6|G7PPG6_MACFA Hepatitis delta antigen-interacting protein A OS=Macaca fascicularis OX=9541 GN=EGM_05412 PE=4 SV=1
+--------------MEAKAGGPEE------------------------------------
+--------------------VTDEEXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXPR-----------------------
+-------------GGPGGAGGSGAGPAPELALPPCGPRDLGDGSSSTGSVGSP------D
+QL--PLACSP--DD-
+>sp|P20436|RPAB3_YEAST DNA-directed RNA polymerases I, II, and III subunit RPABC3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=RPB8 PE=1 SV=1
+MSNT-----LFDDIFQVSEVDPG---RYNKVCRIEAASTTQDQCKLTLDINVELFPV--A
+AQDSLTVTIASSLNLEDTP-ANDSS-----------------------------------
+-----------------------------ATRSWRPPQ---AGDRSLADDY---DYVMYG
+TAYKFEE-VSKD---LIAVYYSFGGLLMRLEGNYRNLNNLKQE-NA--------------
+----YLLIRR-----
+>tr|Q7SAL1|Q7SAL1_NEUCR DNA-directed RNA polymerases I, II, and III subunit RPABC3 OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=NCU08030 PE=3 SV=1
+MSALTSDAQLFEDEFKVERISDP---KYDRVDRLY-CTSVDGQTSMQLDVNKELFPV--K
+VGEYLRIALATSLSLDG---SKDDE-----------------------------------
+-------------------------------RGWRDAAKLGSVEQTLADSY---EYVCHG
+KVYKFEDGKDGQ---TIKAYMSYGGLLMALDGPYKKLTPLRVD-YV--------------
+----YLLANR---NA

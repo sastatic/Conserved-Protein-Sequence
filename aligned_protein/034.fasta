@@ -1,0 +1,108 @@
+>sp|P14275|CB2C_SOLLC Chlorophyll a-b binding protein 1C, chloroplastic (Fragments) OS=Solanum lycopersicum OX=4081 GN=CAB1C PE=3 SV=1
+--MA-AATMALSSPSFAGQAV-----KLSPSASEI--------------SGNGRITMRKA
+V---------------------------------AKSAPSSSPWXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXSLVHAQSILAIWACQVVLMGA-------VEGYRIAG
+GP-LGEVVDPLYPGGSFDPLGLAEDPEAFAELKVKEIKNGRLAMFSMFGFFVQAIVTGKG
+PLENLA------------------------------------------------------
+------DHLADPVNNNAWAFAT-NFVPGK-------------------------------
+-----------------------------------------------------------
+>tr|D3BKA2|D3BKA2_POLPP Exosome complex exonuclease rrp41 OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=PPL_08983 PE=4 SV=1
+--MSKLSYITPEGLRIDGRR-----------NNEI--RRLNMKMGIFN-RADGSAYYEQ-
+--------------GNTKITV-------------AVYGPREVASNQRM------------
+------------------------------------------------------------
+--------------------------LHDRAIVNCEYSQAAFSSATDRKPTRKSDKQSYE
+---IASLIKQAFE----STIQITLFPRSQIDIYVQVLQADGGLKAAALNAATLAVIDAGL
+PMRDFICACSATFIEG--------------------------------------------
+------VPLLDMNQMEERSGGA-DLLLSIQPQLGG----------------------VIS
+LNMESKVPQDMFESVLELANLGCMKIFALLQTEVKRHSADLLSNQINPKS---------
+>tr|Q5AMR4|Q5AMR4_CANAL Exosome non-catalytic core subunit OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=orf19.4582 PE=4 SV=1
+-----MELYSPEGLRIDGRR-----------WNEL--RRFECRINTHPNSSDGSSYVEQ-
+--------------GNTKVMC-------------TVQGPIEPALRSQQ------------
+------------------------------------------------------------
+--------------------------HSERANIEVNLNIASFSTFERKKRS-RNERRLVE
+---LKTTLEKTFE----ESVMINLYPRTNIVINVQVLCQDGGMLAAVINSITLALIDAGI
+SMYDYVSGVSCGLYDQ--------------------------------------------
+------TPLLDVNNLEEHDMSC--LTVGVIGKSEK----------------------LAL
+MLLEDKMPLDRLESVLSIGIAGSHKIRELMDQEVRKHGIIRASKMQ-------------
+>tr|C4M2G1|C4M2G1_ENTHI 3 exoribonuclease family protein OS=Entamoeba histolytica OX=5759 GN=CL6EHI_040320 PE=4 SV=1
+-----MEYISPEGYRLDGRR-----------TTEM--RKCEMEINFLS-TADGSARVRM-
+--------------GNTIVEA-------------VVFGPLE---GRRR------------
+------------------------------------------------------------
+--------------------------NREGAELMVSYSQATF--ATRKRREQMHDRTMIE
+---TAELLKQMYE----QIIITKLLPETMIDLRVQVMQDDGSVTAAVINACTLALIDAGI
+PMIDIVAAAEGGYIDG--------------------------------------------
+------KMVVDMNKDEENVGTVFNVHTAIMQKSGA----------------------VAL
+LQTEGKMPLQRLGDLLSIVEEGAKTIGIEMKKRIREYGNEVLSYQTI------------
+>tr|G5EG59|G5EG59_CAEEL Cell death-related nuclease 5 OS=Caenorhabditis elegans OX=6239 GN=crn-5 PE=1 SV=1
+---------------MAGRL-----------------REMRCELSFLK-NADGSACFSQ-
+--------------GATCIWA-------------SCSGPGDVHASKAS------------
+------------------------------------------------------------
+---------------------------DEAMTLDISY-----------RAN-CGDNKFNV
+---LNNIIHSTLS----NAINLELFPHTTISVTVHGIQDDGSMGAVAINGACFALLDNGM
+PFETVFCGVLIVRVKD--------------------------------------------
+------ELIIDPTAKQEAASTG-RVLFSVCKGSDGHP-------------------EVCA
+MDAIGHWDFIQLEAAWSLAQPSASAIFDFYKTVMKRKLS--VDEQ--------------
+>sp|P90526|RS3_DICDI 40S ribosomal protein S3 OS=Dictyostelium discoideum OX=44689 GN=rps3 PE=1 SV=1
+--MN-------SSLQISKKRKFVADGVFHAELNELFTREFN--------KDEGYSGVELK
+T-----------SPGLTEIIIRAS-------KTQAVVGPNA-------------------
+------------------------------------------------------------
+-------------------------------------------------------RRIQE
+---LCSLVQKRFN-----------FKEGTVVLFAEKILNRGLCAVAQAESLKLKLL-AGL
+PVRKACYAIVHQIMTR--------------------------------------------
+-GAKGCEVIVSGKLRAQRAKSM-KFRDGYMIKSGQ-PSKDFIDFACRHVLLRQGTLGVKV
+AIMLPYDETRKIHGACNIPQPDVVVIRDA------------------------------
+>tr|A2ER41|A2ER41_TRIVA 3' exoribonuclease family, domain 1 containing protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_287740 PE=4 SV=1
+--MD----------RLDTSRV----------YEEE--REIACEKGLCI-SSQGSSRVRV-
+--------------GKTEVIV-------------NIVGPKQ-------------------
+------------------------------------------------------------
+---------------------------------------MVFREIETGKVN-IKAKSYPE
+NPTINKIVADAIE----NSLKCDAYPDSNLEVSVTIVCDDGGLKACAVNATILALVDAGF
+EMNHLLAASSLAVKGD--------------------------------------------
+------ILVNDPNASEEELYDG-AATFVYEIDSQK----------------------IIS
+TFFEGYIQPRMLPILMKRATANSQEWEERIKN---------------------------
+>tr|A8BRF2|A8BRF2_GIAIC VSP OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_113269 PE=4 SV=1
+--MCK---------TAEGGR--------CTAPSEN-GRYF---------LVPGASNTDQS
+VLACENPLGTVIGAGSTAKAYVGV------YGCTACTAPAALEAPGMAPA----------
+------------------------------------------------------------
+---------------------------------------TCTACSANNKPN---------
+------------------------------------LAGSGSSHVPLLDAHTVIWTTSAP
+PAQRGARGRTQTAPSA--------------------------------------------
+--SPAVSTGVSGAARRTSAASA-GTTTGWRVRRACPPSP---------------------
+------------AGAAEAASAQAP-----------------------------------
+>tr|Q8SQN4|Q8SQN4_ENCCU RIBONUCLEASE PH-LIKE PROTEIN OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=ECU09_0830 PE=4 SV=1
+------MLVSEEGFREDGRR-----------PNEL--RRIEATKRRI--GEKGRVDMRQ-
+--------------GNTQVSV-------------ICSGPREIGKLSVG------------
+------------------------------------------------------------
+---------------------------------------VEFYAVSRQEP--VSEKRASE
+---YEGLLLDIFG----DV----LLPEASVDIQVIVREDGGSLLSTMINCTTLCLSYFGM
+PLVDMCYSSAVA------------------------------------------------
+------EGCVDLASTEESQRVP-VVTVAYLMNRKS----------------------ILY
+LSLSGRVACSRLQASVLDAIGACNAIGECLGNFFSPSLE--------------------
+>tr|G7P7Y1|G7P7Y1_MACFA COUP transcription factor 1 (Fragment) OS=Macaca fascicularis OX=9541 GN=EGM_15232 PE=3 SV=1
+--------------AVQRGRMP---------PTQPNPGQYALTNGD---PLNGHCYLS--
+--------------GYISLLLRAEPYPTSRYGS-QCMQPNNI------------------
+------------------------------------------------------------
+----------------------------------------------------MGIENICE
+--LAARLLFSAVE----WARNIPFFPDLQITDQVSLLR---------LTWSELFVLNAAX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXDACGLSDAAHIESLQEKS-QCALEEYVRSQY-PNQP----------SRFGKL-LLR
+LPSLRTVSSSVIEQLFFVRLVGKTPIETLIRDMLLSGSSFNWPYMSIQCS---------
+>sp|P46948|RRP41_YEAST Exosome complex component SKI6 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SKI6 PE=1 SV=1
+--MSRLEIYSPEGLRLDGRR-----------WNEL--RRFESSINTHPHAADGSSYMEQ-
+--------------GNNKIIT-------------LVKGPKEPRLKSQM------------
+------------------------------------------------------------
+--------------------------DTSKALLNVSVNITKFSKFERSKSSHKNERRVLE
+---IQTSLVRMFE----KNVMLNIYPRTVIDIEIHVLEQDGGIMGSLINGITLALIDAGI
+SMFDYISGISVGLYDT--------------------------------------------
+------TPLLDTNSLEENAMST--VTLGVVGKSEK----------------------LSL
+LLVEDKIPLDRLENVLAIGIAGAHRVRDLMDEELRKHAQKRVSNASAR-----------
+>tr|Q7SEC2|Q7SEC2_NEUCR Exosome complex exonuclease RRP41 OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=NCU00812 PE=4 SV=3
+MPLD-TSAYSLALLRVDGRR-----------WNEL--RRIHAQIRTQA-AADGSSYLEM-
+--------------GHTKVMC-------------VVNGPSEPGPRRGATSG---------
+------------------------------------------------------------
+--------------------GGGGGGQSKNAEVAVNIVIAGFSSVDRKRRG-RGDKHILE
+---LQSTISQALA----ASLHTHLFPHSTINISLHVLSQDGSLLAALINAATLACVDAGI
+PMTDYVAACTAGSTSTY------------------------------------------A
+ANDEGADPLLDMNHQEEQELPG--LTVATLGDSDR----------------------VAV
+LVCESRVQVSRLEGMLAVGVDGCKQVREILDRVVREKGIKMIQEGTVERGVGLNDMELD

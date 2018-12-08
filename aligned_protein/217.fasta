@@ -1,0 +1,108 @@
+>sp|P14275|CB2C_SOLLC Chlorophyll a-b binding protein 1C, chloroplastic (Fragments) OS=Solanum lycopersicum OX=4081 GN=CAB1C PE=3 SV=1
+---------------------------------------------MAAATMALSS-----
+------------------PSFAGQA------------VKLSPSASEISGNGRITMRKAVA
+KSAPSSSPWXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSLVHAQSILAI
+WACQVVLM---------------------------GAVEGYRIAGGPLGEV-----VDPL
+YPG--GSFDPLGLAEDPEA--------FAELKVKEIKNGRLAMFSMFGFFVQAIVTGKGP
+LENLADHLADPV--------------------NNNAWAFATNFVPGK-------------
+--
+>tr|D3B439|D3B439_POLPP N-acetyltransferase OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=natA PE=4 SV=1
+-------M-ISIRNCQISDLLAMQNANLTCLPENYQYKYYLYHVLTWPQLSFVAED----
+--------------------ESG--------------KLVGYVLSKIDE-----------
+NNPKRGH-----------------------------------------------------
+-----------------------------------------------ITSLAVLRSQRKL
+GIATKLMK---QSQYALMEVFEADHVSLHVRKSNRAAFTLYHEILKFKIQE-----IETE
+YYGD---------KEDAYSMVFNFR---EEDNKNEKKDTKST-----------------A
+AADNKPKGQPAA-----------KPKPAS-----AKKKAAAKKK----------------
+--
+>tr|A0A1D8PU80|A0A1D8PU80_CANAL Peptide alpha-N-acetyltransferase complex A subunit OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=CAALFM_CR10400WA PE=4 SV=1
+-------MGITIRQATIEDIQAMQNANLHNLPENYQLKYYMYHILSWPQASFVATTY---
+----DEVINVNDGEIDVPVTQDP---KGDTAYINRGEKIVGYVLGKMEDDPEA------A
+DKTPHGH-----------------------------------------------------
+-----------------------------------------------ITSLSVMRTYRRM
+GIAEKLMR---QSLYAMCESFGAQYVSLHVRKSNRAALHLYRDSLKFEVQS-----IEKS
+YYQD---------GEDAYAMRLDLK--LEELLPS--------------------------
+---LAQKAEE-S--------------------DDLIKDLLED------------------
+--
+>tr|C4M0A1|C4M0A1_ENTHI Acetyltransferase gnat family OS=Entamoeba histolytica OX=5759 GN=CL6EHI_005070 PE=4 SV=1
+-------M-INIRRATPEDLPKLQGANLINLAENYTMKYYYYHLLLWPSITYLAECV---
+---------------------DG--------------KVVGYVLTKMDEDST--------
+--TPFGH-----------------------------------------------------
+-----------------------------------------------ITSISVLRSYRRL
+GIATKLLR---AAENSMIECFGAEYVTLHVRESNKPARHLYEVTMGYKQHS-----VDKK
+YYND---------GEDAIVMRHYLN-------VSNLS-----------------------
+-----------------------NPDASSDLLDVWKSKHLVSA-----------------
+--
+>sp|O61219|DAF31_CAEEL N-alpha-acetyltransferase daf-31 OS=Caenorhabditis elegans OX=6239 GN=daf-31 PE=2 SV=1
+---------MNIRCARVDDLMSMQNANLMCLPENYQMKYYFYHALSWPQLSYIAED----
+--------------------HKG--------------NVVGYVLAKMEEDPG--------
+E-EPHGH-----------------------------------------------------
+-----------------------------------------------ITSLAVKRSYRRL
+GLANKMMD---QTARAMVETYNAKYVSLHVRVSNRAALNLYKNTLKFEIVD-----TEPK
+YYAD---------GEDAYAMRRDLAKWAEE---RNIE----------------------P
+ADREAYTTAKTT--------------------DDKKKNRS--------------------
+--
+>sp|P36416|ARD1_DICDI N-terminal acetyltransferase complex ARD1 subunit homolog OS=Dictyostelium discoideum OX=44689 GN=natA PE=2 SV=1
+-------M-VSIRPCQIGDLMSMQNANLTCLPENYQMKYYLYHFLTWPQTSFVAED----
+--------------------DKG--------------NVVGYVLAKIDE-----------
+NEPKRGH-----------------------------------------------------
+-----------------------------------------------ITSLAVLRSQRKL
+GIATKLMK---QAEVALLEVYDADCVSLHVRKSNRAAFSLYHEVLKFKIDE-----IEKE
+YYGD---------KEDAYSMVLYLKPEVEEEKEREKQLEKIN-----------------K
+AAKESIEAAKRA---------NEEPKPVSNV-IHGKKKNVKKIE----------------
+--
+>tr|A2EK54|A2EK54_TRIVA Acetyltransferase, GNAT family protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_099870 PE=4 SV=1
+-------MPISVRRVKITDLNEMQQTNLSCLAENYHMWFWLYHYLIYPASSHCAVDS---
+--------------------------------LN---HILGYVLSKMDDDSRRK----NP
+NEPLHAL-----------------------------------------------------
+-----------------------------------------------MTSVAVYNGYRKL
+GLAKQLML---SSQRENQLCYKAEYVLLHVRETNRAGHLLYENSLGYVKNQ-----VCKE
+YYVD---------GEDAWSMKLVLP---------------------------------KT
+EAQLAEEAAKKA--------------ASS---QPRKPKKGGRR-----------------
+--
+>tr|A8BZ40|A8BZ40_GIAIC Ribosome biogenesis regulatory protein OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_11984 PE=3 SV=1
+--------------MPDYDLHYLMATNLEPLPEEATLSTPNEHVLMQLAVKTLASLCK--
+-------------EFVMLPSTSG---------------PMGPVATLPEPRTLLPREKPLP
+EEKPLTT-W---------------------------------------------------
+------------------------------------------------EKFAKEKGIKKR
+SRSQKVFD---------------------------EKTGEYRPRYGYRRRTDNTIEFDPI
+VPAKPGVDDYTG-AEDPFT--------RARREKK--------------------------
+-ERVAKNKAQQA--------------------ANIKRARAVKK-----------------
+--
+>tr|Q8SRR9|Q8SRR9_ENCCU N-TERMINAL ACYLTRANSFERASE COMPLEX SUBUNIT ARD1 OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=ECU06_0460 PE=4 SV=3
+MEHAERTVGVVFRGMRFKDLLEVQHLNIRNSTENFLLGTFLSTLSTSYGTSFVA------
+--------------------DLGG-------------KIVGYSEAVAFADRG--------
+----RGQ-----------------------------------------------------
+-----------------------------------------------IYSICVDGAFRRR
+GIGRRLINLSVESIRAELEGKEACEIDLHVRASNAEAIGLYK-SVGFVVCE-----ANIP
+YYEF---------GGLAHRMSLTLG----------------------------------V
+CGKKALE-----------------------------------------------------
+--
+>tr|G7P533|G7P533_MACFA N-alpha-acetyltransferase 11, NatA catalytic subunit OS=Macaca fascicularis OX=9541 GN=EGM_14368 PE=4 SV=1
+---------MNIRNARPDDLMNMQHCNLLCLPENYQMKYYLYHGLSWPQLSYIAED----
+--------------------EDG--------------KIVGYVLAKMEEDPD--------
+D-VPHGH-----------------------------------------------------
+-----------------------------------------------ITSLAVKRSHRRL
+GLAQKLMD---QASRAMIENFNAKYVSLHVRKSNRAALHLYSNTLNFQISE-----VEPK
+YYAD---------GEDAYAMKRDLSQMADEL-RRQVDLKKGGY--------------VVL
+GSRENQETQGSTLCGSEEACQQKNPDTEESGSDSKEPKESVE-----STNVQDSSEGSDS
+TS
+>sp|P07347|ARD1_YEAST N-terminal acetyltransferase A complex catalytic subunit ARD1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=ARD1 PE=1 SV=2
+-------MPINIRRATINDIICMQNANLHNLPENYMMKYYMYHILSWPEASFVATTTTLD
+CEDSDEQDENDKLELTLDGTNDGRTIKLDPTYLAPGEKLVGYVLVKMNDDPDQ------Q
+NEPPNGH-----------------------------------------------------
+-----------------------------------------------ITSLSVMRTYRRM
+GIAENLMR---QALFALREVHQAEYVSLHVRQSNRAALHLYRDTLAFEVLS-----IEKS
+YYQD---------GEDAYAMKKVLK--LEELQISNFTHR---------------------
+--RLKENEEKLE--------------------DDLESDLLEDII---KQGVNDIIV----
+--
+>tr|V5IM13|V5IM13_NEUCR N-acetyltransferase complex ARD1 subunit, variant OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=NCU08944 PE=4 SV=1
+---------MDIRVLRPSDIPLIQHANIENLPENYFLKYYLYHALSWPQLSYVAVDVSRP
+AK---------------SAYDYP--------------KIVGYVLAKMEEEPT--------
+DGVQHGH-----------------------------------------------------
+-----------------------------------------------ITSLSVMRTHRRL
+GIAEKLMR---QSQQAMVETFGAHYVSLHVRVSNAAAIHLYRDTLGFKTEK-----TEAK
+YYAD---------GEDAYCMKLDLAPIREALLAEQLDEKDAK-----------------P
+KIEEGKGSEGVD---EGEAVGDVGRDPEA---DSKKEDKTVKVKVGRGLGVGELVERDES
+KH

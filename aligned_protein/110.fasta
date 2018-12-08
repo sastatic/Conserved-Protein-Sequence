@@ -1,0 +1,120 @@
+>tr|K4CVS7|K4CVS7_SOLLC Endonuclease III homolog OS=Solanum lycopersicum OX=4081 GN=NTH1 PE=3 SV=1
+-----------------------MEGIRSMRL----------------------------
+----------------SEH-APV-----------------------DSIDPDEG------
+-VTSLQPKERRFAVLVGSLLSSQTKGH------VTHEANQRLLEN------------GL-
+-----------------------------------------------LSADTMDRAD---
+----------EATIKSLIYPVGFYTRKAQ-----HLKQVANICVSKYDG-----------
+---------------------DIPSTVDELLLLPG---VGPKIAHLVMIMAWNKVEGICV
+D-THVHRVSNRLGWVSR----PGTKQGTRSPEETRVSLQQWL------------------
+----------PREEWVSINLLLVGFGQTICTPLRPRCAKCTI--REFC-------PSAFK
+-EISSPAS-TSKT-RRPKREL---------------------------------------
+>tr|D3BKA2|D3BKA2_POLPP Exosome complex exonuclease rrp41 OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=PPL_08983 PE=4 SV=1
+------------------------------------------------------------
+-------------MSKLSYITPE-GLRIDGRRNNEIRRLNMKMGIFNRADGSAYYEQGNT
+KITVAVYGPREVASNQRMLHDRAI---------VNCEYSQAAFSSATDRKPTR-------
+----------KSDKQS-------------------------------YEIASLIKQA---
+-------------FESTIQITLFPRSQIDI----YV----QVLQADGGL-----------
+--------------------KAAALNAATLAVI-DA---GLPMRDFICACSATFIEGVPL
+--LDMNQMEERSGGADL---LLSIQ--PQLGGVISLNMESKV------------------
+----------PQDMFESVL-ELANLGCMKI------------------------------
+-FALLQTEVKRHSADLLSNQINPKS-----------------------------------
+>tr|A0A1D8PE92|A0A1D8PE92_CANAL Endonuclease III homolog OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=NTG1 PE=3 SV=1
+-----MK----VTKRAISDTSGSSKRIKLEHIEVEIESETTELAPNVFTKVDPEDMAKCN
+GPPKWSEIYNQLVWMRSKFFAPV-----------------------DTQGCERMPNTINR
+NIKTRNPKIYRFQLLISLMLSSQTKDE------VNYEAMKNLHNGLLKVH------PDG-
+-----------------------------------------------LCIESVLKLS---
+----------ESEIDAYIKKVGFHNRKAQ-----YIRKTCSILMENHGG-----------
+---------------------DIPKTIEEIVALPG---VGPKMGFLLLQSGWGINAGIGV
+D-VHLHRLALMWGWVS-------PK--ANTPEKARIELQEWL------------------
+----------PKDYWTDINPLVVGFGQVICVPRAANCDICTLARDGLC-------KGVNK
+KLLKTPLSEERIN-KLSKQRADLSQ--LLKEFM---------------------------
+>tr|B1N489|B1N489_ENTHI Pumilio family RNA-binding protein OS=Entamoeba histolytica OX=5759 GN=EHI_039360 PE=4 SV=1
+---------------MEVALRTYQKILKMYQD----------------------------
+---------NTIQARKLLLKSPA-----------------------------------TT
+ESQMVLSQLSSIESIVRKFKSRPIQID------VNNNVSKNKTRI---------------
+-------------EQT-------------------------------ERKRKIIKPT---
+----------PQELEKIAKSFSLPSIKLTTNINPNKKAEQKIIVSEFQGQFYQMTKYASG
+CSLLQKLLDGASEESVLLIFEELEDYLEELITHPNGQYVLPKIVEFGSEEIKDNVFGVVA
+D-NLVKYCCHQFG--------------GYTVQKIAPFMREXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXIQQFNKLI--------------------------------------
+------------------------------------------------------------
+>sp|P54137|NTH_CAEEL Endonuclease III homolog OS=Caenorhabditis elegans OX=6239 GN=nth-1 PE=1 SV=2
+MHSFSMKRVVASSSVAAVATCDVEGTVVAWRRDV--------------------------
+---------ELIRKMRKDMIAPV-----------------------DTMGCH------KL
+ADPLAAPPVHRFQVLVALMLSSQTRDE------VNAAAMKRLKD-------------HG-
+-----------------------------------------------LSIGKILEFK---
+----------VPDLETILCPVGFYKRKAV-----YLQKTAKILKDDFSG-----------
+---------------------DIPDSLDGLCALPG---VGPKMANLVMQIAWGECVGIAV
+D-THVHRISNRLGWIK-----------TSTPEKTQKALEILL------------------
+----------PKSEWQPINHLLVGFGQMQCQPVRPKCGTCLC--RFTC-------PSSTA
+KNVKSETEETSTS-IEVKQEVE-------DEFEDEKPAKKI-KKTRKTRTKIEVKTESET
+>sp|Q54E86|MND1_DICDI Meiotic nuclear division protein 1 homolog OS=Dictyostelium discoideum OX=44689 GN=mnd1 PE=3 SV=1
+------------------------------------------------------------
+------------MATRRKGMSPE-------------------------------------
+---EKKEKLKEFFHSNSTIYSSK---D------VESEASK----------------YTGM
+TQVQC--------KET--LQM--------------------------LIDDGVVNTDK--
+--------MGSSNFYWSFPSFEFDSKKDK-----IIEQTKLLSETK--------------
+--------------------ERIQSETKKIEQLKS-------------------------
+-----ERVESETRTKNL------EK--LQTLKDDNKSFKEELLLYADSSL----------
+----------IDDKKRDIKIAIAAVNRYT-------DNISSL--RQFCDSKYNIRPSDFD
+-----------TS-FGIKPDMD-----YLEEYNFNDTPQPVNKKKRK-------------
+>tr|A2DS55|A2DS55_TRIVA Endonuclease III homolog OS=Trichomonas vaginalis OX=5722 GN=NTH1 PE=3 SV=1
+------------------MTQNAEKTLKQLHT----------------------------
+-----------LIEYRKSHPAPV-----------------------DTLGC-------GT
+QSEKVDPKTERFQTLISLMLSSMTKDQ------QTSAAVRKLQQM-----------EGG-
+-----------------------------------------------LNAPNLMKAD---
+----------YDVVLECIKSVGFAKKKAG-----YIIEAAKICHEKYND-----------
+---------------------DIPKTLKELTSFNG---VGVKMGTLAMAHCWGEQIGIGV
+D-VHVHRISNLLGWVK-----------TKKPDDTELALQKIL------------------
+----------PKEIWSEVNHTLVGFGQTICDAKKPKCDECPI--KDTC-------PALQR
+---GSASE-------------D-------DESSDE-------------------------
+>tr|A8BPI7|A8BPI7_GIAIC Endonuclease III homolog OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=NTH1 PE=3 SV=1
+-----MAPI---------------------------------------------------
+--PDLEDTWEKIETMRAEYVCPV-----------------------DVFGA-------HM
+LSDTTETPDGRFRFAIGLLLSARNLDR------VTAAAMYKLNHMLP-------VPPDGL
+DKERLKKLEAEFEEKTKGLQKSTKAEAMLKKNFPIDIDNLMKLDAWRLTAKNVVDSG---
+----------LDELGRIIHPVGFCRRKAE-----YMKNVAQICLDNYGG-----------
+---------------------DIPKDLAGILKLPG---FGPKMGHLLVQIVYGQVEGIAV
+D-THVCRIAQRLRWVEKGMCEPNGK--MLNPDDVAKQLVETL------------------
+----------PKDKWRDINHLLVGFGQTVCKASFPECNRCLIAGTGHCYHKSETKPETGT
+---GKPRNRERRA-KASKREAE-DQGGATDEDE---------------------------
+>sp|Q8SRB8|NTH_ENCCU Endonuclease III homolog OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=NTH1 PE=1 SV=1
+--------------MGSASGEEREGPLGLYLE----------------------------
+-----------IKMQRKDIVSPV-----------------------DTMGC-------SI
+TPSCRTEEERRFHILVSLLLSSQTKDE------VTYEAMARLRKLLPESAATDGEARGG-
+-----------------------------------------------LTIERVANSD---
+----------VKHINECIKKVGFHNRKAA-----NLKKIAEILREK--------------
+---------------------GLPREMKDLISLPG---IGNKMALLYMSHACNRTVGISV
+D-THVHRISNRIGLVR-----------TRDVESTRRELERVV------------------
+----------PRKEWKTINNILVGFGQTICVAKRPRCEECCI--RGRC-------PSSLF
+------------------------------------------------------------
+>tr|G7Q077|G7Q077_MACFA Endonuclease III-like protein 1 OS=Macaca fascicularis OX=9541 GN=EGM_11349 PE=4 SV=1
+----------------MMDSCGMNKGGRDWLV----------------------------
+----------LFAEARKSH-SPVKRRRKAQRLC----------VAYEGSDSEKGEKAEPL
+KVPVWEPQDWQQQLVNIRAMRSEKDAP------VDHLGVEHCYD----------------
+-------------------------------------------------SSAPPKTD---
+----------DATLGKLIYPVGFWRSKVK-----YIKQTSTILQQRYGG-----------
+---------------------DIPASVAELVALPG---VGPKMAHLAMAVAWGTVSGIAV
+D-THVHRIANRLRW---------TKKATKSPEETRAALEEWL------------------
+----------PRELWHEINGLLVGFGQQTCLPVRPRCQACLN--QALC-------PAA--
+------------------QGL---------------------------------------
+>sp|P09457|ATPO_YEAST ATP synthase subunit 5, mitochondrial OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=ATP5 PE=1 SV=1
+------------------------------------------------------------
+--------------------------------------------MFNR------------
+-----VF-TRSFASSLRAAASKAAAPPPVRLFGVEGTYATALYQAAAKNSSID-------
+----------AAFQSL-------------------------------QKVESTVKKNPKL
+GHLLLNPALSLKDRNSVIDAIVETHKNLDG----YVVNLLKVLSENNRL-----------
+--------------------GCFEKIASDFGVLNDAH-NGL--------LKGTVTSAEPL
+DPKSFKRIEK----------ALSAS--KLVGQGKSLKLENVV------------------
+----------KPEIKGGL---IVELGDKTV------------------------------
+-DLSISTKIQKLN-KVLEDSI---------------------------------------
+>tr|Q7RWE8|Q7RWE8_NEUCR GTP-binding protein YPT52 OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=NCU06410 PE=4 SV=1
+--------------MADTNAPKPSSSVKLVLL--------GEAAV---------------
+--GKSSLVLRFVNNDFQENKEPTIGAAFLTQKCNLPTR-TIKFEIWDTAGQE--------
+----------RFASLAPMYYRNAQAAL------VVYD-----------------------
+-----------------------------------------------LT-----------
+------------------------------------KPTSLIKAKHWVA-----------
+---------------------ELQRQASPGIVIAL---VGNKLDLTSDSAGSAEASGGGD
+D-N-----AEDSGDARK----------ISTDEAKAYAEEEGLL-----------------
+------FFETSAKTGHNVTEVFTAIANAI-----PETSLKSA--RG---------PGASH
+-AGVSRTEEQRVN-LNGPRDLDAKEGCAC-------------------------------

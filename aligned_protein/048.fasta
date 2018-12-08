@@ -1,0 +1,48 @@
+>sp|Q2MI43|RR15_SOLLC 30S ribosomal protein S15, chloroplastic OS=Solanum lycopersicum OX=4081 GN=rps15 PE=3 SV=1
+---------------------MVKNSVISVIS-----------QEEKKGSVEFQVFNFTN
+KIRRLTS-----------HLELHKKDYLSQRGLKKILGKRQRLLAYLAKKNRVRYKELIN
+-----------------RLDIRETKTR--------------
+>tr|D3BP63|D3BP63_POLPP Dynein light chain roadblock OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=dlcC PE=3 SV=1
+---------------------MTTDLNVDET--------FKKLQTHK-GVKGILIINKNG
+SVIKSTF--------------DNDTSQQYSKLILDLFPRASTLLKQNDEKDQVSFFRVRS
+QDNDIMVSPDNDYFLM---VVNQVKHE--------------
+>tr|Q59RB3|Q59RB3_CANAL Elongin C OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=ELC1 PE=3 SV=1
+MSLLNTEFVTLVSSDNFKFVISKDVASISSV--------LRNSQGFEEGKTGKIKLDMDG
+DILECIV------EYLYYHY-KYKDSVTEGKDIPEFNIPTHLALE---------------
+----LLV--KADYLDI-------------------------
+>tr|C4LUD9|C4LUD9_ENTHI U6 snRNA-associated Sm-like protein LSm4 OS=Entamoeba histolytica OX=5759 GN=LSM4 PE=3 SV=1
+-----------------------MVLPIN------------------------LLENSQG
+TSV--TL--------------ELKNGFKYTGIL--------------DRCDRMMNIHL--
+-KNAILIKPSGDRFSVSKLIVKGISIRCFSVDESLLKKNEK
+>tr|Q22752|Q22752_CAEEL Dynein light chain roadblock OS=Caenorhabditis elegans OX=6239 GN=dyrb-1 PE=1 SV=1
+------------------------MSDFEET--------IRRLQSEK-GVVGIIVVDSAG
+RVIHSTI--------------DSDATQSHTAFLQQLCEKTKTSIRELDSSNDLTFLRLRT
+KKNEIMIAPDKDHVIM---VIKDLS----------------
+>tr|Q54MM6|Q54MM6_DICDI Dynein light chain roadblock OS=Dictyostelium discoideum OX=44689 GN=dlcC PE=3 SV=2
+-----------------------MNVELEES--------FKKIQSHK-GVVGVLIINKQG
+SVIKSTF--------------DQEVSLSYSKVILDMFPKAHDLLKVNDNNDELSFFRVRS
+KDNDIMVTPDKDFFLM---VVNKINK---------------
+>tr|A2DZ93|A2DZ93_TRIVA Roadblock/LC7 domain containing protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_486650 PE=4 SV=1
+-----------------------MSIEIDGI--------LKNLATIP-GVTGYLVLKMNG
+LPYKTSL--------------REAESVHYAGLVSEFVKKAKVSLENSLLPGAISQIRVRS
+HKNEIIIVPDNDFILV---AIQDATIPV-------------
+>tr|A8BDA9|A8BDA9_GIAIC Dynein light chain roadblock OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_15124 PE=3 SV=1
+------------------------MNDVEAT--------IKRISTHP-GVQGLLVLMDDG
+TVIRSTF--------------DDEMTARYVKLVSSYTVLSRSAIRDIDPTNELNYVRIRS
+DKREIICIPEGKYFII---AVTSMDAEFKP-----------
+>tr|I7L4E6|I7L4E6_ENCCU ECU04_0575 protein OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=ECU04_0575 PE=4 SV=1
+-------------------------MEFQAS--------LRLPCEDP-EVVGAAISSEDD
+GVDRQSAVYSHEDGYLVVNV-SAPRAKDLTKSLSSILSRFKLSVETIEMCKELREKRQAK
+-----------------------------------------
+>tr|G7Q1Q4|G7Q1Q4_MACFA Dynein light chain 2B, cytoplasmic (Fragment) OS=Macaca fascicularis OX=9541 GN=EGM_11983 PE=4 SV=1
+------------------------QAEVEET--------LKRIQSHK-GVIGTMVVNAEG
+IPIRTTL--------------DNSTTVQYAGLLHHLTMKAKSTVRDIDPQNDLTFLRIRS
+KKHEIMVAPDKEYLLI---VIQNPCE---------------
+>sp|P54999|RUXF_YEAST Small nuclear ribonucleoprotein F OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SMX3 PE=1 SV=1
+---------------------MSESSDISAMQPVNPKPFLKGLVNHRVGVK----LKFNS
+TEYRGTLVST--DNYF--NL-QLNEAEEFVAGVSH-----GTLGEIFIRCNNVLYIRE--
+-------LPN-------------------------------
+>sp|O93798|RS21_NEUCR 40S ribosomal protein S21 OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=crp-7 PE=3 SV=1
+-----------------------MENDRGEI--------VDLYVPRKCSATGRIIKSKDH
+GSCQITIA----------KVDENGRAIQGENIIYALSGFVRAMGESDDSLNRLA------
+---------QRDGLLK---AVWNPQR---------------

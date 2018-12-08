@@ -1,0 +1,96 @@
+>tr|K4B6F6|K4B6F6_SOLLC Anaphase-promoting complex subunit 10 OS=Solanum lycopersicum OX=4081 GN=101267195 PE=3 SV=1
+-------------------MADSSEGEEEGKL----------------TGGS--------
+-------QQLVVDD--------------------DLREMGKKAA-WSVSSYKPGNGVL--
+----------SLRDDNLE------------------------------------------
+----------------------TYWQSDG-------------AQPHLVNVQFQKKV----
+---KLQLVVLYVDFKLDES------------YTP--------GKISI-------------
+RAGDGFHNLKEIKAVELVKPTG--WMHIS-LSGNDPRETFVNTFMLQIGVLSNHLNGRD-
+------THIRQIKVYGPRPN-------------PIPLQPF----QFTSTEFITYSAVR
+>tr|D3BU92|D3BU92_POLPP Anaphase-promoting complex subunit 10 OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=anapc10 PE=3 SV=1
+---------MNTNTNTQQQTANNNDNNNGGNVNNN------------GTGGGGNNNGANQ
+NKDQQILAKESIDSIMRE--------------FIGLVDIGKNAT-WTLSSAKPGFGIE--
+----------QLLDENLS------------------------------------------
+----------------------TYWQSDA-------------PQPHTINIQFNRRY----
+---EIESLLLYTDFKEDES------------YTP--------SKISI-------------
+KIGSTFHDLEEIINTDLEEPNG--WINIPLLNEKQKP---LRANLLQISIIANHQNGRD-
+------THVRQIKVLGKK----------------VTLESKLRIPNFSQPEFNFYNNIR
+>tr|A0A1D8PPA5|A0A1D8PPA5_CANAL Het1p OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=HET1 PE=4 SV=1
+---------------------MSTFFDEMSKSFADVKVSD--------------------
+-------GKIDTAD---------FLQASESL--VKLFDLLGSSA-FTVVKSDMTGNIT--
+----------KIRNKLLED--------------------------------------PAN
+SATLQDLVLTEAKTKTKTATQGLLWLSRGLQFTAQAMRETVDAPGKELTVTFTDAYT--K
+TLSKFHGMLVKPVFKLAMK------------ACP--------YRKDFF-----------E
+KLGADQTKVAEQLQKWLEALEG------------------IVKIIMDFFASGNYGKGL--
+----------------------------------------------------------
+>tr|C4M9S5|C4M9S5_ENTHI Adenylate kinase OS=Entamoeba histolytica OX=5759 GN=CL6EHI_135470 PE=3 SV=1
+MAKVFLIMLGGPGAGKG--TQCANIEKHLNSS----------------------------
+-------AHISTGDLLRAE----IKNKTEI--GLKVEDIIRNGQ-L-VSDEIICNMVN--
+----------NFIAKNEK------------------------------------------
+----------------------EVIVFDG-----------YPRAVSQLEALLKEATA--E
+T--KICVINLEI---------------------P--------DEILIQRIVS------RG
+KTSGRADDNTEAAAKRLAVYHAQ-------HDEMIKA---IKAKNLPYFVV-DHLGGPD-
+------EVFNEIK------------------G------------VFANVGLH------
+>sp|H2L2B8|APC10_CAEEL Anaphase-promoting complex subunit 10 OS=Caenorhabditis elegans OX=6239 GN=apc-10 PE=3 SV=1
+-------MLADHQIPEQ-----SMDEEERTSS----------------RGWM--------
+-------REFKYPS--------------------NLRDITEEAR-ISLSSVAHCGGVD--
+----------ELLHESSE------------------------------------------
+----------------------LAWRTNM-------------SPPHRALFTFSKKT----
+---DISYVMLFLDYSRDES------------YCP--------QEVRI-------------
+DLGDGTNDWWLKMYRRVDQPKG--WVKIPIHDAFGNP---LRVMSLQMTIMKNHEKGRD-
+------CVVRHFRVLGPF-RSRYDSMNRMILGPSAVLEARPGTEPIKDAIMNHYQSMR
+>sp|Q55ER5|APC10_DICDI Anaphase-promoting complex subunit 10 OS=Dictyostelium discoideum OX=44689 GN=anapc10 PE=3 SV=1
+-------MIKNSNIN------------------------------------------SNS
+RLDDPILQEIELNK----------------------VEIGKHAS-WSVSSAKPGSGVE--
+----------QLRDNNLD------------------------------------------
+----------------------TFWQSDA-------------QQPHHITIQFPKKC----
+---YIENLLIHCDYKLDES------------YTP--------CKISI-------------
+KAGTILHDLQEIILTELEEPSG--WINIP-LSFNNNS---LKANLLQISILSNLKNGRD-
+------SHIRQIKVYGKK----------------ISIENYTQYPKFNSPEVSMFQTLR
+>tr|A2F358|A2F358_TRIVA Anaphase-promoting complex subunit 10 OS=Trichomonas vaginalis OX=5722 GN=TVAG_208580 PE=3 SV=1
+-------MFKGTF---------SLRDEKPGNC----------------------------
+----------------------------------PFNNITSQAV-WTVSSTQPGSGIQ--
+----------NLFDGNRD------------------------------------------
+----------------------TYWQSDG-------------NLPHQIIAQFAKKM----
+---FISVVKIAVSTQ-DDN------------YAP--------LQVDI-------------
+QTGNDPNSMNSKGTFAIENFNGVNTFHIE-----------IEAIFLAILIVRNLNDGKN-
+------SKIRSLQVFGSL-R-------------TISPEPSF---AFKKPELAMHLGIR
+>tr|A8BEB2|A8BEB2_GIAIC Peptide methionine sulfoxide reductase msrA OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_4946 PE=3 SV=1
+---------------------MDGVGRQEEAV---------EVRHIVLAGGCFWG-----
+-------LQALMDS---------FKGICTT--VVGYANASTDARGVMPSGSVEAQTVP--
+----------FLKHANVP------------------------------------------
+-------------------ACGLSYQSVC---------SGATDAAEAVAIEYDRRVITLE
+NILDIFFAVIDPTSKNSQGNDVGTQYRSGIYYLP--------CEKDDVQIIE-------K
+KVQELRPSYEKPIVTEVAE---------------------LKNYSVAEEMHQKYLASRP-
+------NGYCHINVSAAR-------------------------ERFAHLL--------
+>tr|Q8SW46|Q8SW46_ENCCU Nuclear cap-binding protein subunit 2 OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=ECU03_0760 PE=3 SV=1
+---------------------MVTLERYFGGE---------------PRGYF--------
+-----------------------YREKT----FVGTDEEYLEAK-RSSSTVFVSNIST--
+----------SVREE---------------------------------------------
+----------------------RIWELFLLC-----------GPVRRVVMGLNRNT----
+--------LRFCGFCFVEF------------YST--------DSANV-------------
+---------------AVRYLNG----------------FRLEQSPLAIDKDYGFVDGRQY
+GRGVFGGRVKTDRMYLED-RHQRDNNKRRKHG----------------------RHLR
+>tr|G7PPG6|G7PPG6_MACFA Hepatitis delta antigen-interacting protein A OS=Macaca fascicularis OX=9541 GN=EGM_05412 PE=4 SV=1
+------------------------MEAKAGG-----------------------------
+------------------------------------------------------------
+-------PE-EVTDEEXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXPRG-------------GPGG--------------
+-----------AGGSGAGPAP----------ELA--------------------------
+-----LPPCGP---RDLGDGSSS-------------------------------------
+--------------TGSV----------------GSPDQLPLACSPDD----------
+>sp|P53068|APC10_YEAST Anaphase-promoting complex subunit DOC1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=DOC1 PE=1 SV=2
+MDPIGINKVLDHLAPSELIKPVKSCHNKPSVLVLDDRIVDAATKDLYVNGFQ--------
+-------EEIQYQNPTPENLQHMFHQGIEILDSARMINVTHLAL-WKPSSFKLGNPVD--
+----------FALDDNYD------------------------------------------
+----------------------TFWQSDG-------------GQPHQLDIMFSKRM----
+---DICVMAIFFSMIADES------------YAP--------SLVKV-------------
+YAGHSPSDARFYKMLEVRNVNG--WVALRFLDNREDDQL-LKCQFIRLLFPVNHENGKD-
+------THLRGIRLYVPSNEPHQDTHEWA----QTLPETNN---VFQDAILR------
+>tr|Q7S3H3|Q7S3H3_NEUCR AhpC/TSA family protein OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=NCU06880 PE=4 SV=1
+------------------MFARTALRATASAS----------------------------
+----------------------------------PIARVSASAAPVAAASRFFSSSPARL
+VKIGELLPEGELLQE---------------------------------------------
+----------------------------G-------------SPGNKVDLRKEAESAR--
+---NMLIIGVPAAFSPACSAS----------HIPSYIQHPKTQEFDVKAVVSVNDAFVMK
+AWKENLDPAGESGIRFLADPSGS---------------F-TKALDLTFDSKAIFGNDRS-
+--KRYAMIVEDGKVTKIA----------------VEPDNTGTAVSLADKVLG------

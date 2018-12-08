@@ -1,0 +1,108 @@
+>sp|P14276|CB2E_SOLLC Chlorophyll a-b binding protein 3A, chloroplastic (Fragments) OS=Solanum lycopersicum OX=4081 GN=CAB3A PE=3 SV=1
+-----MAA----------------------------STMALSSS---TFAGKTVKLAPSS
+SEITGNGRI---------------TMRKTAA-----------------------------
+------------------------KPKPASSGSP--WXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXSLVHAQSILAIWA------------------------------
+---------------CQVVLMGAV------EGYRIAGGPLGEVV--DPLYPG------GS
+FDPLGLAEDPE------AFAELKVKEIKNGRLAMFSMFGFFVQAIVTGKGPLENLADHIA
+DPVNNNAWAFATNFVPGK----
+>tr|D3BPK0|D3BPK0_POLPP Chaperonin Cpn10 family protein OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=PPL_09469 PE=3 SV=1
+-----MSAIKS------------FKP-----LFDRVLVQRLNKSELKTLGGIY-----LP
+EKVSNK--------VNEGVVIEVGTGRRTASG--GFVQPFLKKG------DRILLNDVFG
+EKINVDGIDCEVINENEILGFVENDPNYSGGG----------------------------
+------------------------------------------------------------
+--------------------------------GGGSGGG---------------G-----
+------------------------------VGNGGVGG-----------VNG------SN
+NG----------------------------------------------------------
+----------------------
+>tr|Q5A8Y7|Q5A8Y7_CANAL DNA-directed RNA polymerase II subunit OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=RPB7 PE=4 SV=1
+------------------------------MFFLKDLSLNLTLHP--SFFGPQ-MDQYLR
+EKLLSD------------------VEGTCTGQF-GYIVCVLDSM----------------
+------------------------NID-VGKG----------------------------
+------------------------------------------------------------
+-------------------------------------------RIIPSTGMAEFEVKYRA
+VVWKPFKGE----------VVDAVVTTVNKMGFFADVGPLSVFV-STHLIPSDMKFNPSA
+NPPAYVSPDE--NIEKGSRVRLKIVGTRTDVNEIY-AIGSIKEDYL--------------
+----------------GPSPM-
+>tr|B1N5U3|B1N5U3_ENTHI T-complex protein 1 subunit eta OS=Entamoeba histolytica OX=5759 GN=EHI_005760 PE=3 SV=1
+-----MSF-ST------------QTP----------TIVVLKEGT---------DLSQGK
+GQIINN--------INACLAIQD-TLKPTLG-------PF--------------------
+------GSDILIVSSNG-------KTTISNDGAT--------------------------
+------------------------------------------------------------
+------------ILKLLDIVHPAAKMLVDISRAQDAEVGD--------------G----T
+TSVTILAGE----------LMKESKTFI-EDGISS------------HLITK------GL
+RKASELAVAKV------KEVALEIKKERKSNSAIY-------------------------
+----------------------
+>tr|Q9N3C9|Q9N3C9_CAEEL RNA Polymerase II (B) subunit OS=Caenorhabditis elegans OX=6239 GN=rpb-7 PE=1 SV=1
+MRQGRLLAHSSSRWHATGALTL-------RMFFHLSLDHEVCLHP--KYFGPN-LNETIK
+MKLFNE------------------VEGTCTGKY-GFVIAVTT------------------
+-------------------------IDTIGHG----------------------------
+------------------------------------------------------------
+-------------------------------------------LIQPGRGFVIYPVRYKA
+IVFRPFKGQ----------VVDGVVTQVNKVGIFCDIGPLSCFI-SRHCIPPDMEFDPNS
+EKPCYKTNDEANVIRNDDEIRVKLIGTRVDANDIF-AIGTLMDDFL--------------
+----------------GLCQAE
+>sp|Q54P04|RPB7_DICDI DNA-directed RNA polymerase II subunit rpb7 OS=Dictyostelium discoideum OX=44689 GN=polr2g PE=3 SV=1
+------------------------------MFFHLTLEKDLHMHP--KHCGPN-LFTIAT
+QQLYSE------------------VEGTCTGRY-GFIITITS------------------
+-------------------------VDFLSKG----------------------------
+------------------------------------------------------------
+-------------------------------------------KVLESSGYVVFNVKYKA
+IIFKPFKGE----------VLDAIVTKVTNLGFFAEAGPLSIFV-STQLIPSDMIFDAQS
+AVPCFVSEDGSSKISKDDEVRLQIKGTRVDATEIF-AIGSIREDYL--------------
+----------------GVIG--
+>tr|A2DCQ9|A2DCQ9_TRIVA Myb-like DNA-binding domain containing protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_237090 PE=4 SV=1
+-----MLSKSN--------LSVNEKPTQYRTLFTEEEDNLLRKLV--EQYGEN-QWEYLS
+RQIGTR------------------SSRQCRERWTNYLSPRLSQGPWSKDEDRLLFH----
+------------------------KVKKYGKKWELL------------------------
+------------------------------------------------------------
+------------------------------------------VRFFPTRSRNNIKNRYNT
+IVRKGL-------------------------GLGLEVTTIEGFILSAERVES-------R
+NRPATSSKKD-----------LNVNVPQINPIEKY-SI----QNFL--------------
+----------------I-----
+>tr|A8B7F5|A8B7F5_GIAIC VSP OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_115474 PE=4 SV=1
+------MA---------------------------------------------------P
+AEILEE------------------TARTRAA-----------------------------
+------------------------SPRAPSRGSPSLW-----------------------
+------------------------------------------------------------
+---------------------SLSWGASWASSAGGSSAG----------GRRDLGSECCT
+VIVIVLCGVTCSVGDCKSCVMDDVCGEC-SDGFSIEGGR---------CVSS------GT
+NR-SGLSADAI------AGISVAVVVVVGG------LVGFL-------------------
+------CWWFVCR---GKA---
+>tr|Q8SRG5|Q8SRG5_ENCCU DNA-DIRECTED RNA POLYMERASE II 19kDa SUBUNIT OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=ECU07_1750 PE=4 SV=1
+------------------------------MFFVRDFVQNIHLSP--NYLGPN-IQALIE
+EYLLSK------------------VEGSCSSS--GYVVMVLS------------------
+-------------------------IDEISES----------------------------
+------------------------------------------------------------
+-------------------------------------------RIILT-GETIFTVKYKA
+LTLKPLKGE----------VIDANVVETNKMGVFASVGPLTVFI-SNHQIPNFLLEN---
+------------EITKNVMIRLKIIGTKIDSTRIY-AVGTLNDDSL--------------
+----------------GIIS--
+>tr|G7PPG6|G7PPG6_MACFA Hepatitis delta antigen-interacting protein A OS=Macaca fascicularis OX=9541 GN=EGM_05412 PE=4 SV=1
+-----MEA---------------------------------------KAGG--------P
+EEVTDEEXXXXXXXXXXXXXXXXXXXXXXXXX--XXXXXXXXXX------XXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXPRGGPGG----------------------------
+------------------------------------------------------------
+--------------------------------AGGSGAGPAPELALPPCGPRDLG-----
+------------------------------DGSSSTGS-----------VGS------PD
+QLPLACSPDD--------------------------------------------------
+----------------------
+>sp|P34087|RPB7_YEAST DNA-directed RNA polymerase II subunit RPB7 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=RPB7 PE=1 SV=1
+------------------------------MFFIKDLSLNITLHP--SFFGPR-MKQYLK
+TKLLEE------------------VEGSCTGKF-GYILCVLDYD----------------
+------------------------NID-IQRG----------------------------
+------------------------------------------------------------
+-------------------------------------------RILPTDGSAEFNVKYRA
+VVFKPFKGE----------VVDGTVVSCSQHGFEVQVGPMKVFV-TKHLMPQDLTFNAGS
+NPPSYQSSED--VITIKSRIRVKIEGCISQVSSIH-AIGSIKEDYL--------------
+----------------GAI---
+>tr|Q7SH68|Q7SH68_NEUCR DNA-directed RNA polymerase II polypeptide OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=NCU02661 PE=4 SV=3
+------------------------------MFFLHNLERRVTLHP--SYFGRN-MHELVT
+TKLVKD------------------VEGTCAGDY--YIIAIMDA-----------------
+-------------------------FD-VSEG----------------------------
+------------------------------------------------------------
+-------------------------------------------RILPGNGLAEFTVKYRA
+VVWRPFKGE----------VVDAIVFSINPHGFFCQAGPLSIFV-SSHLMPEEIHFDPNA
+TPPQFTNNADM-VIEPGTHVRVKIGGLRTELGEMY-AIGSINGDFL--------------
+----------------GCLQA-

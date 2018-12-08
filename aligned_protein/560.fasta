@@ -1,0 +1,84 @@
+>tr|K4D553|K4D553_SOLLC Histone H2B OS=Solanum lycopersicum OX=4081 GN=101261185 PE=3 SV=1
+---------------------MAPKSEKKPAEK-------------KPAEKTPVAEKAPA
+EKKPK-------------------------------------------------------
+------------------------------AGKKLPKDAAAGDKKK---KRSKKAVETY-
+---KIYI--------------FKVLKQVHPDIGISSKAMGIMNSFINDIFEKL-AQEASR
+LARYNKK----PTITSREIQTAVR-----LVLPGEL--------AKHAVSEGTKAVTKFT
+SS---------------------------
+>tr|D3B615|D3B615_POLPP 40S ribosomal protein S14 OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=rps14 PE=3 SV=1
+------MSGKKEAKAPKIVENLADKIGNRPGEEVFAVAHIFASFNDTFVHITDISSKETI
+VRVTGGMKVKTDRD----------------------------------------------
+-------------------------ESSPYAATMAAQDVAAR--CK---EIGITA-----
+---------------------------LHIK-LRATGGQG--------------SKTPGP
+GAQSAL----------RAL-------------------------ARSGMKIGRI-----E
+DVTPV---PTDSTRRKGG----HRGRRL-
+>tr|Q5ALU3|Q5ALU3_CANAL COX assembly mitochondrial protein OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=orf19.1483 PE=3 SV=1
+------MSNYYNKNKKSYSDVELPTNPNLP------------SWI-----ITPKEEKAVF
+ERWRKRAFARCDELI---------------------------------------------
+--------------------NKYIECSNSY-----SNPVDAVKKCQ---KINEESLA---
+-----------CVAQYQTKEYLDIEKDLFI---KE-------------------KLEKKK
+LYKLYLE---------KQMQEKQQ--------------------QQQQEKQG--------
+-----------------------------
+>tr|C4LY16|C4LY16_ENTHI Calcium binding family protein OS=Entamoeba histolytica OX=5759 GN=CL6EHI_177620 PE=4 SV=1
+---------------MTTSELIDDYFSILDIDHDKKISR---------------DQVIEL
+LRALGKAPTQQQEEA---------------------------------------------
+------------------------------IMREVKEDLVGVEKIR---QLYKKCE----
+---------------------MKVPKDLYD------DMFG--------VFTALDKEENGQ
+IHEAELRQI--LSVLGRPLSNSEV---------------EAIMRSATVSREGYVDYKEFA
+DMLVKEYPPE-------------------
+>tr|Q20291|Q20291_CAEEL Mitochondrial fission 1 protein OS=Caenorhabditis elegans OX=6239 GN=fis-1 PE=1 SV=1
+----------MEPESI--------------LDFHTEQEEILAARARSVSRENQISLAIVL
+VGSED-------------------------------------------------------
+-------------------RRE-IKEGIEILEDVVS-DTAHSEDSRVCVHYLA-------
+--------------------------LAHARL-KNYDK-----S-INLLNALL-RTEPSN
+MQATELR--------------------------------RAV--EKKMKREGLLGLGLLG
+GAVAV----------VGGLVIAGLAFRK-
+>sp|Q54T58|LYRM1_DICDI LYR motif-containing protein 1 OS=Dictyostelium discoideum OX=44689 GN=lyrm1 PE=3 SV=1
+----------MSKKVLTAYNAIDHTYFSQLSQRNKALYM---------------------
+------------------------------------------------------------
+-------------------YRSILRLANKWESDSQREDIRYETRST--FQKNKDLTDTEI
+INDKIEEAR------------SRMLTALHYNIPYE--------K----------KKYNIP
+KYQIQMKPP-----------------------------------PDPKDESGIC------
+-----------------------------
+>tr|A2F0U5|A2F0U5_TRIVA Bromodomain containing protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_344970 PE=4 SV=1
+----------MDDN-----------------DKRWCRHFIDELWKWKICQPFRYPVEPEI
+NNCPD-------------------------------------------------------
+-------------------YFQIIKQPMDFQTIKYKLNQNSYEDIR---EFFNDLRLISY
+-NAKQYNGEDTYYGKMAGDILDEVNKRAERKLKFKNDTLDELES-LSAQISTL-LANPPP
+EATVSLP--------------------------------VRV--NAKSNSKSY-------
+-----------------------------
+>tr|A8B4N9|A8B4N9_GIAIC Protein kinase OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_4033 PE=4 SV=1
+MKDNYNRTALMEAAARNHLEIV----------------------------IMLIEYEACM
+RDSFG-------------------------------------------------------
+------------------------------ETALMKAASNGHLEVV---ELLIEYEAGK-
+---NDDSGE-TALMKAALGGYLKVVELLF-------ESEG----------YLIDKSDKSF
+FGKLEAKGYFEIVSFLRDS-------------------------SRTSSTDGYS----YS
+-----------------------------
+>sp|Q8SRC3|SEC65_ENCCU Signal recognition particle SEC65 subunit OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=SEC65 PE=3 SV=1
+----------MESK-------------------HFCLYPIYMDSARSLSEGRKYRKEIC-
+VQRPR-------------------------------------------------------
+-------------------YHE-IKNALEKLEIEYT-DEPSKKHPR---DFFN-------
+--------------------------SGRFRIKKEYGRLFVIEG-ISQTIAEL-RSKPGS
+SEET------------------------------------SR--EKQSRGKAVHGVVQNG
+VYVEN----------KLNLVRKKKAKKKK
+>tr|G7PPG6|G7PPG6_MACFA Hepatitis delta antigen-interacting protein A OS=Macaca fascicularis OX=9541 GN=EGM_05412 PE=4 SV=1
+----------MEAKA---------------------------------------------
+----GGPEEVTDEEXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXPRGGP-------------------------------
+------------------------------------GGAG--------------GSGAGP
+APELALP-----PCGPRDL-------------------------GDGSSSTGSVG---SP
+DQLPLACSPDD------------------
+>sp|P42937|YCH1_YEAST CDC25-like phosphatase YCH1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YCH1 PE=1 SV=1
+----------MDSYSITNVKYLDPTELHRWMQE---------------GHTTTLREPFQV
+VDVRG-----SDYM----------------------------------------------
+--------------------GGHIKDGWHYAYSRLKQDPEYLRELK---HRLLE------
+---------------------------------KQADGRGAL----NVIFHCMLSQQRGP
+SAAMLL---------LRSLDTAELSRCRLWVLRGGFSRWQSVYGDDESVTAGYL------
+--------PDLW--------------R--
+>tr|Q7SDJ2|Q7SDJ2_NEUCR Mitochondrial copper ion transporter OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=NCU09809 PE=4 SV=3
+------MSTFGSPGALPTTKPTPPQRGSFPLDHDGECKHVMTTY------------LACI
+KRVKG-----VNED----------------------------------------------
+---------------------ECRSLAKAYLACRMERNLMAKDDFK---NLGFK------
+------------------------------------EDEP--------------SSTPKP
+AAE-----------------------------------------AEKGVK-GEL------
+--------------------------RW-

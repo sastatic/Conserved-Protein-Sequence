@@ -1,0 +1,60 @@
+>tr|K4DBV8|K4DBV8_SOLLC 40S ribosomal protein S30 OS=Solanum lycopersicum OX=4081 GN=101247244 PE=3 SV=1
+------------------MGKVHGSLARAG-----KVRGQTPKVAKQDKKKKPR------
+------------------------------------------------------------
+-GRAHKRMQYNRRFVTAVVGFGKKRGP---------------------------------
+---------------------NSSEK------------------------
+>tr|D3B7U1|D3B7U1_POLPP S60 ribosomal protein L36a OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=rpl36a PE=3 SV=1
+MIIKYSSQVEPMIHLLVNIPKARKTLCVK-------CNKHTPHKVTQYKAGKPS------
+------------------------------------------------------------
+-LFAQGKRRYDRK----QRGFGGQTKPVFHKKAKTTKKIVLRMECS-CGAKKQQVI--KR
+CKRFE----------------LGGEKKKKGEAMKI---------------
+>tr|A0A1D8PEV4|A0A1D8PEV4_CANAL Ribosomal 60S subunit protein L42A OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=RPL42 PE=3 SV=1
+---------------MVNVPKTRKTYCKGK-----ECRKHTQHKVTQYKAGKAS------
+------------------------------------------------------------
+-LFAQGKRRYDRK----QSGYGGQTKQIFHKKAKTTKKVVLRLECVVCKTKAQLPL--KR
+CKHFE----------------LGGDKKQKGQALQF---------------
+>tr|C4LV00|C4LV00_ENTHI Macrophage migration inhibitory factor-like protein OS=Entamoeba histolytica OX=5759 GN=CL6EHI_092370 PE=1 SV=1
+------------------MPHALITLSADITEEIKKEIAHESMKILSEVIGKPI------
+------------------------------------------------------------
+-SYCATQV------VTSVGGFGG----------KIVKSAFIDIKSISGLKGKQEGLSDRY
+CKLLEQKAGIEGGNIYLNFTEMTGNNWGYDHSTF----------------
+>sp|P48166|RL36A_CAEEL Ribosomal protein rpl-36.A OS=Caenorhabditis elegans OX=6239 GN=rpl-36.A PE=3 SV=2
+---------------MVNVPKARRTFCDGK------CRKHTNHKVTQYKKGKES------
+------------------------------------------------------------
+-KFAQGRRRYDRK----QSGFGGQTKPIFRKKAKTTKKIVLRMECTECKHKKQLPI--KR
+CKHFE----------------LGGQKKSRGQVIQF---------------
+>sp|Q55CW5|RL36A_DICDI 60S ribosomal protein L36a OS=Dictyostelium discoideum OX=44689 GN=rpl36a PE=3 SV=2
+---------------MVNIPKARKTHCVK-------CNKHTPHKVTQYKAGKPS------
+------------------------------------------------------------
+-LFAQGKRRYDRK----QSGFGGQTKPVFHKKAKTTKKIVLRMECS-CGYKKQQVL--KR
+CKRFE----------------LGGEKKSKNEAIKM---------------
+>tr|A2GHR1|A2GHR1_TRIVA Ferritin (Fragment) OS=Trichomonas vaginalis OX=5722 GN=TVAG_208690 PE=3 SV=1
+--------------------------------------------MANYVKDKGMD-----
+------------------------------------------------------GFAHFF
+DKQAEEELEHAEK--LRQFLFAIDVRPDLEGINKPETEFGTFTETFKTALEHEKEVT-KR
+INDLYD---------------LSVKENDHRVTSLLQWYVDEQ--------
+>tr|A8BQU8|A8BQU8_GIAIC Ribosomal protein L44 OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_9810 PE=4 SV=1
+---------------MVTYPAERRTFCKR-------EGKHTVHKASLYKKGKDS------
+------------------------------------------------------------
+-LLAQGKRRYDRK----QRGFGGQTKPIFRRKAKTTKKQVIRLTCSSCKCQTFQVL--KR
+CHRLEI-------------SRLGATKKSKGSVVF----------------
+>sp|Q8SR18|RL44_ENCCU 60S ribosomal protein L44 OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=RPL44 PE=3 SV=1
+---------------MVNIPKTRNTFCKK-------CKGYSAHKVSQAKKSKDN------
+------------------------------------------------------------
+-PRAQGNRRYARK----QRGYGGQTKPILRRKAKVTKKLVLNLECTKCKFSHQKPL--KR
+AKHVI----------------FGGERKRKGEALVY---------------
+>tr|G7PPG6|G7PPG6_MACFA Hepatitis delta antigen-interacting protein A OS=Macaca fascicularis OX=9541 GN=EGM_05412 PE=4 SV=1
+---------------------------------------------MEAKAGGPEEVTDEE
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXPRGGPGGAGGSGAGPAP-------------------------ELAL--PP
+CGPRD----------------LGDGSSSTGSVGSP----DQLPLACSPDD
+>sp|P0CX27|RL44A_YEAST 60S ribosomal protein L42-A OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=RPL42A PE=1 SV=1
+---------------MVNVPKTRKTYCKGK-----TCRKHTQHKVTQYKAGKAS------
+------------------------------------------------------------
+-LFAQGKRRYDRK----QSGFGGQTKPVFHKKAKTTKKVVLRLECVKCKTRAQLTL--KR
+CKHFE----------------LGGEKKQKGQALQF---------------
+>tr|Q7RVK8|Q7RVK8_NEUCR 60S ribosomal protein L44 OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=NCU00706 PE=3 SV=2
+---------------MVNVPKTRKTYCAGR-----SCGKHTLHKVTQYKAGKAS------
+------------------------------------------------------------
+-AFAQGKRRYDRK----QSGYGGQTKPVFHKKAKTTKKVVLRLECSVCKQKKQLPL--KR
+CKHFE----------------LGGDKKTKGAALVF---------------

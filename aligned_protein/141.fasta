@@ -1,0 +1,108 @@
+>sp|P14275|CB2C_SOLLC Chlorophyll a-b binding protein 1C, chloroplastic (Fragments) OS=Solanum lycopersicum OX=4081 GN=CAB1C PE=3 SV=1
+--------------MAAATMALSSPSFAG--QAVKLSPSASEISGNGRITMRKAVAKSAP
+SSSPWXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSLV------------
+-----------------------HAQSILAI-WACQVVLMG---AVEGY-----------
+RIAGGPL-----------------------------------------------------
+-----------------------------------G--EVVDP------LYPGGSF----
+------DPLGLAEDPEAFAELKVKEIKN---------GRLAMFSMFGFFVQAIVT--GKG
+P-------LENLADHLADPV------NNNAWAFATNFVPGK
+>tr|D3BG85|D3BG85_POLPP Heat shock protein OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=PPL_07536 PE=3 SV=1
+--------------MSKYINLLKKTDV--------IIPSLRESSQNG---IRSFVNSSSN
+NSN---------------------------------------------------------
+-------------------------------------------TINMVGQLSSEVGRMNY
+YSGGHYGGHPQFYANYPADPMRKKATTILSVRRGNKVVIIGDGQVSQGHSIVKPNAKKIR
+RLADGKIVAGFAGSVADAFTLFELLEKKLTEHRG-LLLKSCVELAQQWRTDKYYRR----
+-------LEASLIVA---DKDI--TLN----IDGNG--DVLEPNDGVLAIGSGGEF----
+-------ALSAARALLTVPDLDAEEIARRSMKI---AADICIYTNHNFILETIEIDPSKS
+PSTASTQYSQQLDLSQAPPTTKDENNNNNNQK---------
+>tr|Q5A6A1|Q5A6A1_CANAL Ribosomal 60S subunit protein L24A OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=RPL24A PE=4 SV=1
+-------------------------------MKIEVD------SFSGSKIYPGRGTLFVR
+GDS---------------------------------------------------------
+------------------------------------------------------------
+----------KIF----------RFQSSKSASLFQ-------------------QRKNPR
+RISWTVLYRRHHKKGISEEAAKKRTRKTVKHQR-------AIVGASLELIKERRSQKPSD
+RKAAR----DSKLAK---DKEAKKAAK-----------AARKAEKAK-AVASGAS-----
+----------------VVSK----QQAKGSF------QKVKATSR---------------
+-----------------------------------------
+>tr|Q9BI08|Q9BI08_ENTHI Vacuolar protein sorting-associated protein 29 OS=Entamoeba histolytica OX=5759 GN=vsp PE=1 SV=1
+----------------MLVLVIGDFHVPH--RSAAIPQVFLDRLNTGRI-----------
+------------------------------------------------------------
+------------------------------------------QTVLCTGNLCG-------
+----------------------KETYDILRTLAREVHVVKGDFDEMQGL-----NETEVI
+KIGNFKIG---------------------------LMHGHQVIPWGDREALAIYQR----
+------QLDVDILITGHTHKLE----T----KEVGG--KY--------FLNPGSAT----
+-------GAYSPLVDNPVPSFMLLEINDSELTI----------------YEYTLVDGSVK
+CERVDFNKKQQQ-----------------------------
+>sp|O45946|RL18_CAEEL 60S ribosomal protein L18 OS=Caenorhabditis elegans OX=6239 GN=rpl-18 PE=3 SV=1
+-------------------------------MGIDINH---KHDRVARRTAPKSENPYLR
+LLS---------------------------------------------------------
+------------------------------------------------------------
+----------KLY----------AFLARRTGEKFNAIVLKR----------LRMSRRNRQ
+PLSLAKLARAVQKAG--NENKTVVTLSTVTDDAR-LYTVPKISVAALHVTEGARAR----
+ILAAG----GEIITL---DQLALKSPKGENTVFLQGPRSAREAEKHF-GPAPGVPH----
+-------SHTKP---YVRSKGRKFERARG-----------RRASRAYKN-----------
+-----------------------------------------
+>sp|Q54BQ3|RL23A_DICDI 60S ribosomal protein L23a OS=Dictyostelium discoideum OX=44689 GN=rpl23a PE=1 SV=1
+--------------------------------------------MAG-----KKVKSNTP
+KQD---------------------------------------------------------
+--------------------------------------------------LS--------
+-----------------------VSKSKLTSIKAPAAAIKAKAAASA---VKKGVSNKST
+RKVRTSV----------------IFRRPVTLNNP-KKPAYPRRSVNKITKMDQFRI----
+-------LKAPLTTESATQKIE------------------------------GSNTITFM
+VDM----FANKSQVADAVAKMYDVKVKRVNTLITPRGEKKAFVTLS--------------
+PEFEAADVANKIGLI--------------------------
+>tr|A2FIC0|A2FIC0_TRIVA SGS domain containing protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_078170 PE=4 SV=1
+MSEFPLRNDSYQTAKNVAVTIYKS----G--KEVELLE--THPEEKG-IVIKVKVDGEEH
+IKA-W-------------------------------------------------------
+------------------------------------------------------------
+----------AFFKDI-------KPSTMKIDNGSKKIEIAFEKAAVENWPHAEASSDATT
+PLYQ-------KWSKVDFPEEEEVKDQGID-----KFLQGIYANASDDAKRAMYKS----
+------------------------------------------------FIESGGTVLS--
+--TNW------------------EDVGKRKVEAQP-------------------------
+PK---------------------------------------
+>tr|A8BI74|A8BI74_GIAIC Glycosyltransferase family 28 OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_102978 PE=4 SV=1
+MRVF---TSVGTTRFDELVCIFGDEEVLQALARVGVTHLTVQHGSSPFKVPPSAVNIGLK
+VSS---------------------------------------------------------
+------------------------------------------------------------
+------------F----------DYAPSLASYLEDADVIF--------------------
+---------SHAATGIYLEAMQLRLPHFLIVNTN-LHENHQAELAGL-LADSTRCRAFAD
+ANAFRAYLLSGMLAS---DLLPMKNAT-----------ASDQ---------PRVP-----
+-----------PFLLEVLSRT---PRRRGLLGLALAGAFLLILARGL-------------
+-----------------------------------------
+>sp|Q8SR11|PSB1_ENCCU Probable proteasome subunit beta type-1 OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=PRE3 PE=1 SV=1
+---------------------MMS----------------NEKEMTG-------------
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------TTIIAIKYDDGVLIGADSRTSMGAYVSSRVTDKLT
+QITD-KIFVCRSGSSADTQMISSYLRMYLSMYSQLEDSIPQVQRAAALASKIIYEN-P--
+------SLLAGLIVAGYDDKPR--VFN----ISLGG--SLTERDWAI--GGSGSAFIYGY
+CDVNWRSGMSLEEGIRFVRNAVSCAINRDNAS----GGCIRMSAISRTGVQR-YFYPG--
+------DKVLQ------------------------------
+>tr|G7PPG6|G7PPG6_MACFA Hepatitis delta antigen-interacting protein A OS=Macaca fascicularis OX=9541 GN=EGM_05412 PE=4 SV=1
+----------------------------------------MEAKAGG----PEEVTDEEX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------
+------------------------------------------------------------
+-----------------------XXXXXXXXXXXXXXXXXXXPRGGPG------------
+---------GAGGSGAG----------------------------------------P--
+------APELALPPCGPRD------------------------------LGDGSSSTG--
+------------------------------------------------------------
+----SVGSPDQLPLACSP--------DD-------------
+>sp|P38624|PSB1_YEAST Proteasome subunit beta type-1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=PRE3 PE=1 SV=2
+-----------MNGIQVDINRLKK----------------GEVSL-G-------------
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------TSIMAVTFKDGVILGADSRTTTGAYIANRVTDKLT
+RVHD-KIWCCRSGSAADTQAIADIVQYHLELYTS-QYGTPSTETAASVFKELCYENKD--
+------NLTAGIIVAGYDDKNKGEVYT----IPLGG--SVHKLPYAI--AGSGSTFIYGY
+CDKNFRENMSKEETVDFIKHSLSQAIKWDGSS----GGVIRMVVLTAAGVERLIFYP---
+------DEYEQL-----------------------------
+>tr|V5INT5|V5INT5_NEUCR Rpp14 family protein OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=NCU16771 PE=4 SV=1
+------------------MVRLKDRYL-----LVNIVYADIPPGQKG--TVPDLLLYNQP
+T-----------------------------------------------------------
+-----------------------------------------------LGEL---------
+-----------------------RPQTILKGIRSQVNALFGD------------------
+---------CGSGSVERSLQV--------------KYLSTATSTFILRISRAHYRL----
+-------VWAALTFM---DRLP---------------------------VKDGRPCIF--
+---------RVVRVSGTIRKVEEEAIRRAKLLV--LAAKDEMAGKASSDALNALFRGGK-
+------DSARNLAL-----VTDD---HDDAEMGEGEVSDG-

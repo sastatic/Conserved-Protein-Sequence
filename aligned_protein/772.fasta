@@ -1,0 +1,120 @@
+>sp|P14275|CB2C_SOLLC Chlorophyll a-b binding protein 1C, chloroplastic (Fragments) OS=Solanum lycopersicum OX=4081 GN=CAB1C PE=3 SV=1
+----MAAATMALSSPS--------------------------------------------
+---FAGQAVKLS------------PSAS--------------------------------
+-EISGNGRI---------------------------------------------------
+-------TMRKAVAKSAPSSS----PWXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXSLVHA---QSILAIWACQVVLM-GAVEGYRIAGGP------------------
+--LG-----EVVDPL---------------YPGGSFDPLG---LAEDPEAFAELKVKEI-
+KNGRLAMFSMFGFFVQAIVTG----------KGPLENLADHLADPVN-------------
+-------NNAW----AFATNFVPGK-----------
+>tr|D3BU14|D3BU14_POLPP MOSC domain-containing protein OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=PPL_11274 PE=4 SV=1
+----MSIVAVCLSPTHSM------SKPV--------------------------------
+-----------------------VDEIKLVTGLGIEGDAHFG------------------
+DKVQHLSRVK--------------------------------------------------
+-------------------AN----PDQPNLRQ---------------------------
+------------------------------------------------------------
+------IHLIHTELHQELKAK---------GFTKGVEPGEMGENITTRDIDILSLPKGTK
+LELGDRGALIEITGLR--------------NPCQQLNGLENTLMSACRDTDADGRVTQR-
+KAGIMGIVLN----------------------GGIVKANDKIN-----------------
+IILPEEPHIPLQVV----------------------
+>sp|Q5A940|MBF1_CANAL Multiprotein-bridging factor 1 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=MBF1 PE=3 SV=1
+---------MSSDWDS---VTIIGQKARVGGGG--------------------------P
+RENVAKTSSQLN------------------------AARRAG------------------
+-LVVGTEKKY--------------------------------------------------
+-------------GTANTKSN----PEGQRLTK---------------------------
+------------------------------------------------------------
+---------------LDATDDVVAVKKV--DVSVG------------------------K
+AIQQARQ------------------------------------EKKLTQKELATKVNE--
+KPNVINDYEA----GRAIPNQ----Q-------LLAKLERALGVKLR-----GKNIGEPL
+FAKKK-------------------------------
+>tr|B1N395|B1N395_ENTHI Myb-like DNA-binding domain containing protein OS=Entamoeba histolytica OX=5759 GN=CL6EHI_009820 PE=4 SV=1
+MTEQQNSSKTKNDKDSSIDLSTLSMRQICKLSH--------------------------K
+KQSSIKKLKELKQPFNRYLDE---------ECIGEISNEKSG------------------
+-EENGTEH----------------------------------------------------
+--------------NSSKRSNLLKPKKSKKWDK---------------------------
+------------------------------------------------------------
+---------------EEILKLYTGIMKY--GADFGLI----------------------E
+LMFDGRT------------------------------------RKQIKAK---FKAEERI
+RPKMIE---------KALNAQ----QT--MDTNLLQETLDLIGKQHD-----LSSSSDEV
+LPRPD----------VF-------------------
+>tr|Q9TYN4|Q9TYN4_CAEEL BLOC (Biogenesis of Lysosome-related Organelles Complex) and Related complexes subunit homolog OS=Caenorhabditis elegans OX=6239 GN=blos-7 PE=1 SV=1
+----MSTSTESPDTPTT-------SQPL--------------------------------
+---LSNKQTSFVVDDLEE------------------------------------------
+-RIRESARI---------------------------------------------------
+-------------------SS----PKRAAAAGLPDPKILVDLE----------------
+------------------------------------------------------------
+---------THT---KEIVNNMDTMLRDMRGSLHGMS----------------------D
+LTL--------------ESL-------QCYNSGVEKACDE---ADANVKST---------
+-YAMLAKVEE-------VNQS----------MGNVQKLAGQIKE------------MRRL
+VELFET---------LFHGSLK--------------
+>sp|Q55E35|SPCS2_DICDI Signal peptidase complex subunit 2 OS=Dictyostelium discoideum OX=44689 GN=spcs2 PE=3 SV=2
+----MSTTTTTTTTEKPIQVTLYDSNTIKQ-----------TLDDSI-------------
+---VKYVTSALSYTQNQKLNY---------------TKVLFGLIGC--------------
+-TLAAIAQFYPI------------------------------------------------
+---------------PFPKNK----P----------------------------------
+------------------------------------------------------------
+-----------------------------------------------------------V
+LILC--VALYVVISLILYYINIFIQKDYILQASKSNDEIKVATVLQKYDPNYQVKIENA-
+KNSSIN-----------------------------VPFSKSIDLYFDTKGTFLES-----
+---------------NFHNDLSVQFKKFAKLNVKDK
+>tr|A2G864|A2G864_TRIVA p270-related protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_114980 PE=4 SV=1
+--------MTQWKKPKT-------SSPISXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXFEERTGKFEYKFYEDQSYIPLPEKNVKEISSGSSTSSKKLLADDGKTYQLTIPAPKI
+DEIRDSE--------------------------------EAKLRIRTAQSDEQPPSNVFS
+KEIKLEKTKYVSGEQPNPTSS----PSKGGLSG---------------------------
+------------------------------------------------------------
+------------------------------GQIVGIVF---------------------A
+VLLG-----IVIIVLIVYFI-------FCKKPSNDRSSSD---MKEDSGSG---------
+---------------VYV------------------------------------------
+------------------------------------
+>tr|A8BHS7|A8BHS7_GIAIC Histone H2A OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_14256 PE=3 SV=1
+----------------------MSTKPVKDNSK---------------------------
+---MKSRSARAGIS---------FPIGRIHRHLR--------------------------
+-EGRYAERI---------------------------------------------------
+-------------------SS--DAP----------------------------------
+------------------------------------------------------------
+---------VYL-----------------------------------------------A
+AVLENVVA------------------EVFREACNHRDKKS---QKRIVPNHILTALRKDK
+ELATIFANVTIREGGVARSAKEGREGKGSHRSQDL-------------------------
+------------------------------------
+>tr|Q8SSJ4|Q8SSJ4_ENCCU CALCIUM-BINDING PROTEIN SIMILAR TO MYOSIN REGULATORY LIGHT CHAIN 2 OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=ECU01_1260 PE=4 SV=1
+-----------------ML-----------------------------------------
+------------------------------------------------------------
+-ERNESDRIYDM------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------VTH-------------------GN---------------------------E
+MTLEDLKQFIEIVFLDVSSQQ----------------------VSQLTQSLGNIVTRDD-
+FNSILDSLVLKRTGNLDVFNSWDRDQKGHIDKNDVEAILKSYGLSFK------ESYIDAM
+L--------------GIFKDKKMRFDDLNSL-CKEK
+>tr|G7PPG6|G7PPG6_MACFA Hepatitis delta antigen-interacting protein A OS=Macaca fascicularis OX=9541 GN=EGM_05412 PE=4 SV=1
+------------------------------------------------------------
+---MEAKAGG--------------PE----------------------------------
+-EVTDEEXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXPRGG----P---GGAG---------------------------
+------------------------------------------------------------
+------------------------------GSGAGPAP---------------------E
+LAL---------------------------PPCGPRDLGD---GSSSTGS----------
+-----------------VGSP------------DQLPLACSPDD----------------
+------------------------------------
+>sp|Q07648|DTD_YEAST D-aminoacyl-tRNA deacylase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=DTD1 PE=1 SV=1
+----MKIVLQKVSQASVVV----DSKVISSIKHGYMLLVGISIDDSMAEIDK--------
+---LSKKVLSLRIFEDESRN---LWKKNIKEANG--------------------------
+-EILSVSQF---------------------------------------------------
+----------TLMAKTKKGTK----PDFHLAQK---------------------------
+------------------------------------------------------------
+------------------------------GHIAKELY---------------------E
+EFLK-----LLRSDLG------------------------------------EEKVKDG-
+EFGAMMSCSL---------TN----------EGPVTIILDSDQ-----------------
+------------------------------------
+>tr|Q1K5S1|Q1K5S1_NEUCR SNARE complex subunit OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=NCU01741 PE=4 SV=2
+------------------------------------------------------------
+-----MMASRFAHSSLHQRD----PRSDLFKGYSGSSAA---------------------
+-ERRSAN-----------------------------------------------------
+-------------------AS----PARYGGGG---------------------------
+------------------------------------------------------------
+------------------------------GYGYGGGYGGGGSY------------NGSS
+STLG-----MERGGF---------------RPATPNSRGQ---YSDAVLNELESQNDEQ-
+VEGIMGKVKILKDMTIAIGDE----------IRDSSALAEKMNESFDQTRLRLRGTMNRM
+LIMAQKTNVGWRVWLAFFAAVVFLFFYVRYL-----

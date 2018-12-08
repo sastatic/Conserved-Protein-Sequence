@@ -1,0 +1,120 @@
+>sp|P14275|CB2C_SOLLC Chlorophyll a-b binding protein 1C, chloroplastic (Fragments) OS=Solanum lycopersicum OX=4081 GN=CAB1C PE=3 SV=1
+------------------------------------------------MAAATMALSSP-
+SFAGQAVKLSPSASEISGN-----------------------------------------
+---GRI-TM--R---KAVAKSAPSSSPWXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXSLVHAQSILAIWACQVVLMGAVEGYRIAGGPLGEVVDP----------LYPG
+GS----FDPLGLAEDPEAFA--------EL------------------------------
+---------------------------------------------KVKEIKNG-----RL
+AMFSMFGFFVQAIVTG-------KGPLENLADHLAD-------PVNN-------------
+--------------NAWAFATNFVPGK----------------------------
+>tr|D3BAY1|D3BAY1_POLPP Rab GTPase OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=rab18 PE=4 SV=1
+----MEEEKNY--KVLLIGDSDVGKTSIVKRFLDDTFDEDL---------LCTIGVEFK-
+-----------MKAV--------EVDG--------------KSVTLCIWDTA--------
+---GQE-KF--RALISSYYRGAHGIIL---------------------------------
+------------------------------------------------------------
+---------------------TYDV-----------------------TKRETFKNL---
+--------QYWLNEIETFSN----------------------------------------
+-----------------------------------------RANVVKLLVGNK-------
+------IDKENREVTR-----------EEGLEFAKS-KAMFFIECSAKTKIGI-------
+QQAFEEL---AHKI----IETPSLSEDNENKKKKIKATVSADE--SNQQGGYCGC
+>tr|Q5AI00|Q5AI00_CANAL Rab family GTPase OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=YPT1 PE=4 SV=1
+----MNNEYDYLFKLLLIGDSGVGKSCLLLRFADDTYTPDY---------ISTIGVDFK-
+-----------IRTI--------ELDG--------------KTIKLQIWDTA--------
+---GQE-RF--RTITSSYYRGAHGIII---------------------------------
+------------------------------------------------------------
+---------------------VYDV-----------------------TDQESFNNV---
+--------KQWLQEIDRYAT----------------------------------------
+------------------------------------------GGVMKLLVGNK-------
+------ADLSDKKIVE----------YTAAKEFADA-LDIPFLETSALSSTNV-------
+EQAFYTM---ARQIKA-QMTNNANAGNAANAKGKSNVNLRGESLTSNQSNSCC--
+>tr|C4LTL7|C4LTL7_ENTHI Rho family GTPase OS=Entamoeba histolytica OX=5759 GN=CL6EHI_012240 PE=4 SV=1
+MSAAPTDAKSV--KLVVVGDGAVGKTCLLICYTTNEFPKDY---------VPTV-FDNY-
+-----------MAPM--------TVDG--------------EPINLGLWDTA--------
+---GQE-DY--EQLRPLSYPNTDLFLL---------------------------------
+------------------------------------------------------------
+---------------------CFSV-----------------------ISRTSFNNI---
+-------SSKWLPEIKHYEP----------------------------------------
+-----------------------------------------KCKMM--VVGTKTDCRNDE
+AMIRKLADENQKPITT-----------EEGEKLAKDIKAICYMECSALTRSGL-------
+NQVFDEA---IHIV---------LNKNQSSKKSSKKCALL---------------
+>sp|Q09544|ATPD_CAEEL ATP synthase subunit delta, mitochondrial OS=Caenorhabditis elegans OX=6239 GN=F58F12.1 PE=1 SV=1
+--------------------------------------------------MLARTIQRF-
+SVVAKRGYAAAAPAANANPEE--------------------LRLTFASPDTA--------
+-VFSNA-VV--KQVDVPTLAGMVGVLA---------------------------------
+------------------------------------------------------------
+--------NHVPTIGVLKP-GVVSVT----------------------TNEGTVQRL---
+-----FVSSGTL-----SVN----------------------------------------
+-----------------------------------------------------------I
+DGSCQVLAEEVLKVEE----------IDE------S-AARA--ELDA-------------
+----------AQRASG---EGSEVARAEAQIRAEVAEALIKAA--TNQQ------
+>sp|P36416|ARD1_DICDI N-terminal acetyltransferase complex ARD1 subunit homolog OS=Dictyostelium discoideum OX=44689 GN=natA PE=2 SV=1
+---------MVSIRPCQIGDLMSMQNANLTCLPENYQMKYYLYHFLTWPQTSFVAEDDKG
+NVVG-----YVLAKIDENE----PKRG-HI-----------TSLAVLRSQRKLGI-----
+---ATK-LM--KQAEVALLEVYDADCV---------------------------------
+------------------------------------------------------------
+---------------------SLHV-------------------------RKSNRAAFSL
+YH---EVLKFKIDEIEKEYY----------------------------------------
+--------------------------------------------------GDKEDA---Y
+SMVLYLKPEVEEEKER------EKQ-LEKINKAAKE-------SIEAAKRANE------E
+PKPVSNV---IHGKK---KNVKKIE------------------------------
+>tr|A2E011|A2E011_TRIVA SNF7 family protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_478950 PE=3 SV=1
+---------------MGCGGSKEGEQS-----QAQKQEEEY------DKAVLSLKVNRD-
+RL---KKYQSRLEADNEKQLE--------------------IAKKLAKEGKM--------
+-DRAKL-VMRAKKAREAMIAKTDGMLS---------------------------------
+------------------------------------------------------------
+--------NLQEQLNNLET-ARIT--------------------------KEFAQNL---
+-----EMTNSVLKTMNEQLT----------------------------------------
+-----------------------------------------------------------V
+EMVEQLMEENQEQTEK----------VNEVTELLGQ-SMTP--DLDAEAEEEY-------
+ERMLAEMEGGAEEETG-EQEPEQEEQEEEKPKREKVAALA---------------
+>tr|A8BU75|A8BU75_GIAIC Ribosomal protein L13a OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_11247 PE=3 SV=1
+--------------------------------------------------MSRIVIDCKG
+HILG------RLSAIVAKE----LLHG--------------HEVALVRCEKAI-------
+---ISG-AF--RDVKAHYLKKMHKRTN---------------------------------
+------------------------------------------------------------
+---------------------FNHLR------------GPFHFRAPAEIVRRTIRGMIPY
+KT---VRGSDAMSRLRVYDGIPPCCARYKRVVCPSAMAYLCLRPE---------------
+-------------------------------------RRRCEVGRVAHEIGWQ------H
+A-----ADVERYEKRR----------LEECDKWYQD-------------KIQI-------
+DKKIAEA---AEKD----AELQRINAELAKYGY----------------------
+>sp|Q8SQI1|3MG_ENCCU Probable DNA-3-methyladenine glycosylase OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=ECU05_1590 PE=1 SV=1
+---------------------------------------------------MDMGIPCS-
+-----QLARRLLGKMLCRRIEGRTTKG----------MIVETEAYLGKEDKACHSYGGRR
+TERNSA-MY--MKAGTCYVYRIYGRYE---------------------------------
+------------------------------------------------------------
+---------------------CFNI---------------SSVEAGAGVLVRALEPLCG-
+-----------VSEMRERRG----------------------------------------
+------------------------------------------GRVKDRDIANG------P
+SKLCIAMGITRREIDKEWIAGSEKIWLEEGREVADP-------EIVAGRRIGIRNCGEWE
+EKKLRFY---IRDNEF-VSCIRRRELGNRKHGSVQQLP-----------------
+>tr|G7PGD3|G7PGD3_MACFA Transcription factor MafB (Fragment) OS=Macaca fascicularis OX=9541 GN=EGM_02085 PE=4 SV=1
+-------------------------------------------------MAAELSM----
+---GPELPTSPLAMEYVNDFDLLKFDV--------------KKEPLGRAERP--------
+---GRP-CT--RLQPAGSVSSTPLSTP---------------------------------
+------------------------------------------------------------
+---------------------CSSV-------------PSSPSFSPT-EQKTHLEDLYWM
+ASNYQQMNPEALNLTPEDAV--------EALIGSHPV------PQXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXIRLKQKRRTLKNR-----GY
+AQSCRYKRVQQ------------KHHLENEKTQLIQ-------QVEQL------------
+KQEVSRL---ARERDAYKVKCEKLANSGFREAGSTSD------------------
+>sp|P40212|RL13B_YEAST 60S ribosomal protein L13-B OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=RPL13B PE=1 SV=1
+----MAISKNL-------------------PILKNHFRKHW---------QERVKVHFD-
+-QAGKKVSRRNARAARAAKIAPRPLDL-------LRPVVRAPTVKYNRKVRA--------
+---GRGFTL--AEVKAAGLTAAYARTI---------------------------------
+------------------------------------------------------------
+---------------------GIAV-----------------------DHRRQNRNQ---
+-----EIFDANVQRLKEYQS--------KIIVFP--------------------------
+--------------------------------------RDGKAPEAEQVLSAA-------
+ATFPIAQPATDVEARA----------VQDNGESAFR----------TLRLARS-------
+EKKFRGI---REKR-----AREKAEAEAEKKK-----------------------
+>tr|Q7S1T2|Q7S1T2_NEUCR F-box domain-containing protein OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=NCU07746 PE=4 SV=1
+----MAEDLDTYTHLPLTIDPQSKSISL----APSSGLSSS---------VQTRALETE-
+-----------LAALNALHRSLHSLDAPHLVPPPPIPVNPKRSAQVSKLRDS--------
+---GNA-EY--KK--HKYSEAAKFYTL---------------------------------
+------------------------------------------------------------
+---------------------GIQMA------------LARPLWEPSQLVREEVHSLFSN
+R----AQAHMWMQEWPEAAVD---------------------------------------
+----------------------------------------AEASVEAKRVGNA------K
+AWFR--RGKSLLEMGR----------LEEAREWVGR----------ALEVEGE-------
+EKELAEL---GREI------EKRLEAKNAGAGAE---------------------

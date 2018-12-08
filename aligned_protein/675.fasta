@@ -1,0 +1,72 @@
+>tr|K4CIM7|K4CIM7_SOLLC Autophagy-related protein OS=Solanum lycopersicum OX=4081 GN=101265259 PE=3 SV=1
+-----------MAKSLFKQEHDLEKRRAEASRIR--------------------------
+------------------------------------------------------------
+---------------------------------------EKYTDRIPVIVEK-AERSDIP
+NIDKKKYLVPADLTVGQFVYV-IRKRI---------------KLSAEKAIFIFVD-NVLP
+PTGAIMSSIYDEKKDEDGFLYVTYSGENTFGEP-----------------
+>tr|D3BH99|D3BH99_POLPP Autophagy-related protein OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=atg8 PE=3 SV=1
+----------MTHSSGFKNDHPFEKRKEVAERIR--------------------------
+------------------------------------------------------------
+---------------------------------------SKYQDRIPVIVEK-APRSDAP
+DIDKKKYLVPADITVGKFVYE-IRKHM--------------PKINAEKAIYLFVN-NTLP
+PTAAFISQIYERYKDEDGFLYITYSGENTFGQ------------------
+>sp|P0C075|ATG8_CANAL Autophagy-related protein 8 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=ATG8 PE=2 SV=1
+------------MRSQFKDEHPFEKRQAEAARIA--------------------------
+------------------------------------------------------------
+---------------------------------------QRFKDRVPVICEK-VENSDIP
+EIDKRKYLVPVDLTVGQFVYV-IRKRI---------------KLPSEKAIFIFVN-DILP
+PTAALISTIYEEHKDEDGFLYVLYSGENTFGEKLAIDISSLDFSDIPDYV
+>tr|C4LXE4|C4LXE4_ENTHI Autophagy-related protein OS=Entamoeba histolytica OX=5759 GN=CL6EHI_130660 PE=2 SV=1
+--------MESQPKLPFKQRVSFEERKAFAIQLR--------------------------
+------------------------------------------------------------
+---------------------------------------QKKPNYVPLVVES-DGTSNAI
+ELKKDRFFIPEDSKVSDFVKVLVDKYIETDGETPI-STVSVKIQTPSKAI--------QP
+SNEDTIGSLYAMYQEEDGYLYFIVYRESVFGN------------------
+>sp|Q23536|LGG2_CAEEL Protein lgg-2 OS=Caenorhabditis elegans OX=6239 GN=lgg-2 PE=1 SV=1
+MSGNRGGSYISGIVPSFKERRPFHERQKDVEEIR--------------------------
+------------------------------------------------------------
+---------------------------------------SQQPNKVPVIIERFDGERSLP
+LMDRCKFLVPEHITVAELMSI-VRRRL---------------QLHPQQAFFLLVNERSMV
+SNSMSMSNLYSQERDPDGFVYMVYTSQPAFG-------------------
+>sp|Q54G11|ATG8L_DICDI Autophagy-related protein 8-like protein DDB_G0290491 OS=Dictyostelium discoideum OX=44689 GN=DDB_G0290491 PE=3 SV=1
+---------MALLSKSFKQEYSLEKRKLISSKIR--------------------------
+------------------------------------------------------------
+---------------------------------------NRYKDRLPIIVER-AANSDVP
+DINKKKFLAPSNMVITNFIME-IRKHLD------------DSDHNEQKAIFLFVNKNNLP
+PSSQLLSSIYDAHKDEDGFLYICYSGENTFGS----DI------------
+>tr|A2EEF5|A2EEF5_TRIVA Autophagy-related protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_486080 PE=3 SV=1
+-------MFSSKNESRYKREKSFADRCQESAGII--------------------------
+------------------------------------------------------------
+---------------------------------------RKFKSHVPVIVDK-DPKCTLP
+DIERQKFLVPSELSIGQFIYV-VRKRI---------------NLQSAEAIFLFVN-KKLP
+PPNSTMGALYEENRDEDGFMYCLYSSDNSFGS----N-------------
+>tr|A8BBA5|A8BBA5_GIAIC Bet5-like protein OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_95269 PE=4 SV=1
+MPPLQ--FYVYRRSGALLYFRAFEHADDAPMDML--------------------------
+------------------------------------------------------AGLLFA
+LRRSSVALTPGEDARLEFFKTDTYTCHIYETASGYWFVFLTRPESKPLSDEL-------Q
+AIYRDIF-VPT-----------VVKNLEW-----IPATSFQNNEAFTHALDLVV--KNMP
+D-------------------------------------------------
+>tr|I7IV35|I7IV35_ENCCU ECU03_0377 protein OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=ECU03_0377 PE=4 SV=1
+--------MDHASKPGSKAVKEYE---------R--------------------------
+------------------------------------------------------------
+---------------------------------------LPIIKKVPIVIYY--------
+CIEKSISRIPEK----------ARKMI----------SKGSSLLSVGHIVFC----TAVP
+------------------FVYIYRRDKSIVGD----SILSAE--------
+>tr|G7PPG6|G7PPG6_MACFA Hepatitis delta antigen-interacting protein A OS=Macaca fascicularis OX=9541 GN=EGM_05412 PE=4 SV=1
+----------------------MEAKAGGPEEVTDEEXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXPRGGPGGAGGSGA
+GPAPELALPPCGPRDLGDGSSSTGS--------------VGSPDQLPL------------
+------------------------------------ACS--------------------P
+DD------------------------------------------------
+>sp|P38182|ATG8_YEAST Autophagy-related protein 8 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=ATG8 PE=1 SV=1
+------------MKSTFKSEYPFEKRKAESERIA--------------------------
+------------------------------------------------------------
+---------------------------------------DRFKNRIPVICEK-AEKSDIP
+EIDKRKYLVPADLTVGQFVYV-IRKRI---------------MLPPEKAIFIFVN-DTLP
+PTAALMSAIYQEHKDKDGFLYVTYSGENTFGR------------------
+>sp|Q8WZY7|ATG8_NEUCR Autophagy-related protein 8 OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=apg-6 PE=3 SV=1
+------------MRSKFKDEHPFEKRKAEAERIR--------------------------
+------------------------------------------------------------
+---------------------------------------QKYSDRIPVICEK-VEKSDIA
+TIDKKKYLVPADLTVGQFVYV-IRKRI---------------KLSPEKAIFIFVD-EVLP
+PTAALMSSIYEEHKDEDGFLYITYSGENTFGD----------FETA----

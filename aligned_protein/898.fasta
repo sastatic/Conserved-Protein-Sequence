@@ -1,0 +1,84 @@
+>sp|P14277|CB2F_SOLLC Chlorophyll a-b binding protein 3B, chloroplastic (Fragments) OS=Solanum lycopersicum OX=4081 GN=CAB3B PE=3 SV=1
+-------------MAASTMAL------------------------SSSTFAGKAVKLSPS
+SSEISGNGRITMR-------KTAAKPKPASSGSPWXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXSLVHAQSILAIWACQVVLMGAVEGYRIAGGPL----GEVVDPLYP
+GGSFDPLGLAEDPEAFAELKVKEIKNGRLAMFSMFG---------FFV----------QA
+IVTGKGP---------LENLADHIAD---PVNNNAWA--FATNFVPGK----
+>tr|D3BRG2|D3BRG2_POLPP Peptidyl-prolyl cis-trans isomerase OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=ppiD PE=3 SV=1
+--------------------------------MAGK---------RSKVFFDMIQ-----
+--GDKSLGRIVFELFNDITPKTSENFRALTTGE---------------------------
+------------------------------------------------------------
+-KGIGKMGKQLHYKGSRIHR---------------VCKSFVIQGGDFTHGIGVGGESIY-
+GTKF-------DDENF------NVKHDV-GVLSMANAGKNTNGSQFFITTVNTPFLDKKH
+VVFGKVI-SGMDVVYEIEKTPTKQNDQ--PVTPVIIK-------DCGQLE--
+>sp|P22011|PPIA_CANAL Peptidyl-prolyl cis-trans isomerase OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=CYP1 PE=3 SV=1
+---------------------------------------------MSTVYFDVSA-----
+--DGQKLGKITFKLYDDVVPKTAENFRALCTGE---------------------------
+------------------------------------------------------------
+-KGFG-------YKGSIFHR---------------VIPQFMLQGGDFTNFNGTGGKSIY-
+GTKF-------ADENF------VKRHDRPGLLSMANAGPNTNGSQFFITTVPCPWLDGKH
+VVFGEVT-DGLDIVKKIESFGSG-SGA--TSKKIVIE-------ESGQL---
+>tr|C4M942|C4M942_ENTHI Peptidyl-prolyl cis-trans isomerase OS=Entamoeba histolytica OX=5759 GN=CL6EHI_083580 PE=3 SV=1
+------MRFLFL---LCVLTV------FAENERGPQPPPKVQPKITNKVFLDIRI-----
+--GYEKVGRIVIGLYGEIVPKTVENFRALCTGE---------------------------
+------------------------------------------------------------
+-KGIGKYGMPLHYKGTKFHR---------------VIPGFIIQGGDIVSANGLGGESIY-
+GDMF-------DDENF------VLNHTKKGLVSMANYGENTNNSQFFIEMIPTYWLDGRH
+VVFGEVI-EGMDVCEKVMNQGNR-SGE--TTKPVIIE-------DSGEL---
+>sp|P52009|CYP1_CAEEL Peptidyl-prolyl cis-trans isomerase 1 OS=Caenorhabditis elegans OX=6239 GN=cyn-1 PE=2 SV=1
+------MKFLLRASSLAGQSL------RFASQ-------------RPKVFFDVSI-----
+--GEEPAGRVTMELFNDVVPKTAENFRALCTGE---------------------------
+------------------------------------------------------------
+-KGVGEQGVALHFKGSKFHR---------------IIPEFMIQGGDFTRHNGTGGESIY-
+GNKF-------KDENF------DLKHTGPGCLSMANAGPNTNGSQFFICTVDTPWLDGGH
+VVFGQVT-DGMSVVKKIEKMGSR-SGA--PAKTVTIA-------DCGELKSE
+>sp|Q9TW32|PPIB_DICDI Peptidyl-prolyl cis-trans isomerase B OS=Dictyostelium discoideum OX=44689 GN=cypB PE=1 SV=1
+------MKVIFVVLAIVLVTL------WAMPSEAGK-----DPKITNKVFFDIEI-----
+--DNKPAGRIVFGLYGKTVPKTVENFRALCTGE---------------------------
+------------------------------------------------------------
+-KGLGTSGKPLHYKDSKFHR---------------IIPNFMIQGGDFTRGDGTGGESIY-
+GKKF-------NDENF------KIKHSKPGLLSMANAGPNTNGSQFFITTVVTSWLDGRH
+TVFGEVI-EGMDIVKLLESIGSQ-SGT--PSKIAKIS-------NSGEL---
+>tr|A2FTU8|A2FTU8_TRIVA Peptidyl-prolyl cis-trans isomerase OS=Trichomonas vaginalis OX=5722 GN=TVAG_277390 PE=3 SV=1
+------MDILIFSFSTCTKSKDKFLQNFAENRFHSNMIK------RPHCFFDVNI-----
+--DNKSVGRIIFELFSDIVPKTSENFRCLCTGE---------------------------
+------------------------------------------------------------
+-KGKGKNGMPLHYKGTQFHR---------------IIPNFMIQGGDIINFNGTGGESIY-
+GYTF-------PDENF------YVKHDNPYILSMANAGQNTNSSQFFITTVKTPQLDGEH
+VAFGRVV-NGFDVVEKIQECRSD-DGK--PKFVCEVA-------DCGQFD--
+>tr|A8BJP8|A8BJP8_GIAIC Peptidyl-prolyl cis-trans isomerase OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_17000 PE=3 SV=1
+-------MLLFFVCLLVVLAK-------------------KSPEITDHVIFEVRQ-----
+--GSATLGNITLGLFGKVAPKTVTNFVEISKGS---------------------------
+------------------------------------------------------------
+-HGYS-------YEGSKFHR---------------VIANFMIQGGDFERGDGRGGYSIY-
+GSEF-------DDENF------QLEHRI-GSLSMANRGRNTNGSQFFICTVVTPWLNGKH
+VVFGHVV-DGMTVVKTIENVKKDPQDR--PLEDVVISAVYVTKPDPYTLDSW
+>tr|Q8SQZ8|Q8SQZ8_ENCCU Peptidyl-prolyl cis-trans isomerase OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=ECU10_1760 PE=3 SV=1
+MKGHNTLILLLFGEVLKALAM------------------------HGTPYLDVEYNV---
+-GGEKRSGRITFELYWDITPKTARNFYEFVKGT---------------------------
+------------------------------------------------------------
+--EIG--GKYYKYENGLFHR---------------IIPGFMMQGGDVVMGNGSGSISIYN
+AEPF-------SDENF------EIAHDSIGKLSMANRGPHTNGSQFFITFDKQHHLDGKH
+VVFGNVSGECLSLIRDIQKIDID-RDR--PVHPVRIVRSGIV--EEGEEKYL
+>tr|G8F480|G8F480_MACFA Peptidyl-prolyl cis-trans isomerase OS=Macaca fascicularis OX=9541 GN=PPIH PE=3 SV=1
+------------------MA--------VANSSP----------VNPVVFFDVSI-----
+--GGQEVGRMKIELFADVVPKTAENFRQFCTGEF--------------------------
+------------------------------------------------------------
+RKD-G---VPIGYKGSTFHR---------------VIKDFMIQGGDFVNGDGTGVASIY-
+RGPF-------ADENF------KLRHSAPGLLSMANSGPSTNGCQFFITCSKCDWLDGKH
+VVFGKII-DGLLVMRKIENVPTGPNNK--PKLPVVIS-------QCGEM---
+>sp|P25719|CYPC_YEAST Peptidyl-prolyl cis-trans isomerase C, mitochondrial OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=CPR3 PE=1 SV=1
+----------MFKRSIIQQSR------LFSNSAS---------RLGKKVFFDPAV-----
+--NGTKIGRIEFELYDNVVPKTAENFRALCTGE---------------------------
+------------------------------------------------------------
+-KGWG-------YKGVPFHR---------------IIPDFMIQGGDTDLTNGFGGKSIY-
+GSKF-------ADENF------VKKHDKAGLLSMANAGPNTNGSQFFITTVPCPWLDGKH
+VVFGEVT-KGMDIVKAIESYGTA-SGK--PRAEIVIE-------EAGEL---
+>sp|Q7SG06|PPIH_NEUCR Peptidyl-prolyl cis-trans isomerase H OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=cyp-3 PE=3 SV=1
+------------------MAP------TVLPASG-----------NPLVFFDITL-----
+--GGEPLGRITFELFKDVVPRTAENFRQFCTGES--------------------------
+------------------------------------------------------------
+KNNLG---RPQGYKGSKFHR---------------IIPNFMCQGGDFLNGDGTGSTCIYG
+TKSF-------ADENF------LLKHDTPGLLSMANAGPNTNGSQFFITTVPTPFLDGKH
+VVFGKVV-DGMDVVKKMENTKTGYRGKDVPNLDVVIA-------QCGEM---

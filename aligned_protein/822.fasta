@@ -1,0 +1,132 @@
+>tr|K4CPI9|K4CPI9_SOLLC Glucose-6-phosphate 1-epimerase OS=Solanum lycopersicum OX=4081 GN=101265664 PE=3 SV=1
+--------------------------MDHSAADKDYKA---VEFAKDKNGVGQVLLRSLR
+GASVRVSL-----------HGGQVLSWKTDHGEEL---LFISSKATFKPP-TAVRGG---
+----------IQICFPQFGNRG-------SLEQHGFARNKMWVIDDNPPPLHPNDSNGK-
+------------------------TYIDLLLKS---SDDDLKIWP-------------HG
+FEFRLRVALAFDGSLTLTSRIRNV-NCKP------FSFSIAYHTYFSVSDISEV------
+-----------------------------------------------------------R
+VEGLET----------------------LDYLDNLCNRE-RFTEQGDALTFESEVDRVYL
+SSSDV---------IAVFDHEKKRTFLI--KKEGLPDVVVWNPWEKKSKVIADLGDEE-Y
+KHMLCVDGAAIEKPIALKP--------------------GEEWTGRL----------ELS
+VTPTS-------------------------------------
+>tr|D3BA93|D3BA93_POLPP Glucose-6-phosphate 1-epimerase OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=PPL_05468 PE=3 SV=1
+--------------------------MSLEQLQKEWNRDG-VTVCEDKN-LIQVRLET-P
+TSSCSIYL-----------NGAHVSSFIVN-GVQQ---FFLSEKSAYEPK-KAIRGG---
+----------IPLIYPQFGP-G-------NIQTHGFARNMQWSI-KST----FSEGNGT-
+------------------------IGIKFELKD---DDYSRNIWP-------------NS
+FRALYSVILHPA-HLELRFSNKNT-DIKP------WNYQLAFHTYYSISNIQNV------
+-----------------------------------------------------------H
+VEGLSQ----------------------YEFIDKMKKAQ-KFTESRQNVTIQEEVDRVYV
+SIKPD-------TPIVLVDQSNQHKIIL--KSENLNDAVVWNPWVDKSKAMADFGDLE-Y
+PNMICIEAGQIEKPKLLSP--------------------GEKQCHK------------HF
+IFPSSKQSPSL-------------------------------
+>tr|Q5A1Q0|Q5A1Q0_CANAL Glucose-6-phosphate 1-epimerase OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=orf19.1946 PE=3 SV=1
+--------------------------MPVEELEDR------VIITDPND----------S
+TNRATILK-----------FGATVVSWKNNN-QEK---LWLSEGAHLDGS-KAVRGG---
+----------IPLVFPVFGKQKDSNHPTFKLPQHGFARNSTWEFLGQ-----TQESPIT-
+--------------------------VQFGLGPENVDPETLKLWN-------------YD
+FTLILTVSLTKD-KLVTSIDVENT-GKEA------FEFNWLFHTYYRIHDITDT------
+-----------------------------------------------------------L
+VTNLIDQQCYDQ-------------LIGESYIEK--APV---------ISFHEEFDRIYS
+KVSLEKS-------IQVVDKG-QVLFNL--HRKNLPDSVVWNPWTKKAEGMADFQPKSGF
+HQMVCVEPGHVNSMVSLPA--------------------GGKWSGG------------QE
+ITIGGEIKVQANIY----------------------------
+>tr|B1N2U9|B1N2U9_ENTHI RhoGAP domain containing protein OS=Entamoeba histolytica OX=5759 GN=EHI_159720 PE=4 SV=1
+-------------------------------MTEKCNVPS-INVVNNST-----------
+--------------QRKLPHCQYVGVYKRRKFEEKK---------------ISIITNK--
+----------LKRRVLVIGTKEI------DLET---------------------------
+------------------------SILTLDLNDNHIEEED--------------------
+-------------ALLCFRIISNK--------IYILKFDNCEDYVYWMEQIAEL------
+----------------------------------------------------------AT
+VRGMYG-IPLKHAIKKSQWRVPLPIFRAMQYLEEHKGDE---------------------
+-----------YVGIFRMSGGTVEMKKIR----------------TQVDGEKDIDPMD-F
+CDCV-LAAAVIKDYLRLLPNPLIPYNLYEEFIELRNNHRGHQFVINLPLENQNTLWYIFS
+FLRRXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXK---
+>tr|O61518|O61518_CAEEL LYSozyme OS=Caenorhabditis elegans OX=6239 GN=lys-10 PE=4 SV=1
+-----MKLLIVL--------L--------------------ILVTTINA--AKNGIDFIQ
+PVSVETFKC-------IHKDGYSFV-----------------------------------
+----------IPRVFTSVGTLD---HT--GIQNVKHAREGNKSFKNT-------------
+----FVNG----------------RKISAGL-----TDVDGYIFPCLAS---------HC
+PSAANQVKETLD-ALKSAGTHVST-------------------LWLDIERLA--------
+------------------------------------------------------------
+-------WPANH-------------AHNRAFIEEMVKEA--------------EARKQHV
+GIYSNYY---NWQDIVGLDYHGQSHLML---------------WWATYDGIKDFSKF---
+-----VAFGGWKKPTI------------------------HQWHGTTK--GPCGVSVDLN
+YVP---------------------------------------
+>tr|Q54ZC6|Q54ZC6_DICDI Glucose-6-phosphate 1-epimerase OS=Dictyostelium discoideum OX=44689 GN=DDB0218007 PE=3 SV=1
+-------------------------MYTLEQLQSLWNKGKYIQVLKGNNDLSKLVLKT-S
+TSSCEIYI-----------HGAHITSFKTN-SVEH---LFMSEKSGFQDM-KAIRGG---
+----------VPLIWPQFGN-G-------KIQTHGFARNCDWEIHKAL----VDEKTQS-
+------------------------VQIEFLLRN---NEYSEKVWNCNITSGKE---TINN
+FHTIYRVTLHPD-FLDLEFDVKNT-STSPSSNDNILEFQLAFHTYYQISNIENV------
+-----------------------------------------------------------Y
+VLGLDG----------------------REYIDKMNGHK-ITKEVNDKVQISNETDRVYL
+NVVPTQSIGKNYQPLQLIDNGSKTSITLTYDYQSMPDVVVWNPWIEKSKKMEDFGDNE-Y
+QNMICIEIGTINTPVKLSP--------------------NQSFQTK------------HS
+ILPSNKSSL---------------------------------
+>tr|A2DA38|A2DA38_TRIVA Golgi apparatus membrane protein TVP23 homolog OS=Trichomonas vaginalis OX=5722 GN=TVAG_476150 PE=3 SV=1
+----------------------------MENDNEKKDL---ILEANKKSPA--------E
+ESSSRVLFMH-----ISLNLAAPII------------LLFLTFIPAFVRDLLALISL---
+----------IPAI---------------YFTHHTFS----WELVGIKCII-DKNQQPS-
+-FPHFV--------------------------------YSSRSLP---------------
+----FVATLANSNAFWLTLFISNV------SFLFALVKSLISYEYFRILVL---------
+------------------------------------------------------------
+----------------------------------------LAMEAANALSLQ--------
+--------------LLIICHG-------------------------RTKTESD-------
+---------AVARNLLLDP--------------------HVEF---------------QS
+VVXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXRWKACS
+>tr|A8BEX3|A8BEX3_GIAIC Microsomal signal peptidase 18 kDa subunit OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_9174 PE=4 SV=1
+------------------------------------------MLSKTLQ----------R
+VRSLSVFDVLYYILKFVLSICTAYMHWNLLK-------LFLNND----------------
+----------MPGIVVLTGSMVP-----------GFMRGDISAIKSTN------------
+------------------------HNLGIEVGDIVGYSLMHRAIP------------ISH
+RVTERRVIIDNDFPCDVNSTVVDA-------------TGVVLH-----------------
+------------------------------------------------------------
+--------------------------HGPSSIAKAANPP----------ALPSPCRR---
+--------------LAFITKG---------DANKVKDTFLY------TTGRVYLEPYELV
+GKML-INLPGLGYMTILLQ--------------------EHKWAKVL----LFGMIILMA
+ISGREE------------------------------------
+>sp|Q8SWI4|SWP3_ENCCU Spore wall protein 3 OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=SWP3 PE=1 SV=1
+MVRRSLYFLAVMGVVRSSSGL-YIPSVVLQELGIASSQGC-LMIAETNN--GNFGIVS-S
+GLENPVYIT-------ESPQGHREVSWQPVRGEDRAVPIYAPSAEEVRESISSVRGSEPG
+QYIAPQPTGFVPASTPVFGTIE-------SASTAGAAVPVEGVFVAS-----TENPAST-
+------------------------------------GSSSTSTCP---------------
+-------------PKGTAGTTDNK-GKAG-------------------------------
+------------------------------------------------------------
+---------------------------GAAADDKSKSSSSSSSK----------------
+---------------------------------------------KKKKGAKSL------
+-----VALGAVATTAL------------------------------------------FS
+IVM---------------------------------------
+>tr|G7P7Y1|G7P7Y1_MACFA COUP transcription factor 1 (Fragment) OS=Macaca fascicularis OX=9541 GN=EGM_15232 PE=3 SV=1
+------------------------------------------------------------
+----------------------------------------------------AVQRGR--
+----------MPPTQPNPGQ---------YALTNGDPLNGHCYLSGYISLLLRAEPYPT-
+------------------------------------SRYGSQCMQPNNIMGIENICELAA
+RLLFSAVEWARNIPFFPDLQITDQ-------------VSLLRLTWSELFVLNAAXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXD
+ACGLSD----------------------AAHIESLQEKS--------QCALEEYVRSQYP
+NQPSRFG---------------KLLLRLP-SLRTVSSSVIEQLFFVRLVGKTPIETL--I
+RDML-----------------------------LS----GSSFNWPY-----------MS
+IQCS--------------------------------------
+>sp|Q03161|YMY9_YEAST Glucose-6-phosphate 1-epimerase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YMR099C PE=1 SV=1
+--------------------------MPIKETDKE------VVLTHPAD----------E
+TTSVHILK-----------YGATVYSWKLKS-EEQ---LWLSTAAKLDGS-KPVRGG---
+----------IPLVFPVFGKNSTDEHLS-KLPQHGLARNSTWEFLGQ-----TKENPPT-
+--------------------------VQFGLKPEIANPELTKLWP-------------MD
+YLLILTVELGSD-YLKTAIEVENTSSSKE------LKFNWLFHTYFRIEDIEGT------
+-----------------------------------------------------------M
+VSNLAGMKLYDQ-------------LLKESYVDK--HPV---------VTFNQETDVIYQ
+NVSAERA-------IQIVDKG-VQIHTL--KRYNLPDTVVWNPWIEKSQGMADFEPKTGY
+QQMICIEPGHVHDFISLAP--------------------GKKWNAY------------Q-
+LLCKEELKYQAIQ-----------------------------
+>tr|V5IRA9|V5IRA9_NEUCR Glucose-6-phosphate 1-epimerase OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=NCU02786 PE=3 SV=1
+MVDRGRKPSALA----STPGLPPQPQVAFSSDNSR------VTATLPTG----------E
+--SVSVLL-----------YGATVVSWKDKNGHEK---LWLSEAAKLDGS-KPVRGG---
+----------IPLVFPVFGTAPDHAQTK-DLPQHGFARSSRWEFLGKS----TSESTPTP
+TTPAFAATATSAAGAVAAAAADLSVKLDFGLSSSGLSEDARAKWP-------------YA
+FNAIYSVTLNTD-SLTTNLVITND-DERS------WECQMLMHTYLRVNDITSV------
+-----------------------------------------------------------S
+IHGLEN----------------------ASYVDKTTSPISTSTQTTSALTISSETDRVYT
+PAGDDPAS----IPITVFEGD-QPKYTV--LRDNLANVVVWNPWIEKAQGMADFEPKDGY
+KNMLCVEPGAVATWQVLEP--------------------GDAFEGA------------QT
+IVLGGKTQN---------------------------------

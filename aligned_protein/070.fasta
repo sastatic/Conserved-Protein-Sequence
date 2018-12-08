@@ -1,0 +1,84 @@
+>tr|K4CUM0|K4CUM0_SOLLC U6 snRNA-associated Sm-like protein LSm4 OS=Solanum lycopersicum OX=4081 GN=LSM4 PE=3 SV=1
+MLPLSLL--KTAQGHPMLVELKN-------------------------------------
+--------------------------------------------------GHLVN-----
+CDTWI-----------FVKLS-DGDRFW-----RMPECYIRGNTIKYLR-----VPDE--
+----VID----------KVQEETKSRGDRKPPGVGGRGRGRGGSRDEGAAGRQAKGIGRG
+MEDAGAKGRGKGGPGAKSGGKG--------------------GG-------RGRG-----
+----------------
+>tr|D3B642|D3B642_POLPP Profilin OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=proB PE=3 SV=1
+---------MSWQQYVDTNLI---------GSKNL-------------------------
+-----------------------------------------ARAAIIGHDGNNWASSTPK
+LV-------------------------------SQTDGKALSDLFK--------KPN---
+------EALEK--GIMLDGIKYMGIKANERSIYGKKGSTGLVCV--------------KT
+LKSI-LVGYYN---ETQQPGNAT----NTIEKLADYLIEN--GF----------------
+----------------
+>sp|Q5A4X8|PGA14_CANAL Hydrophilin PGA14 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=PGA14 PE=1 SV=1
+MKFTTVATVFAISSLAAAKG----------GEKDH-------------------------
+-------------GKASTVTKYVTETTHRYGRFDKTSRSKKPKETGTHRYGKFNKTPRPV
+---------------------------------TTTVLVKESD-----------LPKK--
+-----RDAVVA---------RDSKNASSNSTTSSGNNGVATGVS--------------LG
+LAGVLAVG-------------------------AALVI----------------------
+----------------
+>tr|C4LT84|C4LT84_ENTHI DNA-directed RNA polymerase subunit OS=Entamoeba histolytica OX=5759 GN=CL6EHI_044620 PE=3 SV=1
+---------MS-------------------NWKEVI------------------------
+--------------------------------------------------GTIPSSFCPR
+CGTYLILSDSGDIVCDVCHFVISADQFKYNPIETTSSIFEMSNKKRIDSKIKEILPTGA-
+---IVYEKCPNCGN------ETMHYHSAQVRSVDEGQTVYYECP----------------
+-----NCGH-------QETVNT--------------------------------------
+----------------
+>sp|Q10661|DPY30_CAEEL Dosage compensation protein dpy-30 OS=Caenorhabditis elegans OX=6239 GN=dpy-30 PE=1 SV=1
+---------MADQTASAEVA----------TEK---------------------------
+--------------------------------------MDTAEAPAAAP---AASAAAPA
+EAE---------------------------SNENTTV------------------PS---
+------NVLSANGG------QQTGNQSAPRNTSTVPTRQYLDSTV-----------VPIL
+LQGLGALAK-------DRPENP-------IEFLANFLL-------------REKDR----
+--YNAENQNPAGQQ--
+>tr|Q54YX5|Q54YX5_DICDI Small nuclear ribonucleoprotein Sm D1 OS=Dictyostelium discoideum OX=44689 GN=DDB0204374 PE=3 SV=1
+MKLVRFL--MKLHNETVTIELKN-------------------------------------
+--------------------------------------------------GTIVQGSVAG
+VDVSM------NTHLKTVKLTLKGKNPV-----NLDTLSIRGNNIRYFI-----LPESLN
+LGTLLVDDTPK-----VKAKKTTSKPGESKPSMRGGRGGGRGGARG--------------
+--------------GSRGGSRG--------------------GS-------RGGRN----
+----------------
+>tr|A2D8K0|A2D8K0_TRIVA Double-stranded DNA-binding domain containing protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_185560 PE=4 SV=1
+---------MNSQQQQQKAQ----------EEKA--------------------------
+--------------------------------------------------KQMEEQRKAM
+LDKIL----------------------------STEAKERLGR-------ISLVKPEKSR
+---LVEDLCLQ-----MAQQNNLGAQISDAQ-------------------------LMEI
+LNKVSASEQTHEV-KIKHHGKADEAWDDDDE-----------GW----------------
+----------------
+>tr|A8BT57|A8BT57_GIAIC VSP OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_102178 PE=4 SV=1
+MLLVLLASCIAVQAAVCAPALIGAGCATCTGEND--------------------------
+---------------------------------GQTCLTCNPQENKVQPGGKKCGVGCPA
+---------------------------------NST-------------------PK---
+------ESVCECNG----GYRPNAQGQCEPSNTNKSSGLSTG-----------------A
+IAGI-AVA-------------------------AVIVVGGLVGFLCWWFICRGKA-----
+----------------
+>sp|Q8SQK1|LSM2_ENCCU Probable U6 snRNA-associated Sm-like protein LSm2 OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=LSM2 PE=3 SV=1
+MLFYEFF--RSSIGSRVSVMLKA-------------------------------------
+--------------------------------------------------GVYVSGRLGG
+IDPYL------NLSLLDVRILSSHPGLS-----SISVCSIRGSSIKYI------------
+----LVD-----------------------------------------------------
+-KDA----------KLLQGVNA--------------------GS-------RLRMILDKC
+Y---------------
+>tr|G7PPG6|G7PPG6_MACFA Hepatitis delta antigen-interacting protein A OS=Macaca fascicularis OX=9541 GN=EGM_05412 PE=4 SV=1
+---------MEAKAGGPEEV----------TDEEXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXPRGGPGGAGGSGAGPA
+-------------------------------------------------------PE---
+------LALPPCGP------RDLGDGSSSTGSVGSPDQLPLACS----------------
+------------------PDD---------------------------------------
+----------------
+>sp|P46984|GON7_YEAST EKC/KEOPS complex subunit GON7 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=GON7 PE=1 SV=1
+MKL---------------------------------------------------------
+-----------------------------------------PVAQYSAPDGV--------
+---------------------------------EKSFAPIRDDPRYMTTEGRTTGPS---
+------DHVLN------AGQIDRDKPSEPERTKDGSQLTYLGQLRTQ-LTGLQ-DDINEF
+LTGRMELAKN----KKKAGADE-----KRIQEEINQLLD---GG-------DGDEDAV--
+----------------
+>sp|P78713|VATG_NEUCR V-type proton ATPase subunit G OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=vma-10 PE=3 SV=1
+---------MSAQKS---------------------------------------------
+----------------------------------------------------------AG
+IQLLL------DAEREATKIVQKAREYR-----TKRVREARDEAKKEI------------
+---------EA-----YKAQKEAEFKKFEAEHTQGNQA---------------------A
+QEEANAEAEA----RIREIKEA--------------------GN-------KNREQVIKD
+LLHAVFTPSPEAMAAH

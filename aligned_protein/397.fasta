@@ -1,0 +1,132 @@
+>sp|P14275|CB2C_SOLLC Chlorophyll a-b binding protein 1C, chloroplastic (Fragments) OS=Solanum lycopersicum OX=4081 GN=CAB1C PE=3 SV=1
+--------MAAATMALSSPSFAG-------------------------------------
+----------------------QA-VKLS-------------------------------
+--PSASEI-----SGNGRITMR-------------------------------KAVAKS-
+-------------------------APS-------SSPWXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXSLVHAQSILAIWACQVVLMGAV----EGYRIAGGPLGEVVD
+PLYP-GGSFDPL----GLAEDPEAFAELKVKEIKNGRLAMFSMFGF-FVQAIVTGK----
+-------------------------GPLE----------------------------NLA
+DHLADPVNNNAWAFATNF-----------------------VPGK---------------
+----
+>tr|D3BQZ1|D3BQZ1_POLPP ER membrane protein complex subunit 3 OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=tmem111 PE=3 SV=1
+--------MIEETIVLDTSIRNW-------------------------------------
+-------------------------VVIPILFVLFIVSALKSNIAGLMS-----------
+--QTERKQ-NLQNVMEVQTLMR-ARRLAANYNRIPSFSFNMRKAYF---------TNKE-
+-SGLFALKENNA----P-------SNPMGALGNAFKDQSG--------------------
+------------------------------------------------------------
+-----------------MTDMLKGNIVNVV--PQIGLMTWVNHFFSGFVAVKIPF-----
+--FPLTIRFKTF------LQRGIELSSLDVSYVSSLSWYFLCWFGLEGINSLLLQERPI-
+L---NEQLLQSTVEQGLPPQQTPV--------HQLYTSERENIELIQHE--------SLM
+DNVEQRYLYKLQ-------------------NKSMPTKPTPTTSSSSSSSIDQQSVY---
+----
+>tr|A0A1D8PR41|A0A1D8PR41_CANAL ER membrane protein complex subunit 3 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=orf19.6462 PE=3 SV=1
+--------MITPDLLLDPQLKYW-------------------------------------
+-------------------------VLLPISVAMVLVGLLRSNITYLL------------
+--QPQPKLENYKNLRESQFLHR-ARCFRENNSVLSPEDFEIRKKYFIEKLNSTEFHAKS-
+-----PSENNDND---P-------LAAF-------NDPSSNE------------------
+------------------------------------------------------------
+----------------ALMQMAKGNLMNYI--PQTLIMGWVNYFFAGFVIMKLP------
+--FPLTDGFKSM------LQNGVMTPDLNVRYVSAISWYFVNLFGLKPIYSLLMGSSEA-
+-----EELMQQQAQQTQQQQMPNLSGPGAPKAEKVFKAEAENIQILSQE--------SVF
+NGIVDRFLERYSA-----------------------------------------------
+----
+>tr|C4LSX6|C4LSX6_ENTHI ER membrane protein complex subunit 3 OS=Entamoeba histolytica OX=5759 GN=CL6EHI_148060 PE=3 SV=1
+---MNFTLTYQNFITLSPEIRDW-------------------------------------
+-------------------------VLIPLLIVTVCSNYLRTYINNYL------------
+--GGDEKL-TPRAQQEATILQK-AQLFCERHFVLFSSTVKKLRTKFTDNDNGILMIQKA-
+-----PTEDG-----VP-------NMPQ-------MDPTS--------------------
+------------------------------------------------------------
+-----------------MLGGMKGNMVMMI--IQIVLMTWIGNMFDGFLVLKMP------
+--FPLSYRFKLI------TQQGLGGMDLDVSYVSSMSWYILIFAGGRYIIRLFDLNDDVM
+D---ISASMGMAMPTGKTNPMAAITG-----VVSSFNSAAESINMIDHDD------KCLM
+DTIEDDVMKDLGL----------------------------VTETKAQNKLKRD------
+----
+>tr|Q9U1X6|Q9U1X6_CAEEL ER membrane protein complex subunit 3 OS=Caenorhabditis elegans OX=6239 GN=emc-3 PE=1 SV=1
+----------MTDLLLDPAIRTW-------------------------------------
+-------------------------VFLPIVVITFFIGILRHYVSLLL------------
+--MNKKKV-ELENIADGQYLLR-ARLLRENGRFLPKTSFNARRQYLCA--EETGYLSKA-
+-----QQRPAKG----P--------NPM--------DPSQ--------------------
+------------------------------------------------------------
+-----------------MTEMLKGNMMNMI--PMIVVGGWINWTFSGFVTTRVP------
+--FPLTLKFKAM------LQRGVDLVSLDSAWVSSASWYFLCMFGLRSIYTLVLGSENAA
+D---QSKAMEDQMAMTGSAVNPQA------DPRAAFKGEWEALQMIQHQ--------FAL
+------------------------------------------------------------
+----
+>sp|Q54YN3|EMC3_DICDI ER membrane protein complex subunit 3 OS=Dictyostelium discoideum OX=44689 GN=emc3 PE=3 SV=1
+--------MTESPIVLDVEIRNW-------------------------------------
+-------------------------VVIPILIVLFIVSALKLNISRIMQI----------
+--NSGKPQ-DVEKTMQMQTINR-VRRLVSFYNRIPQKSFFIRKAYLCG--TTGSKTNKGI
+LSSIAPTQEDSN----P-------MNMMFA-NSMFTDPSG--------------------
+------------------------------------------------------------
+-----------------ITDMLKGNIMHLI--PQVTMMSWVNHFFSGFVACKLPF-----
+--FPLTIRFKTF------LQRGIEMGSLDVSYVSSLSWYFLCWFGSEGINAILLGENMVS
+A---DSQLLQSSIEPGPPTQQTPI--------HKIYASEKENIEMIRYD--------SLM
+TNIEDRFLDNIKK-KTSFDFNQINKNNNNNNNNTSNIKPKPIKSNLSNSKQSKRITYQKP
+SSLI
+>tr|A2G864|A2G864_TRIVA p270-related protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_114980 PE=4 SV=1
+-------------------MTQWKKPKTSSPISXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXFEERTGKFEYKFYEDQSYIPLPEKNVKEISSGSSTSSKKLLADDGKTYQ----
+LTIPAPKIDEIRDSEEAKLRIRTAQSDEQPPSNVFSKEIKLEKTKYVS------------
+-------------GEQP--------NPT-------SSPSKG-------------------
+------------------------------------------------------------
+-------------------GLSGGQIVGIV--FAVLLGIVIIVLIVYFIFCKKP------
+---------------------SNDRSSSDMKEDSGSGVYV--------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----
+>tr|A8B7C1|A8B7C1_GIAIC Glutaredoxin-related protein OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_2013 PE=4 SV=1
+MDQINGG-LFPKALALTRYASRG-------------------------------------
+-------------------------LILG--IISAAGAELENQLAGFLT---RRYPRSLF
+LPNAQNSV---------------SRFLMPVCAPLATVSRGLERTSDLN-----ATLAQSE
+-----SIKQELKMFILPQIRELLAENPVVLFMK--GTPDSPECGFSK-------------
+------------------------------------------------------------
+--------------------------------FASMLLKYNNISFVGVDVLDDPA-----
+------------------LRQGIKLY---------GNWPTIPQL---YVKGELIGGSDII
+QQL--------------------------------------------HESGELRKVCGLP
+D-----------------------------------------------------------
+----
+>sp|Q8SV58|Y6G7_ENCCU UPF0329 protein ECU06_1670 OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=ECU06_1670 PE=3 SV=1
+--------MIGRMVGLEPSSRSG-------------------------------------
+-------------------------VL----------EECRECRAIVMKGDGVQTP----
+LHKGDSIL-----GGEGACLMRYAAWTLISAVDVVYCSLETRESVSLT------------
+-----------------------------------FNPDG--------------------
+------------------------------------------------------------
+---------------------------------QVIV---VPFMFKGYNIAALP------
+-----TTKFGDLKKDTKQIENVVSFLRSDICY---AVWEFL-------VSSVQYKDDDRF
+ERLFDERMRGYLRNISEGTSKVYMRG------NKTFS--------------------ELL
+EMVCGRMLECSGR----------------------------VAGGGA-------------
+----
+>tr|G8F3B3|G8F3B3_MACFA ER membrane protein complex subunit 3 OS=Macaca fascicularis OX=9541 GN=EGM_19867 PE=3 SV=1
+--------MAGPELLLDSNIRLW-------------------------------------
+-------------------------VVLPIVIITFFVGMIRHYVSILL------------
+--QSDKKL-TQEQVSDSQVLIR-SRVLRENGKYIPKQSFLTRKYYFNN--PEDGFFKKT-
+------KRKVVP----P--------SPM-------TDPTM--------------------
+------------------------------------------------------------
+-----------------LTDMMKGNVTNVL--PMILIGGWINMTFSGFVTTKVP------
+--FPLTLRFKPM------LQQGIELLTLDASWVSSASWYFLNVFGLRSIYSLILGQDNAA
+D---QSRMMQEQ--MTGAAMAMPA------DTNKAFKTEWEALELTDHQ--------WAL
+DDVEEELMAKDLHFEGMF------------------------------KKELQTSIF---
+----
+>sp|P36039|EMC3_YEAST ER membrane protein complex subunit 3 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=EMC3 PE=1 SV=3
+-------------MLLDDQLKYW-------------------------------------
+-------------------------VLLPISIVMVLTGVLKQYIMTLITGSSA-------
+-NEAQPRV----KLTEWQYLQW-AQLLIGNGGNLSSDAFAAKKEFLVKDLTEERHLAKA-
+-----KQQDGSQAGEVP--------NPF-------NDPSMSN------------------
+------------------------------------------------------------
+----------------AMMNMAKGNMASFI--PQTIIMWWVNHFFAGFILMQLP------
+--FPLTAKFKEM------LQTGIICQDLDVRWVSSISWYFISVLGLNPVYN-LIGLND--
+------QDMGIQAGIGG-PQGPQ--GPPQSQVDKAMHAMANDLTIIQHE--------TCL
+DNVEQRVLKQYM------------------------------------------------
+----
+>tr|Q7SGF6|Q7SGF6_NEUCR ER membrane protein complex subunit 3 OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=NCU00966 PE=3 SV=1
+-----MAQVPVQTIHRDPQLFYW-------------------------------------
+-------------------------ILFPITIVMILTGVLRHYASVLM------------
+--QSAPKKLDQKAIREQRSLLH-GINLRGNFHALSKKSFATRRDALVTAFESGAY-LKD-
+-----PERAGQGQ---P--------NPL-------SDPSSME------------------
+------------------------------------------------------------
+----------------GMMGMMKNQMAMII--PNTLIMSWINAFFSGYVIMKLP------
+--FPLTIKFKSM------LQAGVMTKDMDPRWMSSISWYFLCIFGLQSVFNFLLGSDNA-
+-----ASQMAQ--QMGGMGAAPQMFGPGV-DPDKQFKAEAENLAVIEHY--------SVL
+DNVEERLLEGITV-----------------------------------------------
+----

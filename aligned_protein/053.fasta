@@ -1,0 +1,72 @@
+>sp|Q00747|LE25_SOLLC Protein LE25 OS=Solanum lycopersicum OX=4081 GN=LE25 PE=2 SV=1
+------------------MQTGKDAASAAKAGMEKT--KANVQEKAERMTT---------
+----RDPLK-KEMATE----------------KKEDRVAAA----E-----MGK------
+----------------------------------------------------------RD
+AKAQHAAEKQGAA-------------------TTGTGTTGYGATGNHTTF----------
+---------------
+>tr|D3BPW4|D3BPW4_POLPP LYR motif-containing protein 7 OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=lyrm7 PE=3 SV=1
+---MNQLRSRVIGSYMRLLRTEKLVFNNDKATLAKVTQQARTQYR-ENKSV---------
+----EDPVKIDEMVQHADAVSDFLLTSTIQAVKKTDTKFGT----ERLYEFVG-------
+-----------------------------------------------------------D
+QPKKRVRQAKGPI-------------------TIPEGCCGGGACGSTPGSS-GCS-----
+---------------
+>tr|A0A1D8PCQ5|A0A1D8PCQ5_CANAL Ribosomal 60S subunit protein L26B OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=orf19.3690.2 PE=4 SV=1
+------------------MAKISQDVSSSRSKARKAYFTASSV---ERRVL---------
+---LSAPLS-KELRQQ------YNVKSL--PIRQNDEVLVVRGSKKGSEGKVNSVYRLKF
+A---------------------------------------------------------IQ
+VDKLQKEKSNGASVPINIHPSKVVITKLHLDKDRKALIQRKGGKAE--------------
+---------------
+>tr|C4M366|C4M366_ENTHI High mobility group (HMG) box domain containing protein OS=Entamoeba histolytica OX=5759 GN=CL6EHI_086110 PE=2 SV=1
+----------MPGT----KKETKKETSETKDKVEKKMSKKKTNTKKPRRVV---------
+----KKPKTTKKAKKP---LSAYILFTQ----AKREEIAATLKDGEKINAKLGEV-----
+----------------------------------------------WRAMSKEEKQPFFD
+SYKKSKEEMEIAA-------------------QAKKESASRGLKAARAAAK-AKKEAEVK
+TD-------------
+>sp|Q9XXL3|SSP31_CAEEL Sperm-specific class P protein 31 OS=Caenorhabditis elegans OX=6239 GN=ssp-31 PE=1 SV=1
+MINIDPPSGDYPASG---GSSTHYIVSESESRLAFKVKSSNNESYRVRPVYGFVD-----
+-AKGKAKLEVNRLAGP----------------AKEDKLVIQY------------------
+------------------------------------------------------------
+--------AEVPADE-----------------TDPKAPFAAGAQQGEVVVKMVAS-----
+---------------
+>sp|Q55FM5|MTPN_DICDI Myotrophin homolog OS=Dictyostelium discoideum OX=44689 GN=mtpn PE=3 SV=1
+------------------MEE---QNDFTWAVKNGDIANVKKSVEAKKDLISITDGNKRG
+PCHWAADFNQVEVLEY-------LISKG----AKFDNTDDY-----GITPLLAAVY----
+------------------------------------------------------------
+--EGHTGAVEL--------------------------------LVKKGANKSVVGPDGQT
+AYDAAEKADIKALLK
+>tr|A2DBH8|A2DBH8_TRIVA SNARE domain containing protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_093550 PE=4 SV=1
+------------------MDEEFQRLQMQREQQEANLNMIVQQTGEVKQITIMIG-----
+----------DELENQ----NKMLLDVD----NKMDTVQDKI---KKNIEAMEKLT----
+------------------------------------------------------------
+--QSSNGPLILICVILTL----VLIGLLYWAL----------------------------
+---------------
+>tr|A8BUG8|A8BUG8_GIAIC Ribosomal protein S12 OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_33862 PE=4 SV=1
+------------------MADTTRENFLKETFKR--IHNMDGLVTGHRQVFKYLERKRAK
+ICFLASDCEEKQY-AD-------IVECL----CKEYKVHLCK---KFTRRTLGEL-----
+------------------------------------------------------------
+-----TGQVRCLADS---------DKIIKVVPASACVIHNFVGMSSGDVDSFLTKLDEQ-
+---------------
+>tr|I7IV33|I7IV33_ENCCU ECU01_1375 protein OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=ECU01_1375 PE=4 SV=1
+------------------MDEKLKEMADASSFAEKELESI------LGEITL--------
+---------------Q----NEKLVDIQ----RKIGITRAHL---LKNSRLVGEML----
+------------------------------------------------------------
+--RITKPKLAIGIIVLSI----IFIAIIYVKLVFPS------------------------
+---------------
+>tr|G7PPG6|G7PPG6_MACFA Hepatitis delta antigen-interacting protein A OS=Macaca fascicularis OX=9541 GN=EGM_05412 PE=4 SV=1
+--------------------------MEAKAG----------------------------
+-----GP---EEVTDE-----------------------------EXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXP-RG
+GPGGAGGSGAGPAPELALPPCG--------PRDLGDGSSSTGSVGSPDQLPLACSPDD--
+---------------
+>sp|P53188|CGR1_YEAST rRNA-processing protein CGR1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=CGR1 PE=1 SV=1
+MVN---------------ETGESQKAAKGTPVSGKVWKAEKTPLRAKSRVV---------
+---KNKKLTSWELKKQK---------------RLEDKQFKER------------------
+----------------------------------------------------------LK
+ALKDEKEEARQAK-----------ITMLKERREKKEENERYERLAAKMHAKKVERMRRRE
+KRNKALKER------
+>tr|A7UW39|A7UW39_NEUCR 60S ribosomal protein L35 OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=NCU10498 PE=3 SV=1
+------------------MS--------SGKVKAGALWSKNKD-ELTKQLGEL-------
+----KTELGQLRI-QK-------IVSSG----TKLNKIHDLR---KSIARVLTIIN----
+------------------------------------------------------------
+--AKQRAQLRLFYKN---------KKYLPLDLRAKQTRAIRRRLSKEDASRVLEKTKKRT
+THFPLRKFAVKAA--

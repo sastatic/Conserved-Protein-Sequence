@@ -1,0 +1,108 @@
+>tr|K4BF25|K4BF25_SOLLC 60S ribosomal protein L36 OS=Solanum lycopersicum OX=4081 PE=3 SV=1
+-------------------------MGLQPIGLFFSIGTIVRNKGPSP----------NG
+PNPKSSRSLHHPP---------------------------------------QDSQQIE-
+------------------------------------------------------------
+------------QKSKGMAPPNTGLAV-------GLNKGHIVTKKELA------------
+------------PRPS------------------DRKGKTSKRI-HFVRSLIRE--VAGF
+APYEK------------------------RITELLKVGKD----KRALKVAKRKLGTHKR
+A------------------------------KKKREEMSSVLRKMRAT----GGGEKKK-
+---------------
+>tr|D3B4P2|D3B4P2_POLPP Methylmalonyl-CoA epimerase OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=PPL_03367 PE=4 SV=1
+------------------------------------------------------------
+-------------------------------------------MFRFGSRLLYSAA----
+------------------------------------------------------------
+------------GSGGFAGAK----------------------------GIVGTVGLGRL
+NHVAIAV-----PNMEEAATMYRDVMGCKV----SEAVEQKEHGVSTVFVALENTKIELL
+HPLGENSPIANFLKKNPAGGIHHVCIEVDDIHSAVKVLQE---KQIRIIDPNPKIG----
+----AHGKPVVFL------------------HP------------------------KSC
+NGVLVELEEK-----
+>tr|Q5AHD5|Q5AHD5_CANAL Cap4p OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=CAP4 PE=4 SV=1
+MNVFTSWTKSNKAESVNSHETPQFASAVT--------QSNTTNSRPKGT---------ES
+IGP--------------------------------------------GYGRVQDLSAHAI
+ASQ---------------------------------------------------------
+------------TQGSPSASS-LEV---------KVDPELPKTHGHR---IVSTT-----
+------------KRAE--------------------QNRNAQRA-FRIRKANQ------F
+KELES-KA------------------------KEVDQLKQ---KIESLEARNRSMANYIC
+ELQ------------------RQIIEFNSNKPPTKSDKNGKENN----------ASTDN-
+---------------
+>tr|C4LVN9|C4LVN9_ENTHI 40S ribosomal protein S12 OS=Entamoeba histolytica OX=5759 GN=CL6EHI_186720 PE=3 SV=1
+------------------------------------------------------------
+---------------------------------------------------MADENQT--
+------------------------------------------------------------
+------------------------------------------------------------
+------------PQEIQEL---------------PQELKDIKAVLYQARAQNILT-----
+KGIRQ-------------------CL------KVIEAKKA-LFCFIAEDCDNDKYTGLLT
+AICKEQGIKIVKVPE------KIQLGEWTNQCKIRDGVAVNIAKCSCAVIGNNIKFTDEL
+KRLKTKVDG------
+>tr|P92014|P92014_CAEEL ONECUT (Homeobox) Associated Motif containing OS=Caenorhabditis elegans OX=6239 GN=ocam-1 PE=4 SV=3
+---------------------------ME--------ESTTNSQQNKL-----------S
+AELV-------------------------------------KKARKIPSGVFEDSS----
+------------------------------------------------------------
+------------STTSRKSTW---------------TPKRPLHKPGTLEPIVLRSDVPQG
+VNIGILLYGYNYPRQ---------------------VIRQQRQA---VTTVTH-------
+DPVEE--PCN------------------------VEQNKE---PV---------------
+-------------------------------KPMTDDQAN---------------VNDES
+ENASIKPAS------
+>sp|Q75JQ9|DPOE3_DICDI DNA polymerase epsilon subunit 3 OS=Dictyostelium discoideum OX=44689 GN=pole3 PE=3 SV=1
+----------------------------------------MSESQDLPGAIVNRII--KA
+SLPEG------------------------------------VLCAKESRLAIAKAAKVWI
+HYLTAASIDFSS------------------------------------------------
+------------HSGRSTISPK---DV---------------------------------
+------------FQAIEEIDFENF----------KPQLEEYLAALKSEKEKEKEKE----
+----------------------------------KEKEKE----KEKEKDSNK-------
+-----------------------------DDTKSKD--ENKSSKKSSS------SSKDEK
+---------------
+>tr|A2G864|A2G864_TRIVA p270-related protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_114980 PE=4 SV=1
+---------------------------------------MTQWKKPK------------T
+SSPISXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXFEERTGKFEYKFYEDQSYIPL
+PEKNVKEI----------------------------------------------------
+------------SSGSSTSSKKLLA---------DDGKTYQLTIPA--------------
+------------PKID--------------------EIRDSEEAKLRIRTAQSDE-----
+QP-----PSNVF-------------------SKEIKLEKT---KYVSGEQPNPTSSPSKG
+GLSGGQIVGIVFAVLLGIVIIVLIVYFIFCKKPSNDRSSSDMK-------------EDSG
+SGVYV----------
+>tr|E2RU64|E2RU64_GIAIC Protein 21.4 OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_3763 PE=4 SV=1
+-------------------------MSLW--------KQLSKPKDPTP----------EI
+SDDISSNDEIDPATLTAEEKHLYILDEFN--------------------DLFENSDEDEY
+YYCQSCKLKFK-------------------------------------------------
+------------TEEEAMAHQET--------------PEHFATEEAW-------------
+---------------------------------------QAERA-EFVKE----------
+----------------------------------LKAERDEHHRQRKEEKARRKMRTERT
+T------------------------------AAKREKM----REWREK----KHAVKDKG
+SHRD-----------
+>sp|Q8SRS0|DUT_ENCCU Deoxyuridine 5'-triphosphate nucleotidohydrolase OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=DUT1 PE=3 SV=1
+----------------------------------------MTVSE-----IRVRKINPRA
+KIPK-----------------------------------------RQSE----GAAGYDI
+HSVESGRI---P------------------------------------------------
+------------PNGRKSVRTGLAWDV---------------------------------
+------------PQSVVGLVFGRS----------GLALRNWIEVVETCVHPGEDKEL---
+------------------------------VITLVNNGRE----VFEYEESSRIAQ----
+---------LVFVPV---------LSCEIDLVESLDLTERGCLGFGST------GMK---
+---------------
+>tr|G7PPG6|G7PPG6_MACFA Hepatitis delta antigen-interacting protein A OS=Macaca fascicularis OX=9541 GN=EGM_05412 PE=4 SV=1
+----------------------------------------MEAK---------------A
+GGP----------------------------------------------EEVTDEEXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXPRGGPGGAGGSGAGP---------------APELALPPCG--------------
+------------PRD----------------------LGDGSSSTGSVGSPDQ-------
+LPLAC-SP----------------------------------------------------
+-----------------------------------DD-----------------------
+---------------
+>sp|Q04344|HNT1_YEAST Hit family protein 1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=HNT1 PE=1 SV=2
+-------------------------------------------MEPL------------I
+SAPYL-------------------------------------------------------
+------------------------------------------------------------
+------------TTTKMSAPATLDAACIFCKIIKSEIPSFKLIETKYSYAFLDIQPTAEG
+HALII-------PKYH----------GAKLHDIPDEFLTDA-------------------
+MPIAK---------------------------RLAKAMKL---DTYNVLQNNGKIA----
+----HQEVDHVHFHL----------------IPKRDEKSGLIVGWPAQ-----ETDFDKL
+GKLHKELLAKLEGSD
+>sp|Q7S083|ATG12_NEUCR Ubiquitin-like protein atg12 OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=atg12 PE=3 SV=1
+----------------------------------------MASSQPLH----------GT
+ASP----------------------------------------------SLVHDDN----
+------------------------------------------------------------
+------------NPNSSTASPVLEG---------RDSPNLPLTMTAS---TVLMT-----
+-----------LPR-------------------------DATAALAEAGTFDQEKVVIRF
+KPVGS-APA-------------------------LRREQV---KVLSTHSFETVVAYLRK
+TLK-VQETDSVF----------LYVNSVF--APALDEVVGNLWR----------CFKDST
+NQLNVSYSMTPSFG-

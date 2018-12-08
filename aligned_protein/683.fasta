@@ -1,0 +1,84 @@
+>tr|Q672Q9|Q672Q9_SOLLC Acyl carrier protein OS=Solanum lycopersicum OX=4081 GN=543929 PE=2 SV=1
+--MASLSATCLRF-------------------------GCSVNTS-QING----------
+----------------------------------------------------GTVKLVSV
+GWGRSSAGF--------------PSLRTS---RLRVAAA---------------KAETID
+KVISIVRKQLALPADTKVSPESTFTKDL--------------------------------
+------------------GADSLDTVEIVMALEE-----------------EFGIAVEEE
+NSENIV-----------TVQDAADLIEKLVEKK----------
+>tr|D3BBP5|D3BBP5_POLPP Calmodulin OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=calA PE=4 SV=1
+-------------------MTESL-------------TEEQIAEF-KEAFSLFDKDGDGS
+ITTKELGTVMR-----------SLG----------------QNP-------------TEA
+ELQDMINE-----VDADG-----NG-------TIDFPEF-LTMMARKM------QENDTE
+EEIREAFKVFD-------------------------------------------------
+-------------KDGNGFISAAELRHVMINL---------------------GEKLSEE
+EVEEMI----KEAD---LDGDGQVNYEEFVKMMLSK-------
+>tr|A0A1D8PTR7|A0A1D8PTR7_CANAL Tropomyosin OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=TPM2 PE=4 SV=1
+--MDK--------------LKEKIN-------------NLKLDAE-KWQEKSDELSDRIK
+EL-------------------EQENLEKDNQIQALT----------------RKNQVLEE
+EVEKLETSL-NEIKEAAD---ESHSLKTS---NENYTK----------------KNQVLE
+EELEEADKNLKETTEKLRET----------------------------------------
+------------------DVKAEQLERKVASLES-------------------EKEEWEK
+KFEELTETYNAAKA---ELDEISQQLEAI--------------
+>tr|C4LSM2|C4LSM2_ENTHI Eukaryotic translation initiation factor 5A OS=Entamoeba histolytica OX=5759 GN=CL6EHI_151810 PE=3 SV=1
+--MSSSDNEF---------EKGNAE-HSGVY-------PCQCSAL-RKGGYV-VIKGRPC
+KV-------------------FEMSTSKTGKH--------------------GHAKVTYA
+GYDIFTG---KRLDDSCP---STHNVEVP---EVKRTEYSLVGINDGYASLLLESGETRD
+DLK---------------------------------------------------------
+------------------LPEGEMGQKIQADYDD-----GKELIIAIQTAMGIEAIIDYK
+-----------------EAKD----------------------
+>sp|Q23280|DAF41_CAEEL Co-chaperone protein daf-41 OS=Caenorhabditis elegans OX=6239 GN=daf-41 PE=2 SV=1
+--MAKQPTVLWA-------QRE-----SLVY------LTIEVDEA-KIE----ELKGEGN
+KL-------------------HFQGSSKTDKYEATLEFFDEIDPASVKHTG-SSTRVVEI
+TVQKKTPAWWPRLLQNKG---KVHWLKV------DFGKW---------------KDEDED
+DEAEDAGAGI--------------------------------------------------
+---------------GGGMANGFDLNQYMSQM----GGAGGADF---------GGLEDDE
+EDDDMP-----------DLEDNEEEEGKNGTRA----------
+>sp|P02599|CALM_DICDI Calmodulin OS=Dictyostelium discoideum OX=44689 GN=calA PE=1 SV=3
+-----------------MASQESL-------------TEEQIAEF-KEAFSLFDKDGDGS
+ITTKELGTVMR-----------SLG----------------QNP-------------TEA
+ELQDMINE-----VDADG-----NG-------NIDFPEF-LTMMARKM------QDTDTE
+EEIREAFKVFD-------------------------------------------------
+-------------KDGNGYISAAELRHVMTSL---------------------GEKLTNE
+EVDEMI----READ---LDGDGQVNYDEFVKMMIVRN------
+>tr|A2FDZ7|A2FDZ7_TRIVA Dynein light chain OS=Trichomonas vaginalis OX=5722 GN=TVAG_390830 PE=3 SV=1
+--MTLGQASIIEHDMEPWLLQECID--CALYALHNFNDEDSVAEFIKKEFDLKYEPSWHV
+IVGQSFGVLVGHEI--RKCAYFSVGN---------LFFLIYKSP--------------EP
+EVPYI-----------DG-----NA-----------PE---------------------D
+EEMNE-------------------------------------------------------
+-------------EEGD------------------------------------GEAAPEA
+EIEGVE----PEPA---PEAEPESEADE---------------
+>tr|A8B911|A8B911_GIAIC RAN binding protein 1 OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_16969 PE=4 SV=1
+--MTSEPTQEVTKC--GPNEKDYFRIRAKVY-------RFADDEW-K-------ERGQGE
+VL--------------------IAEDPKEKKYRLLL----------------HRDQTLKC
+AVNLPL----IEGVAVKP---LGNSDKAV---TVAG-------------------LDFSD
+NEKKQTVFAVK-------------------------------------------------
+------------------FTEAWMCKNFQTAVEH--ALAGKELT---------EADLIKK
+PDSEEP--KNDKPA---EAKASEKDVEEVGDKK----------
+>tr|Q8SVS8|Q8SVS8_ENCCU Similarity to UDP-Gal beta GlcNAC beta 1,4 galactosyltransferase OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=ECU04_1120 PE=4 SV=1
+MIYTAEGYEKVRKLLGHLCMVQSRA--NA--------VAYKVSKY-KSESPVYLVEGNGG
+EV-----YLMGNNVFELECSGFDVGVPKEKEALVMLFRFNVENP-------------MES
+TGKRIGASREALFVEVDAGPVTCNGKRAGTLITSSIPQ--------------------SL
+DALSSVLRRFI-------------------------------------------------
+-------------RISNDRYPGGLERALV------------------------GVLSSNK
+IL-----------------------------------------
+>tr|G7PPG6|G7PPG6_MACFA Hepatitis delta antigen-interacting protein A OS=Macaca fascicularis OX=9541 GN=EGM_05412 PE=4 SV=1
+------------------------------------------------------------
+---------------------------------------------------------MEA
+K---------------------------------AGGP-----------------EEVTD
+EEXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXPRGGPGGAGG--------------SGAGPAPE----------------
+----LA----LPPCGPRDLGDGSSSTGSVGSPDQLPLACSPDD
+>sp|Q08004|BUD20_YEAST Bud site selection protein 20 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=BUD20 PE=1 SV=1
+--MGRYSVKRYK-------TKRRTRDLDLIY----------------------------N
+DL-----------------------STKESVQKLLNQPLDETKPGLGQHYCIHCAKYMET
+AIALKT--------HLKG---KVHKRRVK---ELRGVPY---------------TQEVSD
+------------------------------------------------------------
+------------------AAAGYNLNKFLNRVQEITQSVGPEKES-------NEALLKEH
+LDSTLANVKTTEPTLPWAAADAEANTAAVTEAESTASAST---
+>sp|P61859|CALM_NEUCR Calmodulin OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=cmd-1 PE=1 SV=2
+-------------------MADSL-------------TEEQVSEF-KEAFSLFDKDGDGQ
+ITTKELGTVMR-----------SLG----------------QNP-------------SES
+ELQDMINE-----VDADN-----NG-------TIDFPEF-LTMMARKM------KDTDSE
+EEIREAFKVFD-------------------------------------------------
+-------------RDNNGFISAAELRHVMTSI---------------------GEKLTDD
+EVDEMI----READ---QDGDGRIDYNEFVQLMMQK-------

@@ -1,0 +1,84 @@
+>tr|K4B8V8|K4B8V8_SOLLC D-aminoacyl-tRNA deacylase OS=Solanum lycopersicum OX=4081 GN=101245317 PE=3 SV=1
+----------MRAVVQRVASASVE-VE---------------------------------
+------------------------------------------GRTVSAIGPGL-------
+-----LVLVGLHESDVDSDADYICRKVLNMRLFPNEET---------GKTWDHSVVQKNY
+EVLLVSQFTLYG-ILKGNKPDFHVAMPPEKAKPFYASLVEKFHKAYKQDAVKDGVFGAKM
+KVNLVNDGPVTMNLDSAQPSK---------------------------------------
+----
+>tr|D3BQQ8|D3BQQ8_POLPP D-aminoacyl-tRNA deacylase OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=dtd PE=3 SV=1
+----------MRAVIQRVKQGSVT-VN---------------------------------
+------------------------------------------NEVISSIGQGL-------
+-----VCLIGITHDDTKVDSDWL--------LWDNKEA---------NKSWDKSVKDMNY
+EVLFVSQFTLYAVTKKGTKPDFHCAMPSELSKQFYTQFLNDAKQNYKPELIKDGCFGAMM
+DVGIVNDGPVTIVLDSKDK-----------------------------------------
+----
+>tr|A0A1D8PJK2|A0A1D8PJK2_CANAL D-aminoacyl-tRNA deacylase OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=DTD2 PE=3 SV=1
+----------MRVVIQKVKSASVT-VE---------------------------------
+------------------------------------------EKVVSSIGKGL-------
+-----MVLVGITTTDTEDDIAKLSKKLLSLRVFEDLSEPPQTATKWYGKPWAKSIVDIQG
+EILSVSQFTLYGTVKKGTKPDFHRAAKGHHAVELYNKLLEQLRAGLGQEKVKDGEFGAMM
+DVALVNDGPVTIVWDTQDSSL---------------------------------------
+----
+>tr|C4LYZ9|C4LYZ9_ENTHI D-aminoacyl-tRNA deacylase OS=Entamoeba histolytica OX=5759 GN=CL6EHI_118150 PE=3 SV=1
+----------MRIIVQRVLSGSVTKVE---------------------------------
+-----------------------------------------SGEVVGKIGKGL-------
+-----LLYFGINEEDKESDIDGAVNKVLKMKLWDSED----------GKRWSKSVMDMGY
+EVLVVSQFTLYA-VLNGTKPDFHKSMRAEKSHPFYDLVVKRFKELYAEDKIQIGAFGQYM
+KISTEVDGPVNIIVDYPKETENNQKQQKQSKGKSQVTSGT--KKVNPKKISQKETESCLK
+EEKK
+>tr|Q9XUP4|Q9XUP4_CAEEL D-aminoacyl-tRNA deacylase OS=Caenorhabditis elegans OX=6239 GN=pqn-68 PE=1 SV=1
+----------MKVVLQRVTRAAVT-VG---------------------------------
+------------------------------------------DEVVGSIGRGL-------
+-----CVLVGVHRDDTEEDMKYIIRKILNLRVFPASE----------QKPWDKSVMDLDL
+EVLSVSQFTLYG-QFKGNKLDFHTAMAPTEASKFYASFLEAMKKAYKADKIQDGKFAAMM
+SVDIVNDGPVTVTFDSKEK-----------------------------------------
+----
+>sp|Q54EY1|DTD_DICDI D-aminoacyl-tRNA deacylase OS=Dictyostelium discoideum OX=44689 GN=dtd PE=3 SV=1
+----------MKAIIQRVKSSSVT-VE---------------------------------
+------------------------------------------GEVISEIKQGL-------
+-----MCLIGIGRDDTKEDAEYITRKILNLRLWKNEDG---------TKNWDRSVQQMDY
+EILFVSQFTLFA-QLKGNKQSYHLAMAPELSKQFYLDFLENAKKSYKPEKIKDGRFGAMM
+DVQLINDGPVTIQLDSKEK-----------------------------------------
+----
+>tr|A2FA26|A2FA26_TRIVA D-aminoacyl-tRNA deacylase OS=Trichomonas vaginalis OX=5722 GN=TVAG_010100 PE=3 SV=1
+---------MVKLVIQRAKSGSVT-VD---------------------------------
+------------------------------------------GKIVGQIGQGI-------
+-----VVLVGIHRDDKPEDLDWAVQKMLNYCMWPADD----------DKPWRKSVMDIDG
+GVLLVSQFTLYA-RPNGRKPDFSHSMGPEGATQLYNLFVEKVKAAYKPEKIQTGEFGAMM
+DVALVNDGPVTMIFDTLNKKG---------------------------------------
+----
+>tr|A8BHY6|A8BHY6_GIAIC D-aminoacyl-tRNA deacylase OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_13832 PE=3 SV=1
+----------MKVVIQRVHSGSVT-INK--------------------------------
+--------------------------------------GKDTEYVSGSIGRGY-------
+-----VVLVGISREDVIEDMHYIIGKLLAARLFPDET----------GKEWARNIIEVEG
+EILLVSQFTLYG-FLNGNKPDFHEAMKSEEAGPLFDKFVQHVKEKYVSDRVHTGVFGGDM
+VVSIENDGPTTLTIDSRVSAYA-----KDAAGMAKIGGNKTWKKYNPDK-----------
+----
+>tr|Q8SS25|Q8SS25_ENCCU EUKARYOTIC TRANSLATION INITIATION FACTOR 1A OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=ECU04_1170 PE=3 SV=1
+MKGRKGRFANDRALVFAEEEGTVY------------------------------------
+------------------------------------------GQIICPLGQGQ-------
+--FKVSCSDGVYRTAKVRGRDY------------------------------RRVRMVPG
+DIVLLR-------VRDGDE------KRADIDRKYMPKEVKILKED---GEINDDSFAA--
+-----NDKGSGLV----------------------------------------EFEEFL-
+----
+>tr|G7PPG6|G7PPG6_MACFA Hepatitis delta antigen-interacting protein A OS=Macaca fascicularis OX=9541 GN=EGM_05412 PE=4 SV=1
+---------------MEAKAGGPEEVTDEEXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXPRGGPGGAGGSGA-------
+------------------------------------------------------------
+----------------GPAPEL--ALPPCGPRDL------------GDGSSSTGSVGS--
+----PDQLPLACSPDD--------------------------------------------
+----
+>sp|Q07648|DTD_YEAST D-aminoacyl-tRNA deacylase OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=DTD1 PE=1 SV=1
+----------MKIVLQKVSQASVV-VD---------------------------------
+------------------------------------------SKVISSIKHGY-------
+-----MLLVGISIDDSMAEIDKLSKKVLSLRIFEDESR----------NLWKKNIKEANG
+EILSVSQFTLMAKTKKGTKPDFHLAQKGHIAKELYEEFLKLLRSDLGEEKVKDGEFGAMM
+SCSLTNEGPVTIILDSDQ------------------------------------------
+----
+>sp|P0C224|RL40_NEUCR Ubiquitin-60S ribosomal protein L40 OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=crp-79 PE=1 SV=2
+----------MQIFVKTLTGKTIT-LE---------------------------------
+---------------------------------------VESSDTIDNVKQKIQDKEGIP
+PDQQRLIFAGKQLEDGRTLSDYNIQKESTLHL----------------------VLRLRG
+GIIEPS--------------------------------LKALASKFNCDKMICRKCYARL
+PPRATN-------------------CRKRKCGHT--------NQLRPKKK--------LK
+----

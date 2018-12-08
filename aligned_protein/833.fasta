@@ -1,0 +1,72 @@
+>sp|Q9ZR41|GLRX_SOLLC Glutaredoxin OS=Solanum lycopersicum OX=4081 PE=3 SV=1
+MSLAKAKEIVSGNPVAVFSKTYCPFCVSV--KDLLSKLGA--TFKAVELDSEK-------
+-------DGSEIQAALAEWTGQRTVPNVFIGRKHI-------------------------
+-----------------------------------------------------GGC----
+---DATTALHREGKL--LPLL-----------------TEAGAIAKTSTA----------
+------------------------
+>tr|D3BTZ3|D3BTZ3_POLPP PHD finger-like domain-containing protein 5A OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=phf5a PE=4 SV=1
+------------------------MSKHHP-DLIMCKKQ-------PGIAIGRVCDKCDG
+KCVVC-------DSYVKP----TTLVRV--------------------------------
+-------------------------------------CDECNYGSFQGRCVICGGVGISD
+AYYCKECTTQEKDRDG-CPKI---------VNLGS---------------------SKTD
+LFYERK---KFGFKKR--------
+>tr|A0A1D8PTS0|A0A1D8PTS0_CANAL Ribosomal protein P2A OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=RPP2A PE=3 SV=1
+------MKYLAAYLLLVNAGNATPSAADV--KAVLSAAD-------IEVEEEKV------
+EKLISELDGKNVEELIAE--GNEKLSSV--------------------------------
+-------------------------------PSGAPA------------AAAGGAS----
+---AAAGGEAAEE-------------------------------AAEEEAAEE---SDDD
+MG--------FGLFD---------
+>tr|C4LWJ6|C4LWJ6_ENTHI LIM Zinc finger domain containing protein OS=Entamoeba histolytica OX=5759 GN=CL6EHI_069060 PE=4 SV=1
+------------------------MSDDVC---YVCKKPFADDEDPIEIMKGKYL--VHE
+DCFVCAECGEPLEKYFMK--DKKLMCKT--------------------------------
+-----------------------------------CACPK---------CKVCGEA-IEG
+-----KIVRVEEDRY--HPDCFKCPECGNVIGTNDYKIR----------DGKVLCMACAD
+KQ----------------------
+>tr|Q9U1X9|Q9U1X9_CAEEL Ribosomal protein, Large subunit, Acidic (P1) OS=Caenorhabditis elegans OX=6239 GN=rla-2 PE=1 SV=1
+------MRYVSAYLLAVLGGNANPKVDDL--KNILSAVG-------VDADAETA------
+KLVVSRLAGKTVEELIAE--GSAGLVSVS-------------------------------
+---------------------------GGAAPAAAAA------------PAAGGAA----
+---PAADSKPA----------------------------------KKEEPKEE---SDDD
+MG--------FGLFD---------
+>sp|Q54NR3|NDUB9_DICDI NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 9 OS=Dictyostelium discoideum OX=44689 GN=ndufb9 PE=3 SV=1
+-MLSHSQKVVR--LYRKAIKSIRDYSEDY--DMFLLNAG---DLR-ASLKAGKN------
+ET-----NPFAIQQMVKQ------------------------------------------
+---------------------LEDFNSYWEHPDPYIPCDGIN-----------GTK----
+---WQRNTAPAKYAV--DP-------------------TNHLLENGRE------------
+------------------------
+>tr|A2DI06|A2DI06_TRIVA 60s Acidic ribosomal protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_402500 PE=3 SV=1
+------MRYIAAYLLAKAAGNEKPTQEQV--KKILEAAG-------VEIDAAQL------
+EAVVTKMAEKPVEELVET--GKNEMGKV--------------------------------
+---------------------------------GGAA------------PAAAGAA----
+---TAAAEAPKEE------------------------------APKEEEAA-----APLD
+LG---------DMFDF--------
+>tr|A8BVM8|A8BVM8_GIAIC Variant-specific surface protein OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_93742 PE=4 SV=1
+----------------------------------MCNA---------KIAGSNY------
+------------------------------------------------------------
+-------------------------------------CSK---------C-ITGQAPING
+--ICTSVTRSARDAVGCAPSNGKCTAC-----TGDYFLQFGGCYEKTQFPGKMVC-ADVD
+SQRKCNSCLKFVMYILTLLRSWK-
+>sp|Q8SWE5|DRE2_ENCCU Fe-S cluster assembly protein DRE2 OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=DRE2 PE=3 SV=1
+---MEDKEELRKLLRSMMRKSTDPRTKMQ--DEYLTDED--KAIQRSERPPAKK-----R
+ACKDCTCGLKEEQEVRTR------------------------------------------
+-----------------------------------SACGNCYK----------GDA----
+---FRCSGCPSLG----LPPY---------------------------EPGDVVS-FSMD
+LSNE------FQGEDA--------
+>tr|G7PPG6|G7PPG6_MACFA Hepatitis delta antigen-interacting protein A OS=Macaca fascicularis OX=9541 GN=EGM_05412 PE=4 SV=1
+-------------MEAKAGGP---------------------------------------
+------------EEVTDE--EXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXPRGGP-----------------GGA----
+---GGSGAGPAPELA--LPPCGP-------RDLGDGSSSTGSVGSPDQLPLAC---SPDD
+------------------------
+>sp|P05319|RLA2_YEAST 60S acidic ribosomal protein P2-alpha OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=RPP2A PE=1 SV=1
+------MKYLAAYLLLNAAGN-TPDATKI--KAILESVG-------IEIEDEKV------
+SSVLSALEGKSVDELITE--GNEKLAAV--------------------------------
+-------------------------------PAAGP-------------ASAGGAA----
+---AASGDAAAEE-------------------------------EKEEEAAEE---SDDD
+MG--------FGLFD---------
+>tr|Q7S6S7|Q7S6S7_NEUCR Copper resistance protein Crd2 OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=NCU05512 PE=4 SV=2
+---------MSA-PVAKASTCCGKSAECICAKQATCSCG-------------KQ------
+SALHCTCDKANSENAVEG------------------------------------------
+-----------------------PRCSCRARPAGQCTCDRASTE----NQKPTGNA----
+---CACGTRPADA-------------------------------CTCEKAA--------D
+GG--------FKPTDLETDFTTKN

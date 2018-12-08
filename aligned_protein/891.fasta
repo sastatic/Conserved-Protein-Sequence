@@ -1,0 +1,120 @@
+>sp|P14275|CB2C_SOLLC Chlorophyll a-b binding protein 1C, chloroplastic (Fragments) OS=Solanum lycopersicum OX=4081 GN=CAB1C PE=3 SV=1
+MAAA--------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------TMALSS
+PSFAGQAVKLSPSASEISGNGRITMRKA----VAKSAPSSSPWXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXSLVHAQSILAIWACQVVLMGA---VEGY-RIAGGPLG
+-----EVVD--PLYPGGS---FDPLGL-----AEDPEAFAELKVKEIKNGRLAMFSMFGF
+FVQAIVTG---KGPLENLADHLADP-----------VNNNAWAFAT-NFVP---------
+----GK-
+>tr|D3BBQ8|D3BBQ8_POLPP Ribosomal protein L19 OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=rpl19 PE=3 SV=1
+MVSL---RLQKRLAASILKCG---------------------------------------
+--KGRVWIDPNEISEVS-------------------------------------------
+------------MA---NSRDNIRKLVKNGF-----------------------IIRKPV
+VVHSRSRAREHNAAKALGRHRGMGNRLGT---REARLPSKVLWVRRIRVLRRLL------
+------------------------------------------------------------
+------------------------KKYREAKKI---------DRHAYRELYLKAKGNIFK
+----------------------NKRTLIEYIVKSKTEKLREKQINDQAEARRLKNRNLK-
+---------ERRTAKSLAKDATA-------------------------------------
+-------
+>tr|A0A1D8PCC8|A0A1D8PCC8_CANAL Ribosome biogenesis regulatory protein OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=RRS1 PE=3 SV=1
+MSSEKEYK-----PVTVDKPIPNTY-----------------------------------
+DLGNLATFDPNPLDN-----EKLLSKDES-------------------------------
+------IKEDHLQS---VTRDNVQLLINQIL-SLPVKITTETHGSSTGQNSTMTLIQLPE
+PTTILPREKPIPKAKPLTKWQQFAARKG----IKPKAKDGK-------------------
+------------------------------------------------------------
+------------------------MVYDEDT-----------GEWVPKWGY-KGKNKSID
+DQWLVEVD---DKVKNTEDELIDPRTL---KRAERKKLIKKNELQHKRNLRNQGAV----
+------------------------------------------------------------
+-------
+>tr|C4LXT1|C4LXT1_ENTHI Prefoldin alpha subunit OS=Entamoeba histolytica OX=5759 GN=CL6EHI_063340 PE=4 SV=1
+MSAP------KPIPLTSLSP----R-----------------------------------
+DLAGLHKTLQNELQNLQASYEQLFS-----------------------------------
+------VQQTYLDN---------KSIINALT-----------------------NEKVKG
+QPMLVPMNSSLYMKGDIDSYDRVIIDIGANYFVSKKLPAAL-------------------
+------------------------------------------------------------
+------------------------EFYDRKIKLI-------EGE----------KEKILK
+------------------------------IVSSRKQMIASVQEQMAKTLAAAQPK----
+------------------------------------------------------------
+-------
+>tr|Q18400|Q18400_CAEEL Dietary restriction down regulated OS=Caenorhabditis elegans OX=6239 GN=drd-10 PE=4 SV=1
+MRT---------LPILLLVIVGVVY-CYP-----LNEDNV--------------------
+-----------DLESDVA--E---------------------------------------
+-----------MEG---AELDRV-------K----------------------RAS----
+-----DHKLEKKLDEIMEKVEKIKDKIEEN--KEKREKKNK-------------------
+------------------------------------------------------------
+---------------------KKGNKKDEDE----------EEE--------EDKDKKKK
+--------------------------------DKKKNKDSEEEEDKKKDKKK--------
+--------------KNDSSDESEEENKKRK----NKRKN---------------------
+-------
+>sp|Q55D55|CCD25_DICDI Coiled-coil domain-containing protein 25 homolog OS=Dictyostelium discoideum OX=44689 GN=ccdc25 PE=3 SV=1
+-------------MVLYFKLIDPEYICYMGIDKFENEDLIKYGWPEDVWFHVNDLSSAHV
+YLRLRKGETWNDIPANIL--EECCQ-----------------------------------
+-----LVKQNSIQGCKEASVDIVYTPWANLK----------------------KTAGMEA
+GQVLYHNEREVKYVRNVRKDSKIINRIEKT--REKREVDLM-------------------
+------------------------------------------------------------
+---------------------HERDSRDKSE----------RHE--------KRKEQEEK
+---------------------------------RRAEKKAYEEKQKMEDIKKYTSIMKT-
+--------DNMKFNKYNPTDEDDFM-----------------------------------
+-------
+>tr|A2E515|A2E515_TRIVA Ribosome biogenesis regulatory protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_027760 PE=3 SV=1
+MSN-------------------IEF-----------------------------------
+DLYHLSAFTTGATKE-----E---------------------------------------
+------INPDYLKQ---SATDAFISFFKALK-ECDHESDT--------------KVKLPK
+PTVSIPREKPLPAEKPKTRWEQFVEQKG----LKFQEKEKK-------------------
+------------------------------------------------------------
+-------------------------VLDEDT-----------GEWCLRYGY-KRANDPLA
+-RPIIEV----PNNENAE----DPFTK---LAREKKERVAEQKKREVRNKKRAERAIKEA
+AVVASLKGNKRKEQIQQALDAASHPGSSASMNQFNKVKNKVGIFEEGSSVPKIFDRNKGQ
+KPKLGKK
+>tr|A8BZ40|A8BZ40_GIAIC Ribosome biogenesis regulatory protein OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_11984 PE=3 SV=1
+MPD---------------------Y-----------------------------------
+DLHYLMATNLEPLPE-----EATLSTP---------------------------------
+-------NEHVLMQ---LAVKTLASLCKEFV-MLPSTSGPMGP-----------VATLPE
+PRTLLPREKPLPEEKPLTTWEKFAKEKG----IKKRSRSQK-------------------
+------------------------------------------------------------
+-------------------------VFDEKT-----------GEYRPRYGYRRRTDNTIE
+FDPIVPAKPGVDDYTGAE----DPFTR---ARREKKERVAKNKAQQAANIKRARAVKK--
+------------------------------------------------------------
+-------
+>tr|Q8SUL7|Q8SUL7_ENCCU Ribosome biogenesis regulatory protein OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=ECU08_1510 PE=3 SV=1
+MNH---------------------------------------------------------
+-LKLLTVVSDGAV-----------------------------------------------
+-------RHKDLNQ---ETSNLLKEMVQEIK-LCRSARRGSDL-----------VFALPE
+STLAFPRQ--YLREHIETRWERFARTKG----IEKRKKSPL-------------------
+------------------------------------------------------------
+-------------------------VYDEEV-----------GEYIPRYGPHSKKNRILK
+-----------AAIKDGE------VTLSA-LRRQRKNNIEKNEANRLGNISRRRGNS---
+------------------------------------------------------------
+-------
+>tr|G7PPG6|G7PPG6_MACFA Hepatitis delta antigen-interacting protein A OS=Macaca fascicularis OX=9541 GN=EGM_05412 PE=4 SV=1
+MEAK--------------------------------------------------------
+------AGGPEEVTD-----EEXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXX---XXXXXXXXXXXXXXXXXXPRGGPGGAGGSGAG---------PA
+PELALPPCGP--------------------------------------------------
+------------------------------------------------------------
+----------------------------RDL-----------GDGSSSTGS-VGSPDQLP
+----LACSP--DD-----------------------------------------------
+------------------------------------------------------------
+-------
+>sp|Q08746|RRS1_YEAST Regulator of ribosome biosynthesis OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=RRS1 PE=1 SV=1
+MSAE-DYKN---LPVTVEKPIPVVY-----------------------------------
+DLGNLAAFDSNVLDK-----NDLDSSNAR-------------------------------
+-------REEKIKS---LTRDNVQLLINQLL-SLPMKTTTESVGGTGGQSSVMTLLQLPD
+PTTDLPREKPLPKAKAMTKWEKFAAKKG----IKPKERAGK-------------------
+------------------------------------------------------------
+------------------------MIYDEAS-----------GEWVPKWGY-KGANKKLD
+DQWLVEVD---DKVKGTDNELIDPRTL---NRAERKRLVKKNEKQQRRNMKNAL------
+------------------------------------------------------------
+-------
+>tr|Q7SD05|Q7SD05_NEUCR Ribosome biogenesis regulatory protein OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=NCU08121 PE=3 SV=1
+MSDATTTTTTTKLPVTVDKPTPYTF-----------------------------------
+DLGLLLANDPNPL---------LLDRSSA-------------------------------
+-------LEPQLAS---IARDGCQSLINQLLTACPISSTPAGV-----------LLSLPP
+PQTPLPREKPVPTPKAETKWSQFAKRRG----IKPKTREQRR------------------
+------------------------------------------------------------
+-----------------------NLQYDETT-----------GEFGRKWGY-KGANKAGE
+DAPIIEV-----KKSQEEKRMAEGKSVRGDKRREIRERVKRNERKMRANERRESGRKK--
+------------------------------------------------------------
+-------

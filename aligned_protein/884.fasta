@@ -1,0 +1,84 @@
+>tr|K4DB65|K4DB65_SOLLC Histone H2A OS=Solanum lycopersicum OX=4081 GN=101262690 PE=3 SV=1
+---------------------------------MA-------------------------
+------------------------------------------------------------
+-GRG--KTLGSG------------AAKKAQSRSSKAGLQ---------------------
+---------FPVGRIAR-FLKAGKY------AERVGAGAPVYLAAVLEYLAAEVLELAGN
+A---ARDNKKTRIVPRHI---QLAVRNDEELSKLLGDVTIANGGVMPNIHNLLLPKKAGS
+SKPSADED
+>tr|D3BET1|D3BET1_POLPP Succinate dehydrogenase assembly factor 2, mitochondrial OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=PPL_07246 PE=3 SV=1
+---------------------MFTNKYKLI-----SFISRYNNN----------------
+------------------------------------------------------------
+---------NVSLNRIITIGTRLYSSSNRYDADAKLS-------NTDILRKKLIYQSKE-
+--RGMLENDLLLGSFASKYLNDFDH-------NKLVE-----YDNIIQ-------QPDPD
+IYNWALN--KQDI-PEEL-NTEV-MKLLQHHCQNN---------------PLGYPKN---
+--------
+>tr|A0A1D8PEE2|A0A1D8PEE2_CANAL Succinate dehydrogenase assembly factor 2, mitochondrial OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=orf19.4727 PE=3 SV=1
+------------------------MLSKS----------YRAISK---------------
+------------------------------------------------------------
+------RSFSQS-SVVFANYGKPQNPPIDTEIKLKIQPIVRTGETIEVKRARLLYQSRK-
+--RGILESDLLLSRFADKYLKTMTM-------EELDE-----YDKLLD-------EADWD
+IYYWATKNYKITPLPDKWKDSKI-LKEIQKIANNDEK------------VIMRMPEL--K
+LEPESNTK
+>tr|B1N3C5|B1N3C5_ENTHI Myb-like DNA-binding domain containing protein OS=Entamoeba histolytica OX=5759 GN=CL6EHI_133550 PE=4 SV=1
+-------------------MQLMEGIKRYGTNNWEEVASMVPTRT---------------
+------------------------------------------------------------
+------KKQCRE--------------------RY--------LNNNESIYHRPWSQEED-
+--CLILQKRKEIGNKW----TTIASCLEGRSPNDVKNH---FFGRLKKL-----NCIEKE
+TNPHTTN----KILNEISTVQSV-FKPVEQSLFS----------------II--------
+--------
+>sp|Q9NA72|SDHF2_CAEEL Succinate dehydrogenase assembly factor 2, mitochondrial OS=Caenorhabditis elegans OX=6239 GN=Y57A10A.29 PE=3 SV=1
+------------------------MTSRI-------LQRFFTVST---------------
+------------------------------------------------------------
+------SLRSLT--------------------RAEVP-----GEKIDAKRARLLYQSKK-
+--RGILENDILLGDFAEQNLKKMSE-------PELKA-----YDKLING-----EHMEWD
+LFYYLSN--KKSP-PEDVESCQV-YQKVKKFVDDK-----------------RVPKS---
+--------
+>sp|Q54B20|SDHF2_DICDI Succinate dehydrogenase assembly factor 2, mitochondrial OS=Dictyostelium discoideum OX=44689 GN=DDB_G0293946 PE=3 SV=1
+---------------------MFKSIKQIK-----SSIGFITTNT---------------
+------------------------------------------------------------
+------TRRNFCSNKIGGFTIKNVEDESKIKINNEIS-------EIEKLRKKLLYQSKE-
+--RGMLENDLLLGSFATLNIHKLTE-------SQLRD-----YNLLLQ-------QPDPD
+IFNWILK--KAEV-PEEF-ETEV-LKLVQHHCKND---------------PLGYTRK---
+--------
+>tr|A2ENN2|A2ENN2_TRIVA Glycine cleavage H-protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_100550 PE=4 SV=1
+---MITSCFTRAAKQYSKDHLWFDLANKVGKFGVTSYKGYHLGNI---------------
+------------------------------------------------------------
+------KFLALA-------------PEGTYKKGEELA-----------------------
+----TIESDKTIESIAAPVDLKITQT-----NTKLED-----NPKLLK------TSAEKN
+A--WIAQIEILSDFSEPLVDRKAYLKSLE-------------------------------
+--------
+>tr|A8BMJ0|A8BMJ0_GIAIC Ribosomal protein L7Ae OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_11287 PE=1 SV=1
+--MQIDPRAIPFANE-ELSLELLNLVKH--GASLQAIKRGANEAL---------------
+------------------------------------------------------------
+------KQVNRG--------------------KAELVIIAADADPIEIVLHLPLACEDKG
+VPYVFIGSKNALGRACNVSVPTIVASIGKHDA--LGN-----------------------
+------------------VVAEI-VGKVEALV----------------------------
+--------
+>sp|Q8SS77|H31_ENCCU Histone H3.1 OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=HHT1 PE=3 SV=3
+---------------------------------MARTKQSARKTT---------------
+------------------------------------------------------------
+GGKAPRKQLSAK------------SARKGVSPASSAGAKKSRYRPGSVALKEIRRYQKS-
+--TDFLIRRLPFQRACRSVVKECSN------ATDIRFQGPA-LASIQEALEVYLVGLFED
+AMLCAYHAKRVTVFPKDI---SLVLKLRSRHVKSISD-----------------------
+--------
+>tr|G7PPG6|G7PPG6_MACFA Hepatitis delta antigen-interacting protein A OS=Macaca fascicularis OX=9541 GN=EGM_05412 PE=4 SV=1
+---------------------------------MEAKAGGPEEVTDEEXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXPR
+GGPG-------G------------AGGSGAGPAPELALP---------------------
+----------PCG------------------PRDLGDGSSS-TGSVGS------------
+--------------PDQL---PLACSPDD-------------------------------
+--------
+>sp|Q08230|SDHF2_YEAST Succinate dehydrogenase assembly factor 2, mitochondrial OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SDH5 PE=1 SV=1
+------------------MHNMFPALTKTL-----SLQGYKIINS---------------
+------------------------------------------------------------
+------QTGSAAWSCGRRWFSSDKDDHDDVVTRIKIAPIKRTNEPLDKKRARLIYQSRK-
+--RGILETDLLLSGFAAKYLKKMNE-------EELEE-----YDSLLN-------ELDWD
+IYYWATKNFKTSPLPDKWANSKL-LKQLQEFSENKEK------------EILSMPDLS-K
+YQ------
+>tr|Q1K7U2|Q1K7U2_NEUCR SnRNP and snoRNP protein OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=NCU01331 PE=4 SV=1
+MSGQNESAAWPKAEDGALVQELLDCVQQ--ASHYRQLKKGANEAT---------------
+------------------------------------------------------------
+------KSVSRG--------------------TSELVILAADTQPLSIVLHIPLLCEDKN
+VPYVYVPSKTALGRACGVSRSVIAVSLTSNEASDLNS-----------------------
+------------------KIRAL-RDKVERLAM---------------------------
+--------

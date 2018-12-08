@@ -1,0 +1,96 @@
+>tr|K4BLK2|K4BLK2_SOLLC Vesicle transport protein OS=Solanum lycopersicum OX=4081 GN=101245340 PE=3 SV=1
+------------------------MWRLSESILGE----NE--EQQDNLFGDQE----AL
+--CSVSP-LQRVYGFA---ACLLAG-FICMFLSMIVFIKPIKFALLFTFGNMLAIGSTA-
+--------------------------------------------FLIGPMQQ--------
+--------L-----------SMMMDPVRAYATSM--YV-------------GCVVLALIC
+-----------ALWIHSKILTLLAIICEICALVWYSLSYIPFARRMVSNV----------
+---TIRLFDTEI------------------------------------------------
+--------------
+>tr|D3B9F0|D3B9F0_POLPP NUDIX hydrolase family protein OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=PPL_05094 PE=4 SV=1
+-----------------MENNNNGDKKLFRKCVGAV-VFNE---EGNLLVGRRS----SL
+KKAAVGK-WQFPQG-----------------------------------G--VEKDEDY-
+--------------------------------------------YNAVLRELKEEVGLEL
+SGDYSLKYI-----------DRLQSPIE--------YLYERIETSHDRKTHGQSIVWYF-
+------------FYMNSKHIDRVKLDNE------------P-EQQEFDQVQWMSFDDLL-
+QPENIVSFKLEM------------YQQLQKQSIPIIQNAAK-------------------
+--------------
+>tr|Q5A328|Q5A328_CANAL Mitochondrial pyruvate carrier OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=CAALFM_CR08610WA PE=3 SV=1
+---------------------------MASTVQHAS--------KFQRFLNSETGPRTVH
+FWAPVFK-WALVAA-----------------------------------G----LNDIQ-
+-------------------------------------------------------RPVEK
+LSGTQQIALFATGAIWTRWAGFVIKPRNMLLASVNFFL---------GGVAGYQL-----
+----------------------LRIVNYR---------------RDLGDSPMQVFNYILN
+---GDAAAVKEPEPAKN-------------------------------------------
+--------------
+>tr|B1N5F5|B1N5F5_ENTHI Leucine rich repeat protein bspa family OS=Entamoeba histolytica OX=5759 GN=CL6EHI_006310 PE=4 SV=1
+---------------------------MKKKIEGGK--------INKKVIWYKQ------
+---------TYSDA----------------------------------------IEEIK-
+------------------------------------------------------------
+-KGNECKNI-----------CYTKEDRKKYGNNVPENV-------NRLENECYSH-----
+-CIDLE-----TIIIPS----NIKSIGYKCFCGCTSLKSI-NIPQNVTLIGDKCFSHCIS
+--LTSISIPQHTK-----------------------------MIDWMC----FYGCDKLT
+QITFTSSV------
+>sp|P06582|HSP12_CAEEL Heat shock protein Hsp-16.2 OS=Caenorhabditis elegans OX=6239 GN=hsp-16.2 PE=3 SV=1
+MSLYHYFRPAQRSVFGDLMRD---MALMERQFAPVC-RISP--SESSEIVNNDQ-KFAIN
+LNVSQFK------------PEDLKI-NLDG--------------RTLSIQGEQELKTDH-
+------------------------------------------------------------
+--GYSKKSFS----------RVILLPEDVDVGAVASNL----------SEDGK-------
+------------LSIEAPKKEAVQG-----------------------------------
+-----RSIP-----------------------------IQQAIVEEKSAE----------
+--------------
+>tr|Q54FR0|Q54FR0_DICDI NUDIX hydrolase family protein OS=Dictyostelium discoideum OX=44689 GN=DDB_G0290689 PE=4 SV=1
+-----------------------MNEAKYRSCVGAL-IFNQ---NNQVLICKRS----SK
+KKTAVGK-WQFPQG-----------------------------------GVEVEKNEDY-
+--------------------------------------------YVAVQREIKEEVGLEP
+SID-TLKYV-----------SKLQNPLS--------YIYEDSPKSRSGGHIGQMIHWYL-
+------------FYLPNDLIKTVNLNVE--------------EEPEFEECKWFGFEEFIN
+NNEMIVPFKKDM------------LHSLFLESQPIINHYLESVIDSSP-------PKQLS
+Q-------------
+>tr|A2EC64|A2EC64_TRIVA Hydrolase, NUDIX family protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_413910 PE=4 SV=1
+------------------------MLLRTNLFAHF--------SSSSFIFNKDR-TKTLF
+IYHNIYKSWTWTGGHNDGDPDFLHV-AMK--------------------EAKEET-----
+------------------------------------------------------------
+--GVNVRVVSPE--------PVC-----LDIIPVWGHV-----------KNGKWVSSH--
+QHINLT----YILEADENEQLVVKP----------------------------------D
+ENSGVRWIPVDE--------------VCKINEEYMMHPIFKKIIERAQKMF---------
+--------------
+>tr|E2RU85|E2RU85_GIAIC Centrin OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_6744 PE=4 SV=1
+---------------------------MARKPNARS--------TEPDLTEEQK-----H
+EIREAFD-LFDSDG-----------------------------------SGRIDVKELK-
+------------------------------------------------------------
+---VAMRAL-----------GF--EPKREELKRM---I-------AEVDTSGSGM-----
+--IDLNDF--------------FRIMTAK------------MAERDSREEILKAFRLFDE
+DDTGKISFKNLKKVAKELGEN-------------LTDEEIQEMIDEAD----RDGDGEIN
+EEEFLRIMRRTSLY
+>tr|Q8SWM0|Q8SWM0_ENCCU Similarity to the THIOREDOXIN family OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=ECU01_0720 PE=4 SV=1
+-------MPAGHEDIGLPQDDEAFMRYRERRIQELCGKVEEVVSEKELI---EK-TKSLR
+MIVHFYK------------PEFKRCKTMD--------------------KGLEEVKDCF-
+------------------------------------------------------------
+-PGIRFYRVNAEI------CPVVARKLEIRVLPFLGFF-----------KDGYFVD----
+QVVGFE----K-LGGDSVEPEVLKKR-------------------------------ILD
+SN------------------------------------IFKPISSI--------------
+--------------
+>tr|G7PPG6|G7PPG6_MACFA Hepatitis delta antigen-interacting protein A OS=Macaca fascicularis OX=9541 GN=EGM_05412 PE=4 SV=1
+------------------------------------------------------------
+---------MEAKA-----------------------------------GGPEEVTDEEX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXX----------------PRGGPGGAG-------------GSGAGPA------
+--PEL------ALP-PC-------------------------GPRDLGDGSSSTGS----
+-----VGSPDQLPLACSPDD----------------------------------------
+--------------
+>sp|P11747|TAF13_YEAST Transcription initiation factor TFIID subunit 13 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=TAF13 PE=1 SV=2
+---------------------------MSRKL------------KKTNLFNK--------
+---DVSS-LLYAYGDV---PQPLQA-TVQCLDELVS-------------GYLVDVCTNA-
+--------------------------------------------FHTAQNSQRNKLRLE-
+--DF---KF-----------ALRKDPIK--------------------------------
+------------LGRAEELIATNKLITE--------------AKKQFNETD---------
+NQNSLKRYREEDEEGDEMEEDEDEQQVTDDDEEAAGRNSAKQSTDSKATKIRKQGPKNLK
+KTKK----------
+>tr|Q7RYP4|Q7RYP4_NEUCR DNA-directed RNA polymerase I and III polypeptide OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=NCU00419 PE=4 SV=1
+---------------------------MGKITKFGD--------EGEEVTMKET--PTSH
+QPEAQDD-VSMADA-----------------------------------GEEGEEGDEE-
+---------------------------------------------------------YEE
+GEGTKVRLL----------------PGSTPTAASFEFL-------DENHTLGNALRYVIM
+KNPDVE-FCAYAIPHPSEAKMNVRIQTYEG---TTAVEALRKGLRDIQDLCDVVSDKFLE
+---ARKDFTDKKAAASA-------------------------------------------
+--------------

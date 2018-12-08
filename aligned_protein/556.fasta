@@ -1,0 +1,108 @@
+>sp|P14275|CB2C_SOLLC Chlorophyll a-b binding protein 1C, chloroplastic (Fragments) OS=Solanum lycopersicum OX=4081 GN=CAB1C PE=3 SV=1
+---MAAATMA----------------------------------------LSSPSFAGQ-
+------AVKLSPSASEISG----NGRITMRKAVAKSAPSSSPWXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXSLVHAQSIL----------------------------
+-----------------AIWACQVVLMGAV---EGYRIAGGPLGEVVDPLYPGGSFDPLG
+LAEDPE-------------------AFAELKV---KEIKNGRL--------AMFSMFGFF
+VQAIVTGK---------------GPLENLADHLADPVNNN--------------------
+---------------AWAFATNFVPGK-------------
+>tr|D3AXK3|D3AXK3_POLPP Glutaredoxin OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=PPL_00834 PE=3 SV=1
+---MSVGY-----------------------------------------------TGRF-
+------LVGGLHS-----------TNIVRENGVRSFSRYYSS------------------
+------------------------------------------------------------
+--------------------------VKDEYQKKI-------------------------
+--AD-------------QVKEFPCVLYMK------------------------------G
+TPERPMCGFSNTVIRILEAEGA---TFKSHNVLEDDDLREN-I--------KSFSNWPTI
+PQVYIKGE-FVGGADIMMNMYKTGELSKMLEDA--------GVVEKQ-------------
+----------------------------------------
+>tr|Q59PW1|Q59PW1_CANAL Monothiol glutaredoxin OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=orf19.2782 PE=4 SV=1
+------------------------------------------------------------
+---------MFRR-----------SLLSTSRFINKSSSSLSPGLLLNNF-----------
+------------------------------------------------------------
+----------------R-GNFQQSRFISTELKDAL-------------------------
+--DK-------------AVTTSPVVLFMK------------------------------G
+TPEFPQCGFSRATIQILGQQGVDPEKFAAYNVLEDSELREG-I--------KEYSSWPTI
+PQLYVNGE-FIGGCDIITSMAQNGELAELLEESNALIPEE----NEPTTSEENQET----
+-VQSANIKPNRN----------------------------
+>tr|Q9BLE6|Q9BLE6_ENTHI Rab family GTPase OS=Entamoeba histolytica OX=5759 GN=EhRabF5 PE=2 SV=1
+---MTQ-------------------------------------DAVKLCIIGDSGVGKTC
+ISSRLVDGTFKSDEKSTIGASFVTTNIENSK-IVIWDTAGQEKYRS--------------
+------------------------------------------------------------
+-------------MVGMYYRGASGAIIVYDITSRA-------------------------
+--TFVDLDAWHADLMKTATDDIVLCIVGNKSDLEASRQVS-------------------T
+DEGKEFASKKNA--MFYEVSAMNGKNVTELF----TEITRK-I-------------KSSQ
+PQKPQGGL------------SSSDN-INVATVSTQPTKKK-GFC----------------
+----------------------------------------
+>tr|Q9XTU9|Q9XTU9_CAEEL Glutaredoxin OS=Caenorhabditis elegans OX=6239 GN=glrx-5 PE=1 SV=1
+------------------------------------------------------------
+------MLRVLSR-----------QAFSMVRAANFSASASSAGGGG--------------
+------------------------------------------------------------
+--------------------------LSDEVRKRI-------------------------
+--DG-------------IVKKDDVVVFMK------------------------------G
+TQQEPACGFSRNVKLVLDFHNV---KFQDYNVLTDQELREG-V--------KIFSEWPTI
+PQVYVKGE-FVGGCDILISMHKDGEISDFLDEK--------GISNKYGKQ----------
+----------------------------------------
+>sp|Q555C8|GLRX5_DICDI Monothiol glutaredoxin-5, mitochondrial OS=Dictyostelium discoideum OX=44689 GN=grx5 PE=3 SV=1
+---MN-SYLF--------------------------------------------RIGSK-
+------TSGFLRS-----------TQF-----VRSYSKHVKS------------------
+------------------------------------------------------------
+----------------------------ESYKKAL-------------------------
+--EDV----------ETQVAESPCILYMK------------------------------G
+IPERPECGFSNTAVRILQAEGA---VFTSYNVLKNNDMREA-V--------KEFGDWPTI
+PQLYVKGQ-FIGGADILMGLYKSGELSKLLNEA--------GVVKKDE------------
+----------------------------------------
+>tr|A2G864|A2G864_TRIVA p270-related protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_114980 PE=4 SV=1
+---MTQWKKPKTSSPISXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXFEERTGKF-
+------EYKFYEDQ------SYIPLPEKNVKEISSGSSTSSKKLLA--------------
+------------------------------------------------------------
+-------------DDGKTYQLTIPAPKIDEIRDSE-------------------------
+-------EAKLRIRTAQSDEQPPSNVFSKEIKLEKTKYVS-------------------G
+EQPNPTSSPSK--------GGLSGGQIVGIV----FAVLLG-IVIIVLIVYFIFCKKPSN
+DRSSSDMK------------EDSGSGVYV-------------------------------
+----------------------------------------
+>tr|A8B7C1|A8B7C1_GIAIC Glutaredoxin-related protein OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_2013 PE=4 SV=1
+MDQIN-GGLFPKALALTRYASRG--------------------LILGIISAAGAELENQ-
+------LAGFLTRRY--------PRSLFLPNAQNSVSRFLMPVCAPLATVSRGL------
+------------------------------------------------------------
+---------------ERTSDLNATLAQSESIKQEL-------------------------
+--KMFILP-----QIRELLAENPVVLFMK------------------------------G
+TPDSPECGFSKFASMLLKYNNI---SFVGVDVLDDPALRQG-I--------KLYGNWPTI
+PQLYVKGE-LIGGSDIIQQLHESGELRKVC-----------GLPD---------------
+----------------------------------------
+>tr|Q8SSI0|Q8SSI0_ENCCU 26S PROTEASOME BETA SUBUNIT, theta chain OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=ECU02_0340 PE=4 SV=1
+---MSDTETF---------------------------------------------YGGS-
+------ILAMASSKG---------VAIMCDKRLGMSSITVSKDFTRIHRIGPRLY-----
+------------------------------------------------------------
+--------------VGLPAFVPDTQVLLRKIRKNY-------------------------
+--NLFRLEHQREMEPEELSSMISFLLYSK-------------------------------
+-RETP------------------------------------------------YITAPIV
+AGLTSDGKPYISGMDCIGSIASPGDFVAVGTADKNLM----GICEALYRPDMDEENLFVT
+CVQAFLNAIDRDALSGWG-ADCYVIGKNKVTKRSIKGRCD
+>tr|G7PPG6|G7PPG6_MACFA Hepatitis delta antigen-interacting protein A OS=Macaca fascicularis OX=9541 GN=EGM_05412 PE=4 SV=1
+---------------------------------------------------MEAKAGG--
+-------------------------PE---------------------------------
+------------------------------------------------------------
+-----------------------------EVTDEEXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------X
+XXXXPRGGP-----------GGAGGSGAGPA----PELAL----------------PPCG
+PRDLGDGS------------SSTGS---VGSPDQLPLA-----CSPDD------------
+----------------------------------------
+>sp|Q02784|GLRX5_YEAST Monothiol glutaredoxin-5, mitochondrial OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=GRX5 PE=1 SV=1
+------------------------------------------------------------
+---------MF---------------LPKFNPIRSFSPILRAKTLL--------------
+------------------------------------------------------------
+-------------------RYQNRMYLSTEIRKAI-------------------------
+--ED-------------AIESAPVVLFMK------------------------------G
+TPEFPKCGFSRATIGLLGNQGVDPAKFAAYNVLEDPELREG-I--------KEFSEWPTI
+PQLYVNKE-FIGGCDVITSMARSGELADLLEEAQALVPEE----EEETKDR---------
+----------------------------------------
+>tr|Q1K6V6|Q1K6V6_NEUCR Monothiol glutaredoxin-5 OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=NCU04098 PE=4 SV=1
+------------------------------------------------------------
+---------MLTR-----------SLFSRQLFAAASRPAIAPKAVSSAF-----------
+------------------------------------------------------------
+----------------RPVLFYQNRFLSDATRQAI-------------------------
+--DK-------------AVASAPVVLFMK------------------------------G
+TPETPQCGFSRASIQVLGLQGVDPNKFAAFNVLEDAELRQG-I--------KEYSDWPTI
+PQLYIDKE-FVGGCDIIVSMHQNGELAKLLEEKDVLVKGEEGAAEEQTEKKE--------
+----------------------------------------

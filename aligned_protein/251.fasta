@@ -1,0 +1,108 @@
+>sp|Q2MI96|NDHK_SOLLC NAD(P)H-quinone oxidoreductase subunit K, chloroplastic OS=Solanum lycopersicum OX=4081 GN=ndhK PE=3 SV=3
+------------------------------------------MNS---------------
+----IQFPLLD-----RTAPNSVIS---TTLN---DLSNW----------SRLSSLWPLL
+YGTSCCFIEF------------------------ASLIGSRFDFDRY------GLVPRSS
+-----------PRQSDLILTAGTVTMKM---------------APSLVRLYEQM------
+------------------------------------------------------------
+--PEPKYVIAMGA----CTITGGMFSTDSYSTVRGVDKLIPVDVYLPGC-PPKPEAVIDA
+ITKL-RKKI--SRELYEDRIRSQRANRCFTTNHKFHVRRSIHTGNYDQRVLYQPPSTSEI
+PTEIFFKYKNSVSSAELVN
+>tr|D3BQU8|D3BQU8_POLPP NADH-ubiquinone oxidoreductase 20 kDa subunit OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=ndufs7 PE=3 SV=1
+-------------------------------MAQAGQHLSKLLAS-----SFKAAP----
+-------------------PSSVPEIVISKLD---GLVNW----------ARTGSLWPMT
+FGLACCAVEM------------------------MHGYAARYDLDRF------GIIPRAS
+-----------PRQSDCIIVAGTLTNKM---------------APALRKVYDQM------
+------------------------------------------------------------
+--PLPRYVISMGS----CANGGGYYHY-SYSVVRGCDRIIPVDVYIPGC-PPTAEAFVYG
+VLQL-QKKI--NRE-------------------------------QALLTWWRK------
+-------------------
+>tr|Q5ADP7|Q5ADP7_CANAL Fesur1p OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=FESUR1 PE=3 SV=1
+MYSLSKRTLFQQLNKRISSTTTSSTIIPLSSLSSSSHISTRRYVSTKEL-TPQTLP----
+----TDFPLMS-----EKKATNAADYVLTSLD---MIANW----------ARKSSFWPVT
+FGLACCAVEM------------------------MHVSAPRYDQDRL------GIIFRAS
+-----------PRQSDIMIVAGTLTNKM---------------APALRQVYDQM------
+------------------------------------------------------------
+--PDPKWVISMGS----CANGGGYYHY-SYSVVRGCDRVIPVDIYVPGC-PPTAEALMYG
+VFQL-QKKM--MKT-------------------------------RITRLWYRS------
+-------------------
+>tr|C4M6M3|C4M6M3_ENTHI Ubiquitin-conjugating enzyme family protein OS=Entamoeba histolytica OX=5759 GN=CL6EHI_147470 PE=3 SV=1
+----------------------------------MSGLAIQRLTEERRL-----------
+--------------WRREHPPGFIARPRTTKEGTPDLLTWDCGIPGAKGTEWEGGIYPLT
+MEF-------------------------------TEEYPTRPPKCRFP----KGFYHPNI
+Y----------P--------SGTVCLSI---------------------LNEEQ------
+------------------------------------------------------------
+-----DWRPSIS----------------VKQILLGIQELLNTPNTLS---PAQPDAF---
+------KDITNNKELYHSKVQKQRIQ-------------------YDQEKFTL-------
+-------------------
+>sp|Q94360|NDUS7_CAEEL Probable NADH dehydrogenase [ubiquinone] iron-sulfur protein 7, mitochondrial OS=Caenorhabditis elegans OX=6239 GN=nduf-7 PE=3 SV=1
+---------------------------MLSALRTAGAVGTRRLASTQAIASNSEAPKGIA
+T---TGTPFL--------NPSSKAEYALARLD---DVLNL----------AQRGSIWPLT
+FGLACCAVEM------------------------MHFAAPRYDMDRY------GVVFRAS
+-----------PRQADLIFVAGTVTNKM---------------APALRRIYDQM------
+------------------------------------------------------------
+--PEAKWVISMGS----CANGGGYYHY-AYSVLRGCDRVIPVDIYVPGC-PPTAEALLYG
+VLQL-QKKI--KRK-------------------------------REAQLWYRR------
+-------------------
+>sp|Q54NI6|NDUS7_DICDI NADH dehydrogenase [ubiquinone] iron-sulfur protein 7, mitochondrial OS=Dictyostelium discoideum OX=44689 GN=ndufs7 PE=3 SV=1
+-------------------------------MAHNAQHLSKLLAS-----SFKQAP----
+-------------------PNTLPEVVISKID---GLVNW----------ARTGSLWPMT
+FGLACCAVEM------------------------MQGYAARYDMDRF------GVIPRAS
+-----------PRQSDCIIVAGTLTNKM---------------APALRKVYDQM------
+------------------------------------------------------------
+--PNPRYVVSMGS----CANGGGYYHY-SYSVVRGCDRIIPVDVYIPGC-PPTAEAFVYG
+ILQL-QKKI--GRE-------------------------------QNLLTWWRK------
+-------------------
+>tr|A2G864|A2G864_TRIVA p270-related protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_114980 PE=4 SV=1
+------------------------------------------------------------
+------------------------------------MTQW----------KKPKTSSPIS
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXFEERTGKFE---Y------KFYEDQS
+Y-------IPLPEKNVKEISSGSSTSSKKLLADDGKTYQLTIPAPKIDEIRDSE------
+--------------------------EAKLRIRTAQSDEQPPSNVFSKEIKLEKTKYVSG
+EQPNPTSSPSKG------GLSGGQIVGIVFAVLLGIVIIVLI-VYFIFCKKPSND-----
+------------RSSSDMKEDSGSG---------------VYV-----------------
+-------------------
+>tr|A8BL21|A8BL21_GIAIC Ser/Thr protein kinase OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_93800 PE=4 SV=1
+------------------------------------------MRA-----AYGGHP----
+--ECVKFLLKREGGKRRNNGTTALMYA-----------------------ARRGKLESVQ
+LLL-------------------------------EREGGMKTDDGKT------ALMYAAQ
+YGRRECAEALLDKEGGMRANSGWTALMH--AADNGC-------SDCVRLLVDKE------
+----------------------------------------------------------DG
+MKTNNGWTALMH------AAQGGHLE--CARLLMDKEKGMQTTREWLGF-PPGTTAL---
+-------DI--ARRHGHDAIASLLE-----------------------------------
+-------------------
+>tr|Q8SSB5|Q8SSB5_ENCCU GTP-BINDING ADP RIBOSYLATION FACTOR (ARF) OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=ECU03_0470 PE=3 SV=1
+------------------------------------MYFSRIVRSIKKE-----------
+-RSQLRILVLGL----DNAGKTTILHKLLG--------------------KPTERVHP-T
+FGYQIHDVVYKAHSLIVLDIG-------------GQSVFVEYWSSYYEDVDGVVFVFDSS
+D----------RRSFAEHIGHIR-----SALVD----------TPML-ILANKSDL----
+------------------------------------------------------------
+---NPTFNAE---------SLGSDL----------CELLKKSDVRLVKCCGVSGDGLEAG
+FDWILGKSM--RRLVSEAEKETAEAL-------------------QGQVL----------
+-------------------
+>tr|G7PPG6|G7PPG6_MACFA Hepatitis delta antigen-interacting protein A OS=Macaca fascicularis OX=9541 GN=EGM_05412 PE=4 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------------MEAKAGG-------------------
+-----------PE-----------------------------------EVTDEEXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXPRGGP---------GGAGGSGAGPAPELAL----------------PPCGP-----
+------------RDLGDGSSSTGS------------------VGSPDQLPLACSPDD---
+-------------------
+>sp|P20606|SAR1_YEAST Small COPII coat GTPase SAR1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SAR1 PE=1 SV=1
+-----------------------------MAGWDIFGWFRDVLASLGLW-----------
+-NKHGKLLFLGL----DNAGKTTLLHMLKN--------------------DRLATLQP-T
+WHPTSEELAIGNIKFTTFDLG-------------GHIQARRLWKDYFPEVNGIVFLVDAA
+D----------PERFDEARVELDALFNIAELKD----------VPFV-ILGNKIDA----
+------------------------------------------------------------
+--PNAVSEAELRSALGLLNTTGSQR----------IE--GQRPVEVFMCSVVMRNGYLEA
+FQWL------------------------------------------SQYI----------
+-------------------
+>sp|O47950|NDUS7_NEUCR NADH-ubiquinone oxidoreductase 19.3 kDa subunit, mitochondrial OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=G17A4.170 PE=2 SV=1
+MMSSVRTGASMALRAR-----PTAQIVPFRAAAVASISSSSRKDATGAV-APAGAQHGIA
+RRERREVPLPS-----QEGTKGAVQYALTTLD---SIVNW----------ARQSSLWPMT
+FGLACCAVEM------------------------MHLSTPRYDQDRL------GIIFRAS
+-----------PRQSDVMIVAGTLTNKM---------------APALRQVYDQM------
+------------------------------------------------------------
+--PDPRWVISMGS----CANGGGYYHY-SYSVVRGCDRIVPVDIYVPGC-PPTSEALMYG
+IFQL-QRKM--RNT-------------------------------KITRMWYRK------
+-------------------

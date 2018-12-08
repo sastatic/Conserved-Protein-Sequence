@@ -1,0 +1,72 @@
+>tr|K4AX21|K4AX21_SOLLC Acyl carrier protein OS=Solanum lycopersicum OX=4081 GN=101264756 PE=3 SV=1
+------MASVTGSSFAISSLSSSF------------------------------------
+----------------------------------NPNKACLKTSSLSI-------KGISF
+PSLRVKPATRR------------------------FSISCAAKPETVDKVCEIVK--KQL
+ALPSDSAVNGESKFIALGADSLDTVEIVMGLEEAFGITVEEENAQTIATVQDAADLIEDL
+VAKKC----------------
+>tr|D3B6I2|D3B6I2_POLPP Thioredoxin OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=trxE PE=4 SV=1
+------------MV--YQEPKNGADLAAIINK-GGKLIIYYTATWC--------------
+----------------------------------GPCRMMAKPFSDLSDQY----QGITF
+IKADI---------------------------DACSEYPPVANISGVPAFFGYN------
+---GTTLIG-----NFAGANQNSLKD----------------------------------
+LCNKV------QSA-------
+>tr|Q5A937|Q5A937_CANAL Mitochondrial 37S ribosomal protein RSM27 OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=orf19.3297 PE=4 SV=1
+------MSV-------LKVLPSKARLAEVRKTSFKI----FDQFWN--------------
+-----------------------------PNAKRNPNKILRAPL----------------
+--------------------------------KGPEYVKYYGDNNAVPTFKDFKKWFPQL
+KLVDPREAHR----VFIVADRKRRNK---------G------------------------
+APKKKKQ--------------
+>tr|C4LYR0|C4LYR0_ENTHI Thioredoxin OS=Entamoeba histolytica OX=5759 GN=CL6EHI_004490 PE=3 SV=1
+------------MA--VLHINALDQLTALLST-EKVIVIDFFATWC--------------
+----------------------------------GPCRSISPYFEELAGQY----NNIKF
+VKVDV---------------------------DQAEEICVNYKVRSMPTFVLVK------
+---DGIEQK-----RFSGADRNALKQ----------------------------------
+MVETA----------------
+>tr|O61985|O61985_CAEEL ThioRedoXin [see also xtr] OS=Caenorhabditis elegans OX=6239 GN=trx-5 PE=4 SV=2
+------MDILAGMK--LEKLDKSLVDANEALA-GKIVGIYFSAHWC--------------
+----------------------------------GPCRNFTPVLKDFYEEVQD-DFEIVF
+ASSDQSESDLKNYM----EECHGNWYYIPFGNDAEEKLSTKYDVSTIPTLIFLK------
+--PDGTEVTRYGR-KDVEVGRKNPKE----------------------------------
+IVAKCLK--------------
+>sp|Q558X5|CSBC_DICDI Contact site B protein C OS=Dictyostelium discoideum OX=44689 GN=csbC PE=3 SV=1
+------------MA----------------------------------------------
+------------------------------------------------------ELKITL
+INEDGES-------------------TI----SGKAHPAPTPRILPTPYFMSFTEYKIEG
+KLWDKKEFHIKSGKIEFNGKEFDIPESQ-------GTWIKD-NVEII---------IRIF
+LSQQANK--------PFSLDF
+>tr|A2FYI9|A2FYI9_TRIVA Thioredoxin-related protein OS=Trichomonas vaginalis OX=5722 GN=TVAG_411700 PE=4 SV=1
+------MNVAHPSV--IKFNGSLKDLSSLIHSHDGLTVLDIDASWC--------------
+----------------------------------PCCRRISKMLPIFAKEH----PDVQI
+IRVDG---------------------------DINPEIKTYFGVEHIPSLKFIK------
+---SNKHLDPID--TIVGVDIPLIKEK--------------------------------L
+LLHR-----------------
+>tr|A8BMJ0|A8BMJ0_GIAIC Ribosomal protein L7Ae OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_11287 PE=1 SV=1
+------MQI-DPRAIPFANEELSLELLNLVKH----------------------------
+---------------------------------GASLQAIKRGANEALKQVNRGKAELVI
+IAADADP--------------------I----EIVLHLPLACEDKGVPYVFIGSK--NAL
+G-------------RACNVSVPTIVASI-GKHDALGNVVAE-------------------
+IVGKVEALV------------
+>tr|Q8SRX2|Q8SRX2_ENCCU SORTING NEXIN GRD19 HOMOLOG OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=ECU05_0840 PE=4 SV=1
+MEEKSVLEITIPGSRNVQNKYTEYEVVCVTNS----------------------------
+-------------------------------------RSFRKCYTKVFRRYSD------F
+HRLHC---RLKYLMKVLPEFPRKRW-------NKMSREVVEERVRMLTVYMRFV------
+--CDQLLRSREGV-EKIEADIVAFIQ----------------------------------
+----------GRSSVPET---
+>tr|G7PPG6|G7PPG6_MACFA Hepatitis delta antigen-interacting protein A OS=Macaca fascicularis OX=9541 GN=EGM_05412 PE=4 SV=1
+------MEAKAGGPEEVTDEEXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXPRGGPGGAGGSGAGPA-------------
+PELALPPCGPRDLG------------------DGSSSTGSVGSPDQLPLACS--------
+--PDD-------------------------------------------------------
+---------------------
+>sp|P22803|TRX2_YEAST Thioredoxin-2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=TRX2 PE=1 SV=3
+------------MV--TQLKSASEYDSALASG-DKLVVVDFFATWC--------------
+----------------------------------GPCKMIAPMIEKFAEQY----SDAAF
+YKLDV---------------------------DEVSDVAQKAEVSSMPTLIFYK------
+---GGKEVT-----RVVGANPAAIKQ----------------------------------
+AIASNV---------------
+>sp|P42115|THIO_NEUCR Thioredoxin OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=trx PE=3 SV=1
+------------MSDGVKHINSAQEFANLLNT-TQYVVADFYADWC--------------
+----------------------------------GPCKAIAPMYAQFAKTFSI-PNFLAF
+AKINV---------------------------DSVQQVAQHYRVSAMPTFLFFK------
+---NGKQVAVNGSVMIQGADVNSLRA----------------------------------
+AAEKMGRLAKEKAAAAGSS--

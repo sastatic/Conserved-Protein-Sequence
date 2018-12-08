@@ -1,0 +1,108 @@
+>tr|K4AYS6|K4AYS6_SOLLC Cyclin OS=Solanum lycopersicum OX=4081 GN=101251921 PE=3 SV=1
+-----MAELEIQN-----------QNLMPKL------IDYLSSLLQR-----VAEANDI-
+-----NGRF-QPQKISVFHGLTRPNISI--QSYL----ERIFKYANCSPCCFVVAYVYLD
+R---FTQCQPSLP---INSFNIHRLLITS--VMIAAKFMDDMYYNNAY----YAKVGGIS
+ITEM------------NFLEVDFLFGLGFHLNVTP--------------TTFQT---YCA
+YLQKEMLM----------------------------------------------------
+------------------------QSPPMNFEDSSL--FIGRSPKLQYIC-----FNED-
+ESSSQQQQLVV-------------------------------------------------
+-
+>tr|D3BU60|D3BU60_POLPP ATP synthase F1 delta OS=Polysphondylium pallidum (strain ATCC 26659 / Pp 5 / PN500) OX=670386 GN=atp5D PE=3 SV=1
+-----MFKNFIGR-----------TSGLVR-----------SSMINNN-NSYITK-----
+------RTFASEGAAVNADDLLSFSFMVPHQILFKNKKVQMLTLPG--------------
+------------------ARGVFGVLKNH--IPKIAELKPGV-----------VQVHHES
+------------------GDVDKYFISGGFAFINP---------------DASC---YIN
+AVEAVPVD----------------------------------------------------
+------------------------Q--------------LDANEVKNGLARYTQLYNEAS
+DEAAKATALIGLE--------------------------AHQQMAYACGVSL--------
+-
+>tr|A0A1D8PTD8|A0A1D8PTD8_CANAL Thiosulfate sulfurtransferase OS=Candida albicans (strain SC5314 / ATCC MYA-2876) OX=237561 GN=CAALFM_CR07020WA PE=4 SV=1
+------MFAFKKS-----------TTSILKTVV--------AP-----------------
+---------------------------------------------------------TSS
+RYLSTVTL-RSIPRTFHNATKV--SLFNG--LRTTPRFYSVLTESPEAKVYKYADVKDVA
+-----------------------VHPENHPDSVL------------------------VD
+VREPTEFG----------------------------------------------------
+---------DGHIP----------GALNIPFKSSPGALDLPEEDFQEHFGF---------
+PKPSTDKELIFYCLGGVRSTAAEE---LANTFGYK------KRGNYLGSWEDWVKHENKK
+N
+>tr|Q5NSY1|Q5NSY1_ENTHI Rab family GTPase (Fragment) OS=Entamoeba histolytica OX=5759 GN=EhRabX35 PE=4 SV=1
+MTSNKQIKVTLVG-----------ESSVGK-----------SSICNV-----ISK-----
+------GVF-EKTSATIGAEFIKFNRTYKEQQVL----VSLFDTSG------------EE
+R---YHSIPQSYY---RKSNAV--IMVYD--ISRKETFEQLEYWLND--------VKGNC
+-------------------EIDTIICVGNKIDL-------------------ER---AVS
+KEDALEFA----------------------------------------------------
+------------------------RRHSLIYTETSAKTFEGVEDLVNEMIAAVMESNQKD
+ETISSNENLHIED-------------------------ISSQQTSYGCC-----------
+-
+>tr|O17599|O17599_CAEEL RAP homolog (Vertebrate Rap GTPase family) OS=Caenorhabditis elegans OX=6239 GN=rap-2 PE=1 SV=2
+---MREFKVVVLG-----------SGGVGK-----------SALTVQ-----FVS-----
+------STFIEKYDPTIEDFYRK-EIEVDGQPSV----LEILDTAG------------TE
+Q---FSSMRDLYI---KNGQGF--VVVYS--ITSQQTFHDIRNMKEQI-----VRVKGSE
+-------------------NV-PILLVGNKCDL-----------------SHQR---QVR
+SEEGLALA----------------------------------------------------
+------------------------ESWSCPFTECSAKNNQNVNVTFAEIVREMN-YVQN-
+---KSRQ-------------------------------------SKSCCSLM--------
+-
+>sp|P32253|RASC_DICDI Ras-like protein rasC OS=Dictyostelium discoideum OX=44689 GN=rasC PE=2 SV=1
+--MSKLLKLVIVG-----------DGGVGK-----------SALTIQ-----LTQ-----
+------NQFIAEYDPTIENSYRK-QVNIDEEVYM----LDILDTAG------------QE
+E---YSAMRDQYI---RSGRGF--LIVYS--IISRASFEAVTTFREQI-----LRVKDLS
+-------------------TY-PIVIIGNKADLP----------------DKDR---KVP
+PMEGKELA----------------------------------------------------
+------------------------KSFGAPFLETSAKSRVNVEEAFFTLVREIKRWNQN-
+---PQNEEM--------------------------------LPPKKRGCIIL--------
+-
+>tr|A2DA38|A2DA38_TRIVA Golgi apparatus membrane protein TVP23 homolog OS=Trichomonas vaginalis OX=5722 GN=TVAG_476150 PE=3 SV=1
+MENDNEKKDLILE----ANKKSPAEESSSRVLFMHISLNLAAPIILL----FLTFI----
+------PAFVRDLLALIS---LIPAIYFTHHTFS---WELV----G------IKCIIDKN
+Q-------QPSFPHFVYSSRSL--PFVAT--LANSNAFWLTLFISNVSF--LFALVKSLI
+SYEYFRILVLLAMEAANALSLQLLIICHGRTK----------------------------
+-TESDAVA----------------------------------------------------
+------------------------RNLLL-------------------------------
+DPHVEFQSVVXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXRWKACS----------
+-
+>tr|A8BK37|A8BK37_GIAIC VSP OS=Giardia intestinalis (strain ATCC 50803 / WB clone C6) OX=184922 GN=GL50803_10562 PE=4 SV=1
+---------MTGS-----------GQ---RSVS--------AP-----------------
+----------------------------------------VILLP------------VTG
+EHQEAFSL-HGLPCTADAMFAK--LIFTSLVLQLAEAIRPAEKSRSDNACGDLGTAGCAT
+CDSNS--------------GNKICLTCTDPAKFI-----------------------AVN
+KKSCKAAC----------------------------------------------------
+-------------------DANG-GEIEAPVVGSTKACKCDEDN-----GYTLQ--GDAC
+VIPNTNKS-SGLSTGAIAGIAVAAVIVVGGLVG------------FLCWW---FLCRGKA
+-
+>tr|Q8SUE1|Q8SUE1_ENCCU Adenylate kinase isoenzyme 6 homolog OS=Encephalitozoon cuniculi (strain GB-M1) OX=284813 GN=ECU10_0960 PE=3 SV=1
+------MKILVAG-----------TPGVGKTTF--------SSRI---------------
+--------------------------------------SEMFGIPH----------IEMS
+RYIEENNLYEEYSETY----KS--LLFDDRVVRKSLEMYVIGKDSYIVDTHSCGMVKGMS
+FD--------------------LIFLLTAPVEVLYKRLKKRGYDEDKIKENIECEIFGVV
+EEEVEEFF----------------------------------------------------
+------------------------GAGYYPVGEEEGKL----------------------
+-TPEEAIDVIGKKMNGTSATAAP-------------------------------------
+-
+>tr|G7PPG6|G7PPG6_MACFA Hepatitis delta antigen-interacting protein A OS=Macaca fascicularis OX=9541 GN=EGM_05412 PE=4 SV=1
+------ME-AKAG-----------GP----------------------------------
+------------------------------------------------------------
+---------EE-------------------------------------------------
+----------------------------------------------------------VT
+DEEXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXPRGGPGGAGGSGAGPAP----ELAL----------------------
+-PPCGPRD-LGDGSSSTGSVGSPDQLPLA------------------CSPDD--------
+-
+>sp|P40042|RRT13_YEAST Regulator of rDNA transcription protein 13 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=RRT13 PE=4 SV=1
+------MKCLYIL-----------SGHTDRIY---------STIYDHERKRCISASMDTT
+IRIWDLENIRNNGECSYATNSASPCAKILGAMYTLRGHRALVGLLG-----------LSD
+KFLVSASVDGSIRCWDANTYFL-KHFFDHTQLNTITALHVS----------DEVLVSGSE
+-------------------GLLNIYDLNSGLLVRSDTL-----------SGADN-VWNVS
+FKDNTLVA----------------------------------------------------
+-------------------AVERDKRNLLEILDFS-------------------------
+------------------------------------------------------------
+-
+>tr|Q7SDB0|Q7SDB0_NEUCR Ubiquitin conjugating enzyme OS=Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110 GN=pex4 PE=4 SV=1
+MSNRSAAKRLIKELTTWSNIESKEEKGVERL----------GPI----------------
+----------NDDELLI--------------------WEAVINGKG------VGGGYDEG
+RWLLHITLPPTYP---LHPPTI--KFITP--IVHANVALTTGEIC-------LDLLKEAW
+TPAY------SVLECVRA--IRLLLSCPGIDSPL----------------NVDV---AAL
+IRQGDHVA----------------------------------------------------
+------------------------ARGLV-------------------------------
+ELWVEEE-------------------------------------RYEGS-----------
+-
